@@ -1,0 +1,192 @@
+git reset --hard 000b15db7abe764d97430e00fde29c28452be96d SUCCESS!
+Target class: JimfsFileChannelTest    
+1 class(es) found
+Target method: testCloseByInterrupt
+Class path: jimfs/src/test/java/com/google/jimfs/internal/JimfsFileChannelTest.java
+
+Method found! 
+   public void testCloseByInterrupt() throws IOException, InterruptedException {
+
+git reset --hard 0b58f1bf262ae689918cf3418efe5969a1f8dd1d SUCCESS!
+Target class: JimfsFileChannelTest    
+1 class(es) found
+Target method: testCloseByInterrupt
+Class path: jimfs/src/test/java/com/google/jimfs/internal/JimfsFileChannelTest.java
+
+Method found! 
+   public void testCloseByInterrupt() throws IOException, InterruptedException {
+
+git reset --hard 2b16ca2f28b55c62c25b0d0ff6d23e8a74ba56ce SUCCESS!
+Target class: PollingWatchServiceTest    
+1 class(es) found
+Target method: testWatchForMultipleEventTypes
+Class path: jimfs/src/test/java/com/google/jimfs/internal/PollingWatchServiceTest.java
+
+Method found! 
+   public void testWatchForMultipleEventTypes() throws IOException, InterruptedException {
+
+git reset --hard 2b304c6c9b9acc86874156be1063efc46787f4d6 SUCCESS!
+Target class: JimfsAsynchronousFileChannelTest    
+1 class(es) found
+Target method: testAsyncClose_read
+Class path: jimfs/src/test/java/com/google/jimfs/JimfsAsynchronousFileChannelTest.java
+
+Method found! 
+   public void testAsyncClose_read() throws IOException, InterruptedException {
+
+git reset --hard 349a1e3d26c74faa8f8c99ad43fba115011162c8 SUCCESS!
+Target class: JimfsAsynchronousFileChannelTest    
+1 class(es) found
+Target method: testAsyncClose_write
+Class path: jimfs/src/test/java/com/google/jimfs/internal/JimfsAsynchronousFileChannelTest.java
+
+Method found! 
+   public void testAsyncClose_write() throws IOException, InterruptedException {
+
+git reset --hard 3abd95a268ae109c9a132377030d0911d2f0fb37 SUCCESS!
+Target class: JimfsFileChannelTest    
+1 class(es) found
+Target method: testCloseByInterrupt
+Class path: jimfs/src/test/java/com/google/jimfs/internal/JimfsFileChannelTest.java
+
+Method found! 
+   public void testCloseByInterrupt() throws IOException, InterruptedException {
+
+git reset --hard 438cf28d7e7e72a19ed5568ca8a39a628347fa41 SUCCESS!
+Target class: JimfsFileChannelTest    
+1 class(es) found
+Target method: testCloseByInterrupt
+Class path: jimfs/src/test/java/com/google/jimfs/internal/JimfsFileChannelTest.java
+
+Method found! 
+   public void testCloseByInterrupt() throws IOException, InterruptedException {
+
+git reset --hard 4424521158fb61f7f0044fcfb968e0a1490484d3 SUCCESS!
+Target class: JimfsFileChannelTest    
+1 class(es) found
+Target method: testAsynchronousClose
+Class path: jimfs/src/test/java/com/google/jimfs/internal/JimfsFileChannelTest.java
+
+Method found! 
+   public void testAsynchronousClose() throws IOException, InterruptedException {
+
+git reset --hard 62c0db7a7d057f4ace1a57fc002eba194e522bce SUCCESS!
+Target class: JimfsFileChannelTest    
+1 class(es) found
+Target method: testAsynchronousClose
+Class path: jimfs/src/test/java/com/google/jimfs/internal/JimfsFileChannelTest.java
+
+Method found! 
+   public void testAsynchronousClose() throws IOException, InterruptedException {
+
+git reset --hard 80a99d31a4d65ebd583c40255474bfa481ca0ff6 SUCCESS!
+Target class: JimfsAsynchronousFileChannelTest    
+1 class(es) found
+Target method: testAsyncClose_write
+Class path: jimfs/src/test/java/com/google/jimfs/internal/JimfsAsynchronousFileChannelTest.java
+
+Method found! 
+   public void testAsyncClose_write() throws IOException, InterruptedException {
+
+git reset --hard 99ea097a9f68349c4d0ba233f0a6f3b1e736ba7b SUCCESS!
+Target class: PollingWatchServiceTest    
+1 class(es) found
+Target method: testWatchForMultipleEventTypes
+Class path: jimfs/src/test/java/com/google/jimfs/internal/PollingWatchServiceTest.java
+
+Method found! 
+   public void testWatchForMultipleEventTypes() throws IOException, InterruptedException {
+
+git reset --hard b54ed4768c494acfc43a562aac2b889350823612 SUCCESS!
+Target class: PollingWatchServiceTest    
+1 class(es) found
+Target method: testWatchForMultipleEventTypes
+Class path: jimfs/src/test/java/com/google/jimfs/internal/PollingWatchServiceTest.java
+
+Method found! 
+   public void testWatchForMultipleEventTypes() throws IOException, InterruptedException {
+
+git reset --hard b5c378fa829cc42970841de3774181aa6822de09 SUCCESS!
+Target class: JimfsAsynchronousFileChannelTest    
+1 class(es) found
+Target method: testAsyncClose_read
+Class path: jimfs/src/test/java/com/google/jimfs/JimfsAsynchronousFileChannelTest.java
+
+Method found! 
+   public void testAsyncClose_read() throws IOException, InterruptedException {
+
+git reset --hard b5c378fa829cc42970841de3774181aa6822de09 SUCCESS!
+Target class: PollingWatchServiceTest    
+1 class(es) found
+Target method: testWatchForMultipleEventTypes
+Class path: jimfs/src/test/java/com/google/jimfs/PollingWatchServiceTest.java
+
+Method found! 
+   public void testWatchForMultipleEventTypes() throws IOException, InterruptedException {
+
+git reset --hard b5f9a54e83434f697e0910d37e9617e1dd6720bd SUCCESS!
+Target class: JimfsAsynchronousFileChannelTest    
+1 class(es) found
+Target method: testAsyncClose_read
+Class path: jimfs/src/test/java/com/google/jimfs/internal/JimfsAsynchronousFileChannelTest.java
+
+Method found! 
+   public void testAsyncClose_read() throws IOException, InterruptedException {
+
+git reset --hard bf9c938a99723877552a04c2aac155882c176b8c SUCCESS!
+Target class: JimfsAsynchronousFileChannelTest    
+1 class(es) found
+Target method: testAsyncClose_read
+Class path: jimfs/src/test/java/com/google/jimfs/internal/JimfsAsynchronousFileChannelTest.java
+
+Method found! 
+   public void testAsyncClose_read() throws IOException, InterruptedException {
+
+git reset --hard c8d06404ce478c31bab4aa6f25166e08ab57d3f7 SUCCESS!
+Target class: JimfsAsynchronousFileChannelTest    
+1 class(es) found
+Target method: testAsyncClose_read
+Class path: jimfs/src/test/java/com/google/jimfs/internal/JimfsAsynchronousFileChannelTest.java
+
+Method found! 
+   public void testAsyncClose_read() throws IOException, InterruptedException {
+
+git reset --hard c8d06404ce478c31bab4aa6f25166e08ab57d3f7 SUCCESS!
+Target class: JimfsAsynchronousFileChannelTest    
+1 class(es) found
+Target method: testAsyncClose_write
+Class path: jimfs/src/test/java/com/google/jimfs/internal/JimfsAsynchronousFileChannelTest.java
+
+Method found! 
+   public void testAsyncClose_write() throws IOException, InterruptedException {
+
+git reset --hard d640ee8adf258219b1b21dad3e3aa6498b3da69e SUCCESS!
+Target class: JimfsAsynchronousFileChannelTest    
+1 class(es) found
+Target method: testAsyncClose_read
+Class path: jimfs/src/test/java/com/google/jimfs/JimfsAsynchronousFileChannelTest.java
+
+Method found! 
+   public void testAsyncClose_read() throws IOException, InterruptedException {
+
+git reset --hard fbf304ef9758cdbf905bfba54ba4db711214342f SUCCESS!
+Target class: JimfsAsynchronousFileChannelTest    
+1 class(es) found
+Target method: testAsyncClose_read
+Class path: jimfs/src/test/java/com/google/jimfs/internal/JimfsAsynchronousFileChannelTest.java
+
+Method found! 
+   public void testAsyncClose_read() throws IOException, InterruptedException {
+
+git reset --hard fea1036820f5aafcd778c4e6b3918cd5b173d596 SUCCESS!
+Target class: JimfsAsynchronousFileChannelTest    
+1 class(es) found
+Target method: testAsyncClose_write
+Class path: jimfs/src/test/java/com/google/jimfs/internal/JimfsAsynchronousFileChannelTest.java
+
+Method found! 
+   public void testAsyncClose_write() throws IOException, InterruptedException {
+
+21 method(s) found (~100.0%).
+0 method(s) missing.
+Dataset updated with results.

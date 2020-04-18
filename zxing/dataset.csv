@@ -1,0 +1,16 @@
+Project,sha,class_,method,Found
+zxing,024a3539390ab2b2ab2db4beb4e6cb8f0efcc279,com.google.zxing.aztec.encoder.EncoderTest,testAztecWriter,1
+zxing,1a77226030fbf01340bc84f43aa4422342d106af,com.google.zxing.aztec.encoder.EncoderTest,testAztecWriter,1
+zxing,29556ee2b0b38db25b184034fd943767d9a47170,com.google.zxing.aztec.encoder.EncoderTest,testAztecWriter,1
+zxing,72d01241f95cd2b00b5466315b7916a14c01290f,com.google.zxing.pdf417.decoder.ec.ErrorCorrectionTestCase,testTooManyErrors,1
+zxing,7764a897325bdf4c78cc64077d82fb016f5603de,com.google.zxing.pdf417.decoder.ec.ErrorCorrectionTestCase,testTooManyErrors,1
+zxing,8e2e0bc94db5124a66d9673443eb491afbb0655a,com.google.zxing.aztec.encoder.EncoderTest,testAztecWriter,1
+zxing,9983ccc428acff6a83688ae0456828322607a143,com.google.zxing.pdf417.decoder.ec.ErrorCorrectionTestCase,testTooManyErrors,1
+zxing,ac9b79953f0a2cba9fa3173364bcd100666a2d7b,com.google.zxing.pdf417.decoder.ec.ErrorCorrectionTestCase,testTooManyErrors,1
+zxing,bd4536f077db704866f9313646304c8055a13e60,com.google.zxing.aztec.encoder.EncoderTest,testAztecWriter,1
+zxing,c1411513e55207f02445366ac09b808ba9465fc5,com.google.zxing.aztec.encoder.EncoderTest,testAztecWriter,1
+zxing,cce6d80637bcf80551b9791303f12f08be0094ef,com.google.zxing.aztec.encoder.EncoderTest,testAztecWriter,1
+zxing,cf6cbcd84a5472cb0183616d7de682de8ce9e7f1,com.google.zxing.pdf417.decoder.ec.ErrorCorrectionTestCase,testTooManyErrors,1
+zxing,da9d32846aa0e0989e4cfe678763a295ed977796,com.google.zxing.pdf417.decoder.ec.ErrorCorrectionTestCase,testTooManyErrors,1
+zxing,e5f11aa98c2814cd6f5645b4e7f4e787b32d1af3,com.google.zxing.pdf417.decoder.ec.ErrorCorrectionTestCase,testTooManyErrors,1
+zxing,fa6a0af316a6f251a8a9a25dc176d747bdca9bf6,com.google.zxing.aztec.encoder.EncoderTest,testAztecWriter,1

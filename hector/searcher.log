@@ -1,0 +1,714 @@
+git reset --hard 08a7004ed341de1ca150267d88972cadf7e17b7e SUCCESS!
+Target class: CassandraClusterTest    
+1 class(es) found
+Target method: testDescribeKeyspaces
+Class path: core/src/test/java/me/prettyprint/cassandra/service/CassandraClusterTest.java
+
+Method found! 
+   public void testDescribeKeyspaces() throws Exception {
+
+git reset --hard 0d805b1676ce85b3b166f125bb26bd9d48640f74 SUCCESS!
+Target class: CassandraClusterTest    
+1 class(es) found
+Target method: testDescribeKeyspaces
+Class path: core/src/test/java/me/prettyprint/cassandra/service/CassandraClusterTest.java
+
+Method found! 
+   public void testDescribeKeyspaces() throws Exception {
+
+git reset --hard 0fef6365cd16523a17e2ab13f8355ddf58934690 SUCCESS!
+Target class: TimeUUIDUtilsTest    
+1 class(es) found
+Target method: testTimeUUIDWithClockResolution
+Class path: core/src/test/java/me/prettyprint/cassandra/utils/TimeUUIDUtilsTest.java
+
+Method found! 
+   public void testTimeUUIDWithClockResolution() throws Exception {
+
+git reset --hard 1a1219b17071aa7c66daedea42b731f749da43d9 SUCCESS!
+Target class: CassandraClusterTest    
+1 class(es) found
+Target method: testDescribeKeyspaces
+Class path: core/src/test/java/me/prettyprint/cassandra/service/CassandraClusterTest.java
+
+Method found! 
+   public void testDescribeKeyspaces() throws Exception {
+
+git reset --hard 21f30dfb4401788ec0d09e573a5751019ca2b642 SUCCESS!
+Target class: TimeUUIDUtilsTest    
+1 class(es) found
+Target method: testTimeUUIDWithClockResolution
+Class path: core/src/test/java/me/prettyprint/cassandra/utils/TimeUUIDUtilsTest.java
+
+Method found! 
+   public void testTimeUUIDWithClockResolution() throws Exception {
+
+git reset --hard 24e8780517ae092ae9ff0ba7cf40900fc4a3fd9a SUCCESS!
+Target class: CassandraClusterTest    
+1 class(es) found
+Target method: testDescribeKeyspaces
+Class path: core/src/test/java/me/prettyprint/cassandra/service/CassandraClusterTest.java
+
+Method found! 
+   public void testDescribeKeyspaces() throws Exception {
+
+git reset --hard 2b3b8d13a0790ad543adc16d43a84be5f27ef187 SUCCESS!
+Target class: CassandraClusterTest    
+1 class(es) found
+Target method: testDescribeKeyspaces
+Class path: core/src/test/java/me/prettyprint/cassandra/service/CassandraClusterTest.java
+
+Method found! 
+   public void testDescribeKeyspaces() throws Exception {
+
+git reset --hard 2cbf7ecf3a35dabdb675bb0bde75a2c40a4e7483 SUCCESS!
+Target class: CassandraClusterTest    
+1 class(es) found
+Target method: testDescribeKeyspaces
+Class path: core/src/test/java/me/prettyprint/cassandra/service/CassandraClusterTest.java
+
+Method found! 
+   public void testDescribeKeyspaces() throws Exception {
+
+git reset --hard 33d7497bfaf8480125fbcc8770a08aa162b5f7e9 SUCCESS!
+Target class: TimeUUIDUtilsTest    
+1 class(es) found
+Target method: testTimeUUIDWithClockResolution
+Class path: core/src/test/java/me/prettyprint/cassandra/utils/TimeUUIDUtilsTest.java
+
+Method found! 
+   public void testTimeUUIDWithClockResolution() throws Exception {
+
+git reset --hard 33e87e02e331d334a3a0d5fbb7b97efc1125b467 SUCCESS!
+Target class: CassandraClusterTest    
+1 class(es) found
+Target method: testDescribeKeyspaces
+Class path: core/src/test/java/me/prettyprint/cassandra/service/CassandraClusterTest.java
+
+Method found! 
+   public void testDescribeKeyspaces() throws Exception {
+
+git reset --hard 33e87e02e331d334a3a0d5fbb7b97efc1125b467 SUCCESS!
+Target class: EntityManagerFactoryTest    
+1 class(es) found
+Target method: testCreateEntityManager
+Class path: object-mapper/src/test/java/me/prettyprint/hom/EntityManagerFactoryTest.java
+
+Method found! 
+   public void testCreateEntityManager() {
+
+git reset --hard 34180bf6a1045124c39fea54dcaf6273d067fbd4 SUCCESS!
+Target class: EntityManagerFactoryTest    
+1 class(es) found
+Target method: testCreateEntityManager
+Class path: object-mapper/src/test/java/me/prettyprint/hom/EntityManagerFactoryTest.java
+
+Method found! 
+   public void testCreateEntityManager() {
+
+git reset --hard 3b58262762f3d4f43b648c413de983873a982edf SUCCESS!
+Target class: CassandraClusterTest    
+1 class(es) found
+Target method: testDescribeKeyspaces
+Class path: core/src/test/java/me/prettyprint/cassandra/service/CassandraClusterTest.java
+
+Method found! 
+   public void testDescribeKeyspaces() throws Exception {
+
+git reset --hard 527b92b914f046a77db7b4bba6caeab7ec4dfde5 SUCCESS!
+Target class: CassandraClusterTest    
+1 class(es) found
+Target method: testDescribeKeyspaces
+Class path: core/src/test/java/me/prettyprint/cassandra/service/CassandraClusterTest.java
+
+Method found! 
+   public void testDescribeKeyspaces() throws Exception {
+
+git reset --hard 54cc4eaf3d6bc8846795c815f46ca68343f1daeb SUCCESS!
+Target class: CassandraClusterTest    
+1 class(es) found
+Target method: testDescribeKeyspaces
+Class path: core/src/test/java/me/prettyprint/cassandra/service/CassandraClusterTest.java
+
+Method found! 
+   public void testDescribeKeyspaces() throws Exception {
+
+git reset --hard 58f4d5a19babbcac424733c375d31e3d2af77cc2 SUCCESS!
+Target class: TimeUUIDUtilsTest    
+1 class(es) found
+Target method: testTimeUUIDWithClockResolution
+Class path: core/src/test/java/me/prettyprint/cassandra/utils/TimeUUIDUtilsTest.java
+
+Method found! 
+   public void testTimeUUIDWithClockResolution() throws Exception {
+
+git reset --hard 5c01dc5ee1d204188faccf159e8bc775ba4fc432 SUCCESS!
+Target class: TimeUUIDUtilsTest    
+1 class(es) found
+Target method: testTimeUUIDWithClockResolution
+Class path: core/src/test/java/me/prettyprint/cassandra/utils/TimeUUIDUtilsTest.java
+
+Method found! 
+   public void testTimeUUIDWithClockResolution() throws Exception {
+
+git reset --hard 5e6705207d35f28bce9a2e9e4e6426eb684e9aa1 SUCCESS!
+Target class: CassandraClusterTest    
+1 class(es) found
+Target method: testDescribeKeyspaces
+Class path: core/src/test/java/me/prettyprint/cassandra/service/CassandraClusterTest.java
+
+Method found! 
+   public void testDescribeKeyspaces() throws Exception {
+
+git reset --hard 5edb39ccc6b323dd4e6264ac3c0c514f965c43ba SUCCESS!
+Target class: CassandraClusterTest    
+1 class(es) found
+Target method: testDescribeKeyspaces
+Class path: core/src/test/java/me/prettyprint/cassandra/service/CassandraClusterTest.java
+
+Method found! 
+   public void testDescribeKeyspaces() throws Exception {
+
+git reset --hard 5edb39ccc6b323dd4e6264ac3c0c514f965c43ba SUCCESS!
+Target class: TimeUUIDUtilsTest    
+1 class(es) found
+Target method: testTimeUUIDWithClockResolution
+Class path: core/src/test/java/me/prettyprint/cassandra/utils/TimeUUIDUtilsTest.java
+
+Method found! 
+   public void testTimeUUIDWithClockResolution() throws Exception {
+
+git reset --hard 5f43b3a9f202c3a516220b1e067c11049a1afebb SUCCESS!
+Target class: CassandraClusterTest    
+1 class(es) found
+Target method: testDescribeKeyspaces
+Class path: core/src/test/java/me/prettyprint/cassandra/service/CassandraClusterTest.java
+
+Method found! 
+   public void testDescribeKeyspaces() throws Exception {
+
+git reset --hard 61aa002601bf0ac63c97735deda357576015c287 SUCCESS!
+Target class: EntityManagerFactoryTest    
+1 class(es) found
+Target method: testCreateEntityManager
+Class path: object-mapper/src/test/java/me/prettyprint/hom/EntityManagerFactoryTest.java
+
+Method found! 
+   public void testCreateEntityManager() {
+
+git reset --hard 6aa7e853ea06fb741536c038eb795075346062f9 SUCCESS!
+Target class: CassandraClusterTest    
+1 class(es) found
+Target method: testEditColumnFamily
+Class path: core/src/test/java/me/prettyprint/cassandra/service/CassandraClusterTest.java
+
+Method found! 
+   public void testEditColumnFamily() throws Exception {
+
+git reset --hard 6aa7e853ea06fb741536c038eb795075346062f9 SUCCESS!
+Target class: TimeUUIDUtilsTest    
+1 class(es) found
+Target method: testTimeUUIDWithClockResolution
+Class path: core/src/test/java/me/prettyprint/cassandra/utils/TimeUUIDUtilsTest.java
+
+Method found! 
+   public void testTimeUUIDWithClockResolution() throws Exception {
+
+git reset --hard 6ac711f34034bcbb774547f55f9f37f5157160ea SUCCESS!
+Target class: CassandraClusterTest    
+1 class(es) found
+Target method: testDescribeKeyspaces
+Class path: core/src/test/java/me/prettyprint/cassandra/service/CassandraClusterTest.java
+
+Method found! 
+   public void testDescribeKeyspaces() throws Exception {
+
+git reset --hard 6ac711f34034bcbb774547f55f9f37f5157160ea SUCCESS!
+Target class: TimeUUIDUtilsTest    
+1 class(es) found
+Target method: testTimeUUIDWithClockResolution
+Class path: core/src/test/java/me/prettyprint/cassandra/utils/TimeUUIDUtilsTest.java
+
+Method found! 
+   public void testTimeUUIDWithClockResolution() throws Exception {
+
+git reset --hard 6c6c8a67fb7b47516424b757fee2e2020ba10e3f SUCCESS!
+Target class: CassandraClusterTest    
+1 class(es) found
+Target method: testDescribeKeyspaces
+Class path: core/src/test/java/me/prettyprint/cassandra/service/CassandraClusterTest.java
+
+Method found! 
+   public void testDescribeKeyspaces() throws Exception {
+
+git reset --hard 6f43855ef94f5b3a011dad0f71f9b91c5573a625 SUCCESS!
+Target class: CassandraClusterTest    
+1 class(es) found
+Target method: testDescribeKeyspaces
+Class path: core/src/test/java/me/prettyprint/cassandra/service/CassandraClusterTest.java
+
+Method found! 
+   public void testDescribeKeyspaces() throws Exception {
+
+git reset --hard 77ecfd398f979761266a3a6b87cb237430324d97 SUCCESS!
+Target class: CassandraClusterTest    
+1 class(es) found
+Target method: testDescribeKeyspaces
+Class path: core/src/test/java/me/prettyprint/cassandra/service/CassandraClusterTest.java
+
+Method found! 
+   public void testDescribeKeyspaces() throws Exception {
+
+git reset --hard 79be5d08743e8646e5ca446a1871ccfbf68094c8 SUCCESS!
+Target class: TimeUUIDUtilsTest    
+1 class(es) found
+Target method: testTimeUUIDWithClockResolution
+Class path: core/src/test/java/me/prettyprint/cassandra/utils/TimeUUIDUtilsTest.java
+
+Method found! 
+   public void testTimeUUIDWithClockResolution() throws Exception {
+
+git reset --hard 7a2f60b1cc04149673f6881db9e5e21cbf8cafcf SUCCESS!
+Target class: TimeUUIDUtilsTest    
+1 class(es) found
+Target method: testTimeUUIDWithClockResolution
+Class path: core/src/test/java/me/prettyprint/cassandra/utils/TimeUUIDUtilsTest.java
+
+Method found! 
+   public void testTimeUUIDWithClockResolution() throws Exception {
+
+git reset --hard 7c427b534f45517a7bc99c4f9e49e660bf265bd0 SUCCESS!
+Target class: CassandraClusterTest    
+1 class(es) found
+Target method: testDescribeKeyspaces
+Class path: core/src/test/java/me/prettyprint/cassandra/service/CassandraClusterTest.java
+
+Method found! 
+   public void testDescribeKeyspaces() throws Exception {
+
+git reset --hard 7c427b534f45517a7bc99c4f9e49e660bf265bd0 SUCCESS!
+Target class: EntityManagerFactoryTest    
+1 class(es) found
+Target method: testCreateEntityManager
+Class path: object-mapper/src/test/java/me/prettyprint/hom/EntityManagerFactoryTest.java
+
+Method found! 
+   public void testCreateEntityManager() {
+
+git reset --hard 7cd6b774957932870475813ac9676efa3766293b SUCCESS!
+Target class: TimeUUIDUtilsTest    
+1 class(es) found
+Target method: testTimeUUIDWithClockResolution
+Class path: core/src/test/java/me/prettyprint/cassandra/utils/TimeUUIDUtilsTest.java
+
+Method found! 
+   public void testTimeUUIDWithClockResolution() throws Exception {
+
+git reset --hard 7cf2ede1f838277421dd5600cce266bd60f4fc02 SUCCESS!
+Target class: EntityManagerFactoryTest    
+1 class(es) found
+Target method: testCreateEntityManager
+Class path: object-mapper/src/test/java/me/prettyprint/hom/EntityManagerFactoryTest.java
+
+Method found! 
+   public void testCreateEntityManager() {
+
+git reset --hard 7e311021ec417f40ab667c3ecc24a714edcde6f6 SUCCESS!
+Target class: CassandraClusterTest    
+1 class(es) found
+Target method: testDescribeKeyspaces
+Class path: core/src/test/java/me/prettyprint/cassandra/service/CassandraClusterTest.java
+
+Method found! 
+   public void testDescribeKeyspaces() throws Exception {
+
+git reset --hard 80f0152d91dcf312380ba4aa6e6546b53206c4f4 SUCCESS!
+Target class: CassandraClusterTest    
+1 class(es) found
+Target method: testDescribeKeyspaces
+Class path: core/src/test/java/me/prettyprint/cassandra/service/CassandraClusterTest.java
+
+Method found! 
+   public void testDescribeKeyspaces() throws Exception {
+
+git reset --hard 80f0152d91dcf312380ba4aa6e6546b53206c4f4 SUCCESS!
+Target class: TimeUUIDUtilsTest    
+1 class(es) found
+Target method: testTimeUUIDWithClockResolution
+Class path: core/src/test/java/me/prettyprint/cassandra/utils/TimeUUIDUtilsTest.java
+
+Method found! 
+   public void testTimeUUIDWithClockResolution() throws Exception {
+
+git reset --hard 83f3664b535e5ffd3197c315f6ba5916e7a72b7b SUCCESS!
+Target class: TimeUUIDUtilsTest    
+1 class(es) found
+Target method: testTimeUUIDWithClockResolution
+Class path: core/src/test/java/me/prettyprint/cassandra/utils/TimeUUIDUtilsTest.java
+
+Method found! 
+   public void testTimeUUIDWithClockResolution() throws Exception {
+
+git reset --hard 83f3664b535e5ffd3197c315f6ba5916e7a72b7b SUCCESS!
+Target class: EntityManagerFactoryTest    
+1 class(es) found
+Target method: testCreateEntityManager
+Class path: object-mapper/src/test/java/me/prettyprint/hom/EntityManagerFactoryTest.java
+
+Method found! 
+   public void testCreateEntityManager() {
+
+git reset --hard 849a7345305b65ebb201350600c62fa6350d10cd SUCCESS!
+Target class: CassandraClusterTest    
+1 class(es) found
+Target method: testDescribeKeyspaces
+Class path: core/src/test/java/me/prettyprint/cassandra/service/CassandraClusterTest.java
+
+Method found! 
+   public void testDescribeKeyspaces() throws Exception {
+
+git reset --hard 85b5072e4e0726d6c2c2e62b5d9780ff0a4dd2ba SUCCESS!
+Target class: TimeUUIDUtilsTest    
+1 class(es) found
+Target method: testTimeUUIDWithClockResolution
+Class path: core/src/test/java/me/prettyprint/cassandra/utils/TimeUUIDUtilsTest.java
+
+Method found! 
+   public void testTimeUUIDWithClockResolution() throws Exception {
+
+git reset --hard 90dcd6a857c1454db4de0f53a1e02c28a7869c4a SUCCESS!
+Target class: CassandraClusterTest    
+1 class(es) found
+Target method: testDescribeKeyspaces
+Class path: core/src/test/java/me/prettyprint/cassandra/service/CassandraClusterTest.java
+
+Method found! 
+   public void testDescribeKeyspaces() throws Exception {
+
+git reset --hard 9138dcc31a67fd59c52a6ceba49b849b27ea83a3 SUCCESS!
+Target class: CassandraClusterTest    
+1 class(es) found
+Target method: testDescribeKeyspaces
+Class path: core/src/test/java/me/prettyprint/cassandra/service/CassandraClusterTest.java
+
+Method found! 
+   public void testDescribeKeyspaces() throws Exception {
+
+git reset --hard 96a6699490fd9425b86fe175e1d83f3a6c52717b SUCCESS!
+Target class: CassandraClusterTest    
+1 class(es) found
+Target method: testDescribeKeyspaces
+Class path: core/src/test/java/me/prettyprint/cassandra/service/CassandraClusterTest.java
+
+Method found! 
+   public void testDescribeKeyspaces() throws Exception {
+
+git reset --hard 9750f381caa386878ef3eb5509fd7594de8fe1ad SUCCESS!
+Target class: CassandraClusterTest    
+1 class(es) found
+Target method: testDescribeKeyspaces
+Class path: core/src/test/java/me/prettyprint/cassandra/service/CassandraClusterTest.java
+
+Method found! 
+   public void testDescribeKeyspaces() throws Exception {
+
+git reset --hard 9750f381caa386878ef3eb5509fd7594de8fe1ad SUCCESS!
+Target class: TimeUUIDUtilsTest    
+1 class(es) found
+Target method: testTimeUUIDWithClockResolution
+Class path: core/src/test/java/me/prettyprint/cassandra/utils/TimeUUIDUtilsTest.java
+
+Method found! 
+   public void testTimeUUIDWithClockResolution() throws Exception {
+
+git reset --hard a1421505ea588d2e65e22ef1155cd28fcb6c0502 SUCCESS!
+Target class: TimeUUIDUtilsTest    
+1 class(es) found
+Target method: testTimeUUIDWithClockResolution
+Class path: core/src/test/java/me/prettyprint/cassandra/utils/TimeUUIDUtilsTest.java
+
+Method found! 
+   public void testTimeUUIDWithClockResolution() throws Exception {
+
+git reset --hard a3a59ebbb7606dc8e0e1f1fe927dae67980bd8fd SUCCESS!
+Target class: CassandraClusterTest    
+1 class(es) found
+Target method: testDescribeKeyspaces
+Class path: core/src/test/java/me/prettyprint/cassandra/service/CassandraClusterTest.java
+
+Method found! 
+   public void testDescribeKeyspaces() throws Exception {
+
+git reset --hard a45f1c376f242bd201a38d6fa118efc6be731f75 SUCCESS!
+Target class: CassandraClusterTest    
+1 class(es) found
+Target method: testDescribeKeyspaces
+Class path: core/src/test/java/me/prettyprint/cassandra/service/CassandraClusterTest.java
+
+Method found! 
+   public void testDescribeKeyspaces() throws Exception {
+
+git reset --hard a59806ac0bbb65d5e6bb07d75f0726f01c27326c SUCCESS!
+Target class: CassandraClusterTest    
+1 class(es) found
+Target method: testDescribeKeyspaces
+Class path: core/src/test/java/me/prettyprint/cassandra/service/CassandraClusterTest.java
+
+Method found! 
+   public void testDescribeKeyspaces() throws Exception {
+
+git reset --hard a65c8fbf277dc540cc44a27c9f5dc38603628f02 SUCCESS!
+Target class: CassandraClusterTest    
+1 class(es) found
+Target method: testDescribeKeyspaces
+Class path: core/src/test/java/me/prettyprint/cassandra/service/CassandraClusterTest.java
+
+Method found! 
+   public void testDescribeKeyspaces() throws Exception {
+
+git reset --hard abb6a32e289c369d6cd36ba4b8cf505ee339b2e4 SUCCESS!
+Target class: CassandraClusterTest    
+1 class(es) found
+Target method: testDescribeKeyspaces
+Class path: core/src/test/java/me/prettyprint/cassandra/service/CassandraClusterTest.java
+
+Method found! 
+   public void testDescribeKeyspaces() throws Exception {
+
+git reset --hard abb6a32e289c369d6cd36ba4b8cf505ee339b2e4 SUCCESS!
+Target class: EntityManagerFactoryTest    
+1 class(es) found
+Target method: testCreateEntityManager
+Class path: object-mapper/src/test/java/me/prettyprint/hom/EntityManagerFactoryTest.java
+
+Method found! 
+   public void testCreateEntityManager() {
+
+git reset --hard b2de6764bf7a286285e8b8c9369514d62c581fba SUCCESS!
+Target class: CassandraClusterTest    
+1 class(es) found
+Target method: testDescribeKeyspaces
+Class path: core/src/test/java/me/prettyprint/cassandra/service/CassandraClusterTest.java
+
+Method found! 
+   public void testDescribeKeyspaces() throws Exception {
+
+git reset --hard bfa1bffc5c3da8f722815a1fda8cb1598a0880da SUCCESS!
+Target class: CassandraClusterTest    
+1 class(es) found
+Target method: testDescribeKeyspaces
+Class path: core/src/test/java/me/prettyprint/cassandra/service/CassandraClusterTest.java
+
+Method found! 
+   public void testDescribeKeyspaces() throws Exception {
+
+git reset --hard bfa1bffc5c3da8f722815a1fda8cb1598a0880da SUCCESS!
+Target class: TimeUUIDUtilsTest    
+1 class(es) found
+Target method: testTimeUUIDWithClockResolution
+Class path: core/src/test/java/me/prettyprint/cassandra/utils/TimeUUIDUtilsTest.java
+
+Method found! 
+   public void testTimeUUIDWithClockResolution() throws Exception {
+
+git reset --hard c6fd6f3fa896a6f616cb2332dacbf9491316dfb0 SUCCESS!
+Target class: TimeUUIDUtilsTest    
+1 class(es) found
+Target method: testTimeUUIDWithClockResolution
+Class path: core/src/test/java/me/prettyprint/cassandra/utils/TimeUUIDUtilsTest.java
+
+Method found! 
+   public void testTimeUUIDWithClockResolution() throws Exception {
+
+git reset --hard c7d4d003c98c4910b0bc938be9db16d860b47eca SUCCESS!
+Target class: TimeUUIDUtilsTest    
+1 class(es) found
+Target method: testTimeUUIDWithClockResolution
+Class path: core/src/test/java/me/prettyprint/cassandra/utils/TimeUUIDUtilsTest.java
+
+Method found! 
+   public void testTimeUUIDWithClockResolution() throws Exception {
+
+git reset --hard ca7f7b998b72fcd139228b4d7a52d6ab485b630b SUCCESS!
+Target class: TimeUUIDUtilsTest    
+1 class(es) found
+Target method: testTimeUUIDWithClockResolution
+Class path: core/src/test/java/me/prettyprint/cassandra/utils/TimeUUIDUtilsTest.java
+
+Method found! 
+   public void testTimeUUIDWithClockResolution() throws Exception {
+
+git reset --hard cf0a4c4334efbcff41f0ceaa2a595e20ad0b11a5 SUCCESS!
+Target class: CassandraClusterTest    
+1 class(es) found
+Target method: testDescribeKeyspaces
+Class path: core/src/test/java/me/prettyprint/cassandra/service/CassandraClusterTest.java
+
+Method found! 
+   public void testDescribeKeyspaces() throws Exception {
+
+git reset --hard d1191be2452f961d5af49c72f19aec1997613862 SUCCESS!
+Target class: CassandraClusterTest    
+1 class(es) found
+Target method: testDescribeKeyspaces
+Class path: core/src/test/java/me/prettyprint/cassandra/service/CassandraClusterTest.java
+
+Method found! 
+   public void testDescribeKeyspaces() throws Exception {
+
+git reset --hard d1191be2452f961d5af49c72f19aec1997613862 SUCCESS!
+Target class: TimeUUIDUtilsTest    
+1 class(es) found
+Target method: testTimeUUIDWithClockResolution
+Class path: core/src/test/java/me/prettyprint/cassandra/utils/TimeUUIDUtilsTest.java
+
+Method found! 
+   public void testTimeUUIDWithClockResolution() throws Exception {
+
+git reset --hard d4fed5b3c57ca737773e7820447011dd8c9f93f6 SUCCESS!
+Target class: TimeUUIDUtilsTest    
+1 class(es) found
+Target method: testTimeUUIDWithClockResolution
+Class path: core/src/test/java/me/prettyprint/cassandra/utils/TimeUUIDUtilsTest.java
+
+Method found! 
+   public void testTimeUUIDWithClockResolution() throws Exception {
+
+git reset --hard dda3e95881779d961c394bb1525c3b305dbd674a SUCCESS!
+Target class: CassandraClusterTest    
+1 class(es) found
+Target method: testDescribeKeyspaces
+Class path: core/src/test/java/me/prettyprint/cassandra/service/CassandraClusterTest.java
+
+Method found! 
+   public void testDescribeKeyspaces() throws Exception {
+
+git reset --hard dda3e95881779d961c394bb1525c3b305dbd674a SUCCESS!
+Target class: TimeUUIDUtilsTest    
+1 class(es) found
+Target method: testTimeUUIDWithClockResolution
+Class path: core/src/test/java/me/prettyprint/cassandra/utils/TimeUUIDUtilsTest.java
+
+Method found! 
+   public void testTimeUUIDWithClockResolution() throws Exception {
+
+git reset --hard de1becb6802adcc0f2c0ba7f826d8375f3df5f2b SUCCESS!
+Target class: CassandraClusterTest    
+1 class(es) found
+Target method: testDescribeKeyspaces
+Class path: core/src/test/java/me/prettyprint/cassandra/service/CassandraClusterTest.java
+
+Method found! 
+   public void testDescribeKeyspaces() throws Exception {
+
+git reset --hard df7692583ce51ff9181cc7272db1f8073125de78 SUCCESS!
+Target class: TimeUUIDUtilsTest    
+1 class(es) found
+Target method: testTimeUUIDWithClockResolution
+Class path: core/src/test/java/me/prettyprint/cassandra/utils/TimeUUIDUtilsTest.java
+
+Method found! 
+   public void testTimeUUIDWithClockResolution() throws Exception {
+
+git reset --hard e718e2c85a049cba70478075c7a778eef64fada7 SUCCESS!
+Target class: TimeUUIDUtilsTest    
+1 class(es) found
+Target method: testTimeUUIDWithClockResolution
+Class path: core/src/test/java/me/prettyprint/cassandra/utils/TimeUUIDUtilsTest.java
+
+Method found! 
+   public void testTimeUUIDWithClockResolution() throws Exception {
+
+git reset --hard e9a0ef449ee61f41b87413224d574f297d9b7e19 SUCCESS!
+Target class: CassandraClusterTest    
+1 class(es) found
+Target method: testDescribeKeyspaces
+Class path: core/src/test/java/me/prettyprint/cassandra/service/CassandraClusterTest.java
+
+Method found! 
+   public void testDescribeKeyspaces() throws Exception {
+
+git reset --hard ea7df2d50a0d814abbd6359f2c2caa8a89af841a SUCCESS!
+Target class: TimeUUIDUtilsTest    
+1 class(es) found
+Target method: testTimeUUIDWithClockResolution
+Class path: core/src/test/java/me/prettyprint/cassandra/utils/TimeUUIDUtilsTest.java
+
+Method found! 
+   public void testTimeUUIDWithClockResolution() throws Exception {
+
+git reset --hard eac9c0f22355b27480cf6b918a44a21fc00c2125 SUCCESS!
+Target class: CassandraClusterTest    
+1 class(es) found
+Target method: testDescribeKeyspaces
+Class path: core/src/test/java/me/prettyprint/cassandra/service/CassandraClusterTest.java
+
+Method found! 
+   public void testDescribeKeyspaces() throws Exception {
+
+git reset --hard f43a19e3be4611d4ddccce1358831792db9dcec3 SUCCESS!
+Target class: TimeUUIDUtilsTest    
+1 class(es) found
+Target method: testTimeUUIDWithClockResolution
+Class path: core/src/test/java/me/prettyprint/cassandra/utils/TimeUUIDUtilsTest.java
+
+Method found! 
+   public void testTimeUUIDWithClockResolution() throws Exception {
+
+git reset --hard f53d9324b8e4eae352bd4a63dedc42a7f4e043f1 SUCCESS!
+Target class: CassandraClusterTest    
+1 class(es) found
+Target method: testDescribeKeyspaces
+Class path: core/src/test/java/me/prettyprint/cassandra/service/CassandraClusterTest.java
+
+Method found! 
+   public void testDescribeKeyspaces() throws Exception {
+
+git reset --hard f78acf6cd577f9cdee06794e0200be939b9d1a8c SUCCESS!
+Target class: CassandraClusterTest    
+1 class(es) found
+Target method: testDescribeKeyspaces
+Class path: core/src/test/java/me/prettyprint/cassandra/service/CassandraClusterTest.java
+
+Method found! 
+   public void testDescribeKeyspaces() throws Exception {
+
+git reset --hard f9afe387ad0ed2b1011e3782f0298741e99d58b7 SUCCESS!
+Target class: CassandraClusterTest    
+1 class(es) found
+Target method: testDescribeKeyspaces
+Class path: core/src/test/java/me/prettyprint/cassandra/service/CassandraClusterTest.java
+
+Method found! 
+   public void testDescribeKeyspaces() throws Exception {
+
+git reset --hard f9afe387ad0ed2b1011e3782f0298741e99d58b7 SUCCESS!
+Target class: TimeUUIDUtilsTest    
+1 class(es) found
+Target method: testTimeUUIDWithClockResolution
+Class path: core/src/test/java/me/prettyprint/cassandra/utils/TimeUUIDUtilsTest.java
+
+Method found! 
+   public void testTimeUUIDWithClockResolution() throws Exception {
+
+git reset --hard fa7848158c3d651a7bea596f0d9a3804408baae5 SUCCESS!
+Target class: TimeUUIDUtilsTest    
+1 class(es) found
+Target method: testTimeUUIDWithClockResolution
+Class path: core/src/test/java/me/prettyprint/cassandra/utils/TimeUUIDUtilsTest.java
+
+Method found! 
+   public void testTimeUUIDWithClockResolution() throws Exception {
+
+git reset --hard fab5ca94ec2a3cef62168a5503e165f39480708f SUCCESS!
+Target class: CassandraClusterTest    
+1 class(es) found
+Target method: testDescribeKeyspaces
+Class path: core/src/test/java/me/prettyprint/cassandra/service/CassandraClusterTest.java
+
+Method found! 
+   public void testDescribeKeyspaces() throws Exception {
+
+79 method(s) found (~100.0%).
+0 method(s) missing.
+Dataset updated with results.

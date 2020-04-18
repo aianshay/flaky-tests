@@ -1,0 +1,543 @@
+git reset --hard 01124252c3c86241eebf16f3a3d8989a2bc24e0f SUCCESS!
+Target class: DefaultServerFactoryTest    
+1 class(es) found
+Target method: testGracefulShutdown
+Class path: dropwizard-core/src/test/java/io/dropwizard/server/DefaultServerFactoryTest.java
+
+Method found! 
+     public void testGracefulShutdown() throws Exception {
+
+git reset --hard 0127c18e84e0cb509c47facabb2e639694630035 SUCCESS!
+Target class: DefaultServerFactoryTest    
+1 class(es) found
+Target method: testGracefulShutdown
+Class path: dropwizard-core/src/test/java/io/dropwizard/server/DefaultServerFactoryTest.java
+
+Method found! 
+     public void testGracefulShutdown() throws Exception {
+
+git reset --hard 02a8807691863629063d4c98ba129453e2290493 SUCCESS!
+Target class: DefaultServerFactoryTest    
+1 class(es) found
+Target method: testGracefulShutdown
+Class path: dropwizard-core/src/test/java/io/dropwizard/server/DefaultServerFactoryTest.java
+
+Method found! 
+     public void testGracefulShutdown() throws Exception {
+
+git reset --hard 030f2a27f178da2a2ba6b96800c1d182d2fe8ed1 SUCCESS!
+Target class: DefaultServerFactoryTest    
+1 class(es) found
+Target method: testGracefulShutdown
+Class path: dropwizard-core/src/test/java/io/dropwizard/server/DefaultServerFactoryTest.java
+
+Method found! 
+     public void testGracefulShutdown() throws Exception {
+
+git reset --hard 04770d78c58b2d8be597be5d70001f9abfb57b69 SUCCESS!
+Target class: DefaultServerFactoryTest    
+1 class(es) found
+Target method: testGracefulShutdown
+Class path: dropwizard-core/src/test/java/io/dropwizard/server/DefaultServerFactoryTest.java
+
+Method found! 
+     public void testGracefulShutdown() throws Exception {
+
+git reset --hard 06e9a425a82a311ec84b7cc7162262c7ebad67f8 SUCCESS!
+Target class: DefaultServerFactoryTest    
+1 class(es) found
+Target method: testGracefulShutdown
+Class path: dropwizard-core/src/test/java/io/dropwizard/server/DefaultServerFactoryTest.java
+
+Method found! 
+     public void testGracefulShutdown() throws Exception {
+
+git reset --hard 0767a11dae9393bb9da7cdb8329777b6ca56d8c9 SUCCESS!
+Target class: DefaultServerFactoryTest    
+1 class(es) found
+Target method: testGracefulShutdown
+Class path: dropwizard-core/src/test/java/io/dropwizard/server/DefaultServerFactoryTest.java
+
+Method found! 
+     public void testGracefulShutdown() throws Exception {
+
+git reset --hard 084e6406b070489a7a02ec815f99b6bd39d22d52 SUCCESS!
+Target class: DefaultServerFactoryTest    
+1 class(es) found
+Target method: testGracefulShutdown
+Class path: dropwizard-core/src/test/java/io/dropwizard/server/DefaultServerFactoryTest.java
+
+Method found! 
+     public void testGracefulShutdown() throws Exception {
+
+git reset --hard 0a3127ade5061fb935f5e347dab7647fc5a1113b SUCCESS!
+Target class: DefaultServerFactoryTest    
+1 class(es) found
+Target method: testGracefulShutdown
+Class path: dropwizard-core/src/test/java/io/dropwizard/server/DefaultServerFactoryTest.java
+
+Method found! 
+     public void testGracefulShutdown() throws Exception {
+
+git reset --hard 0c45216eb8e721ea5f9434209e79487be9c67478 SUCCESS!
+Target class: DefaultServerFactoryTest    
+1 class(es) found
+Target method: testGracefulShutdown
+Class path: dropwizard-core/src/test/java/io/dropwizard/server/DefaultServerFactoryTest.java
+
+Method found! 
+     public void testGracefulShutdown() throws Exception {
+
+git reset --hard 1470ed83c5545e01ad2e59d5b666cbbbf4f5592a SUCCESS!
+Target class: DefaultServerFactoryTest    
+1 class(es) found
+Target method: testGracefulShutdown
+Class path: dropwizard-core/src/test/java/io/dropwizard/server/DefaultServerFactoryTest.java
+
+Method found! 
+     public void testGracefulShutdown() throws Exception {
+
+git reset --hard 1b9e2e5f754e2a5e0f4d62d23908a02d877928cd SUCCESS!
+Target class: DefaultServerFactoryTest    
+1 class(es) found
+Target method: testGracefulShutdown
+Class path: dropwizard-core/src/test/java/io/dropwizard/server/DefaultServerFactoryTest.java
+
+Method found! 
+     public void testGracefulShutdown() throws Exception {
+
+git reset --hard 1c4a09182b22761636eb45343521614bd2054426 SUCCESS!
+Target class: DefaultServerFactoryTest    
+1 class(es) found
+Target method: testGracefulShutdown
+Class path: dropwizard-core/src/test/java/io/dropwizard/server/DefaultServerFactoryTest.java
+
+Method found! 
+     public void testGracefulShutdown() throws Exception {
+
+git reset --hard 21af1a9be4c7165265e68b32f383695e5419ba21 SUCCESS!
+Target class: DefaultServerFactoryTest    
+1 class(es) found
+Target method: testGracefulShutdown
+Class path: dropwizard-core/src/test/java/io/dropwizard/server/DefaultServerFactoryTest.java
+
+Method found! 
+     public void testGracefulShutdown() throws Exception {
+
+git reset --hard 2200d6b1a9eeaa7e7606e93ce1398b925a6dd142 SUCCESS!
+Target class: DefaultServerFactoryTest    
+1 class(es) found
+Target method: testGracefulShutdown
+Class path: dropwizard-core/src/test/java/io/dropwizard/server/DefaultServerFactoryTest.java
+
+Method found! 
+     public void testGracefulShutdown() throws Exception {
+
+git reset --hard 233875d65dbbe4f4e2bdfa3fa68395f050e2c2df SUCCESS!
+Target class: DefaultServerFactoryTest    
+1 class(es) found
+Target method: testGracefulShutdown
+Class path: dropwizard-core/src/test/java/io/dropwizard/server/DefaultServerFactoryTest.java
+
+Method found! 
+     public void testGracefulShutdown() throws Exception {
+
+git reset --hard 25fdd060ca365020884e28fa059110e07f23a7f7 SUCCESS!
+Target class: DefaultServerFactoryTest    
+1 class(es) found
+Target method: testGracefulShutdown
+Class path: dropwizard-core/src/test/java/io/dropwizard/server/DefaultServerFactoryTest.java
+
+Method found! 
+     public void testGracefulShutdown() throws Exception {
+
+git reset --hard 2948c4259d292bb719b0d13a834145e46c97e351 SUCCESS!
+Target class: DefaultServerFactoryTest    
+1 class(es) found
+Target method: testGracefulShutdown
+Class path: dropwizard-core/src/test/java/io/dropwizard/server/DefaultServerFactoryTest.java
+
+Method found! 
+     public void testGracefulShutdown() throws Exception {
+
+git reset --hard 44c31e901d53759d2b412ba52fff5c7470b178f4 SUCCESS!
+Target class: DefaultServerFactoryTest    
+1 class(es) found
+Target method: testGracefulShutdown
+Class path: dropwizard-core/src/test/java/io/dropwizard/server/DefaultServerFactoryTest.java
+
+Method found! 
+     public void testGracefulShutdown() throws Exception {
+
+git reset --hard 4631a5588f6aed68af4462503870d95ada2fab52 SUCCESS!
+Target class: DefaultServerFactoryTest    
+1 class(es) found
+Target method: testGracefulShutdown
+Class path: dropwizard-core/src/test/java/io/dropwizard/server/DefaultServerFactoryTest.java
+
+Method found! 
+     public void testGracefulShutdown() throws Exception {
+
+git reset --hard 48133c206d3d70e0637fcd08fafb6be5530deceb SUCCESS!
+Target class: DefaultServerFactoryTest    
+1 class(es) found
+Target method: testGracefulShutdown
+Class path: dropwizard-core/src/test/java/io/dropwizard/server/DefaultServerFactoryTest.java
+
+Method found! 
+     public void testGracefulShutdown() throws Exception {
+
+git reset --hard 4e3a76e8706c358a556a3b1bf5fad73e3d7c1c3b SUCCESS!
+Target class: DefaultServerFactoryTest    
+1 class(es) found
+Target method: testGracefulShutdown
+Class path: dropwizard-core/src/test/java/io/dropwizard/server/DefaultServerFactoryTest.java
+
+Method found! 
+     public void testGracefulShutdown() throws Exception {
+
+git reset --hard 511005e48c72b420244135f0f8f1fc49e441abd4 SUCCESS!
+Target class: DefaultServerFactoryTest    
+1 class(es) found
+Target method: testGracefulShutdown
+Class path: dropwizard-core/src/test/java/io/dropwizard/server/DefaultServerFactoryTest.java
+
+Method found! 
+     public void testGracefulShutdown() throws Exception {
+
+git reset --hard 5a0bbce72717bf4f97cd1284644495cd2b08e658 SUCCESS!
+Target class: DefaultServerFactoryTest    
+1 class(es) found
+Target method: testGracefulShutdown
+Class path: dropwizard-core/src/test/java/io/dropwizard/server/DefaultServerFactoryTest.java
+
+Method found! 
+     public void testGracefulShutdown() throws Exception {
+
+git reset --hard 5d2b8c9d142115309314d538635101cb3a78854c SUCCESS!
+Target class: DefaultServerFactoryTest    
+1 class(es) found
+Target method: testGracefulShutdown
+Class path: dropwizard-core/src/test/java/io/dropwizard/server/DefaultServerFactoryTest.java
+
+Method found! 
+     public void testGracefulShutdown() throws Exception {
+
+git reset --hard 609d55f66b8a2b54cff578577a4572695ab29480 SUCCESS!
+Target class: DefaultServerFactoryTest    
+1 class(es) found
+Target method: testGracefulShutdown
+Class path: dropwizard-core/src/test/java/io/dropwizard/server/DefaultServerFactoryTest.java
+
+Method found! 
+     public void testGracefulShutdown() throws Exception {
+
+git reset --hard 63042d701d10707b51e50ccefa96f30b195de239 SUCCESS!
+Target class: DefaultServerFactoryTest    
+1 class(es) found
+Target method: testGracefulShutdown
+Class path: dropwizard-core/src/test/java/io/dropwizard/server/DefaultServerFactoryTest.java
+
+Method found! 
+     public void testGracefulShutdown() throws Exception {
+
+git reset --hard 63a1470f64196791371c844ab1b8e1f6ce49bfc6 SUCCESS!
+Target class: DefaultServerFactoryTest    
+1 class(es) found
+Target method: testGracefulShutdown
+Class path: dropwizard-core/src/test/java/io/dropwizard/server/DefaultServerFactoryTest.java
+
+Method found! 
+     public void testGracefulShutdown() throws Exception {
+
+git reset --hard 6af5f351282b773e2ad2f31c8939cdf8c8e6759b SUCCESS!
+Target class: DefaultServerFactoryTest    
+1 class(es) found
+Target method: testGracefulShutdown
+Class path: dropwizard-core/src/test/java/io/dropwizard/server/DefaultServerFactoryTest.java
+
+Method found! 
+     public void testGracefulShutdown() throws Exception {
+
+git reset --hard 6bc4620fffc881063c6441dad40311ac1d9b9a74 SUCCESS!
+Target class: DefaultServerFactoryTest    
+1 class(es) found
+Target method: testGracefulShutdown
+Class path: dropwizard-core/src/test/java/io/dropwizard/server/DefaultServerFactoryTest.java
+
+Method found! 
+     public void testGracefulShutdown() throws Exception {
+
+git reset --hard 6c47599a1aede063759cb904377745f1672a7bdf SUCCESS!
+Target class: DefaultServerFactoryTest    
+1 class(es) found
+Target method: testGracefulShutdown
+Class path: dropwizard-core/src/test/java/io/dropwizard/server/DefaultServerFactoryTest.java
+
+Method found! 
+     public void testGracefulShutdown() throws Exception {
+
+git reset --hard 6cb01589eec38c2cf01c08bf77e1e7c7c43f37a7 SUCCESS!
+Target class: DefaultServerFactoryTest    
+1 class(es) found
+Target method: testGracefulShutdown
+Class path: dropwizard-core/src/test/java/io/dropwizard/server/DefaultServerFactoryTest.java
+
+Method found! 
+     public void testGracefulShutdown() throws Exception {
+
+git reset --hard 71ca2d4b0b3e9e69c736450061ca917c6bb20085 SUCCESS!
+Target class: DefaultServerFactoryTest    
+1 class(es) found
+Target method: testGracefulShutdown
+Class path: dropwizard-core/src/test/java/io/dropwizard/server/DefaultServerFactoryTest.java
+
+Method found! 
+     public void testGracefulShutdown() throws Exception {
+
+git reset --hard 76b7b206fdd5da8356cd779664761d6d5d93827e SUCCESS!
+Target class: DefaultServerFactoryTest    
+1 class(es) found
+Target method: testGracefulShutdown
+Class path: dropwizard-core/src/test/java/io/dropwizard/server/DefaultServerFactoryTest.java
+
+Method found! 
+     public void testGracefulShutdown() throws Exception {
+
+git reset --hard 7a8d2325f447f116c269721cc8a724a41ceab6d6 SUCCESS!
+Target class: DefaultServerFactoryTest    
+1 class(es) found
+Target method: testGracefulShutdown
+Class path: dropwizard-core/src/test/java/io/dropwizard/server/DefaultServerFactoryTest.java
+
+Method found! 
+     public void testGracefulShutdown() throws Exception {
+
+git reset --hard 7ff25da7a706b1c4224eab83442fabaf8bb59c88 SUCCESS!
+Target class: DefaultServerFactoryTest    
+1 class(es) found
+Target method: testGracefulShutdown
+Class path: dropwizard-core/src/test/java/io/dropwizard/server/DefaultServerFactoryTest.java
+
+Method found! 
+     public void testGracefulShutdown() throws Exception {
+
+git reset --hard 8270d51653c676e577288c1dc7598f023234b16a SUCCESS!
+Target class: DefaultServerFactoryTest    
+1 class(es) found
+Target method: testGracefulShutdown
+Class path: dropwizard-core/src/test/java/io/dropwizard/server/DefaultServerFactoryTest.java
+
+Method found! 
+     public void testGracefulShutdown() throws Exception {
+
+git reset --hard 84a2054cd6ea2d67233a9aa77f83cb4b2f17795e SUCCESS!
+Target class: DefaultServerFactoryTest    
+1 class(es) found
+Target method: testGracefulShutdown
+Class path: dropwizard-core/src/test/java/io/dropwizard/server/DefaultServerFactoryTest.java
+
+Method found! 
+     public void testGracefulShutdown() throws Exception {
+
+git reset --hard 8f57539fcf12e6433fe981d23b86e3b99952a66f SUCCESS!
+Target class: DefaultServerFactoryTest    
+1 class(es) found
+Target method: testGracefulShutdown
+Class path: dropwizard-core/src/test/java/io/dropwizard/server/DefaultServerFactoryTest.java
+
+Method found! 
+     public void testGracefulShutdown() throws Exception {
+
+git reset --hard 915800e7e08174ea3cfed13510854752040fe50a SUCCESS!
+Target class: DefaultServerFactoryTest    
+1 class(es) found
+Target method: testGracefulShutdown
+Class path: dropwizard-core/src/test/java/io/dropwizard/server/DefaultServerFactoryTest.java
+
+Method found! 
+     public void testGracefulShutdown() throws Exception {
+
+git reset --hard 92208eb10e70c6c35f0f87219b8cd1c42f268638 SUCCESS!
+Target class: DefaultServerFactoryTest    
+1 class(es) found
+Target method: testGracefulShutdown
+Class path: dropwizard-core/src/test/java/io/dropwizard/server/DefaultServerFactoryTest.java
+
+Method found! 
+     public void testGracefulShutdown() throws Exception {
+
+git reset --hard 94901c4c4cdc5b3937f8ab15ac272ab54a9639bf SUCCESS!
+Target class: DefaultServerFactoryTest    
+1 class(es) found
+Target method: testGracefulShutdown
+Class path: dropwizard-core/src/test/java/io/dropwizard/server/DefaultServerFactoryTest.java
+
+Method found! 
+     public void testGracefulShutdown() throws Exception {
+
+git reset --hard 9574504d10fb29b14f980f3b46f34de3d8a46ce7 SUCCESS!
+Target class: DefaultServerFactoryTest    
+1 class(es) found
+Target method: testGracefulShutdown
+Class path: dropwizard-core/src/test/java/io/dropwizard/server/DefaultServerFactoryTest.java
+
+Method found! 
+     public void testGracefulShutdown() throws Exception {
+
+git reset --hard 9bc69b52a401cc1f480630662a819bd0902749ec SUCCESS!
+Target class: DefaultServerFactoryTest    
+1 class(es) found
+Target method: testGracefulShutdown
+Class path: dropwizard-core/src/test/java/io/dropwizard/server/DefaultServerFactoryTest.java
+
+Method found! 
+     public void testGracefulShutdown() throws Exception {
+
+git reset --hard 9d542c69cbc0396e8427ff1dece01e692aefbfbd SUCCESS!
+Target class: DefaultServerFactoryTest    
+1 class(es) found
+Target method: testGracefulShutdown
+Class path: dropwizard-core/src/test/java/io/dropwizard/server/DefaultServerFactoryTest.java
+
+Method found! 
+     public void testGracefulShutdown() throws Exception {
+
+git reset --hard a57d107cffa2ca32b2aeeab52519f3c696416308 SUCCESS!
+Target class: DefaultServerFactoryTest    
+1 class(es) found
+Target method: testGracefulShutdown
+Class path: dropwizard-core/src/test/java/io/dropwizard/server/DefaultServerFactoryTest.java
+
+Method found! 
+     public void testGracefulShutdown() throws Exception {
+
+git reset --hard aaba7b26ae90583d2bbc7487831038b951af8dce SUCCESS!
+Target class: DefaultServerFactoryTest    
+1 class(es) found
+Target method: testGracefulShutdown
+Class path: dropwizard-core/src/test/java/io/dropwizard/server/DefaultServerFactoryTest.java
+
+Method found! 
+     public void testGracefulShutdown() throws Exception {
+
+git reset --hard b32e48ede517797330be4e9f1057f8d324ba3ff0 SUCCESS!
+Target class: DefaultServerFactoryTest    
+1 class(es) found
+Target method: testGracefulShutdown
+Class path: dropwizard-core/src/test/java/io/dropwizard/server/DefaultServerFactoryTest.java
+
+Method found! 
+     public void testGracefulShutdown() throws Exception {
+
+git reset --hard bac913634bfb5da371333f636963827d9ed7f7f1 SUCCESS!
+Target class: DefaultServerFactoryTest    
+1 class(es) found
+Target method: testGracefulShutdown
+Class path: dropwizard-core/src/test/java/io/dropwizard/server/DefaultServerFactoryTest.java
+
+Method found! 
+     public void testGracefulShutdown() throws Exception {
+
+git reset --hard c0f22a0d78b23e0dedfc8bc763f19b701471a94e SUCCESS!
+Target class: DefaultServerFactoryTest    
+1 class(es) found
+Target method: testGracefulShutdown
+Class path: dropwizard-core/src/test/java/io/dropwizard/server/DefaultServerFactoryTest.java
+
+Method found! 
+     public void testGracefulShutdown() throws Exception {
+
+git reset --hard c259e37efde0157e7ca673b696d974fb077d7fc3 SUCCESS!
+Target class: DefaultServerFactoryTest    
+1 class(es) found
+Target method: testGracefulShutdown
+Class path: dropwizard-core/src/test/java/io/dropwizard/server/DefaultServerFactoryTest.java
+
+Method found! 
+     public void testGracefulShutdown() throws Exception {
+
+git reset --hard c4b3ad27349c6a26dc3e0d3c89a119617af3f7bb SUCCESS!
+Target class: DefaultServerFactoryTest    
+1 class(es) found
+Target method: testGracefulShutdown
+Class path: dropwizard-core/src/test/java/io/dropwizard/server/DefaultServerFactoryTest.java
+
+Method found! 
+     public void testGracefulShutdown() throws Exception {
+
+git reset --hard d067503f90f591341b0b56ffa3c954b3f60fca03 SUCCESS!
+Target class: DefaultServerFactoryTest    
+1 class(es) found
+Target method: testGracefulShutdown
+Class path: dropwizard-core/src/test/java/io/dropwizard/server/DefaultServerFactoryTest.java
+
+Method found! 
+     public void testGracefulShutdown() throws Exception {
+
+git reset --hard d4f9ee341abf0ddce40c24642c6a93be4f45ff9e SUCCESS!
+Target class: DefaultServerFactoryTest    
+1 class(es) found
+Target method: testGracefulShutdown
+Class path: dropwizard-core/src/test/java/io/dropwizard/server/DefaultServerFactoryTest.java
+
+Method found! 
+     public void testGracefulShutdown() throws Exception {
+
+git reset --hard d78652889c06ffafbe56b0b6052803f15c752a6b SUCCESS!
+Target class: DefaultServerFactoryTest    
+1 class(es) found
+Target method: testGracefulShutdown
+Class path: dropwizard-core/src/test/java/io/dropwizard/server/DefaultServerFactoryTest.java
+
+Method found! 
+     public void testGracefulShutdown() throws Exception {
+
+git reset --hard e7eeb37c1b0595ed8cb2eec9649b9a6f790f88a2 SUCCESS!
+Target class: DefaultServerFactoryTest    
+1 class(es) found
+Target method: testGracefulShutdown
+Class path: dropwizard-core/src/test/java/io/dropwizard/server/DefaultServerFactoryTest.java
+
+Method found! 
+     public void testGracefulShutdown() throws Exception {
+
+git reset --hard eb25175b60e0dedf3155bff10d22f09294ffae7b SUCCESS!
+Target class: DefaultServerFactoryTest    
+1 class(es) found
+Target method: testGracefulShutdown
+Class path: dropwizard-core/src/test/java/io/dropwizard/server/DefaultServerFactoryTest.java
+
+Method found! 
+     public void testGracefulShutdown() throws Exception {
+
+git reset --hard f6202ec0a7087f04e3a34ac2c85aeb892e499630 SUCCESS!
+Target class: DefaultServerFactoryTest    
+1 class(es) found
+Target method: testGracefulShutdown
+Class path: dropwizard-core/src/test/java/io/dropwizard/server/DefaultServerFactoryTest.java
+
+Method found! 
+     public void testGracefulShutdown() throws Exception {
+
+git reset --hard f62f824394adde77036acd26c12af325b7eaa78f SUCCESS!
+Target class: DefaultServerFactoryTest    
+1 class(es) found
+Target method: testGracefulShutdown
+Class path: dropwizard-core/src/test/java/io/dropwizard/server/DefaultServerFactoryTest.java
+
+Method found! 
+     public void testGracefulShutdown() throws Exception {
+
+git reset --hard fbcefe3e2d38dba72a6f450f6f832d77533ebe73 SUCCESS!
+Target class: DefaultServerFactoryTest    
+1 class(es) found
+Target method: testGracefulShutdown
+Class path: dropwizard-core/src/test/java/io/dropwizard/server/DefaultServerFactoryTest.java
+
+Method found! 
+     public void testGracefulShutdown() throws Exception {
+
+60 method(s) found (~100.0%).
+0 method(s) missing.
+Dataset updated with results.

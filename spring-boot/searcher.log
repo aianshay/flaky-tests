@@ -1,0 +1,1876 @@
+git reset --hard 1a3b0309b3c9d506f8ca2bdc646c7728af06ffcb SUCCESS!
+Target class: DependencyCustomizerTests    
+2 class(es) found
+Target method: anyMissingClassesWithMissingClassesPerformsAdd
+Class path: spring-boot-cli/src/test/java/org/springframework/boot/cli/compiler/DependencyCustomizerTests.java
+
+Method found! 
+ 	public void anyMissingClassesWithMissingClassesPerformsAdd() {
+
+Class path: spring-boot-project/spring-boot-cli/src/test/java/org/springframework/boot/cli/compiler/DependencyCustomizerTests.java
+
+Method found! 
+ 	void anyMissingClassesWithMissingClassesPerformsAdd() {
+
+git reset --hard 1a3b0309b3c9d506f8ca2bdc646c7728af06ffcb SUCCESS!
+Target class: DependencyCustomizerTests    
+2 class(es) found
+Target method: anyMissingClassesWithMixtureOfClassesPerformsAdd
+Class path: spring-boot-cli/src/test/java/org/springframework/boot/cli/compiler/DependencyCustomizerTests.java
+
+Method found! 
+ 	public void anyMissingClassesWithMixtureOfClassesPerformsAdd() {
+
+Class path: spring-boot-project/spring-boot-cli/src/test/java/org/springframework/boot/cli/compiler/DependencyCustomizerTests.java
+
+Method found! 
+ 	void anyMissingClassesWithMixtureOfClassesPerformsAdd() {
+
+git reset --hard 1a3b0309b3c9d506f8ca2bdc646c7728af06ffcb SUCCESS!
+Target class: DependencyCustomizerTests    
+2 class(es) found
+Target method: basicAdd
+Class path: spring-boot-cli/src/test/java/org/springframework/boot/cli/compiler/DependencyCustomizerTests.java
+
+Method found! 
+ 	public void basicAdd() {
+
+Class path: spring-boot-project/spring-boot-cli/src/test/java/org/springframework/boot/cli/compiler/DependencyCustomizerTests.java
+
+Method found! 
+ 	void basicAdd() {
+
+git reset --hard 2696d370971964e20a78a24d0e05378d4beffe80 SUCCESS!
+Target class: ReproIntegrationTests    
+2 class(es) found
+Target method: dataJpaDependencies
+Class path: spring-boot-cli/src/test/java/org/springframework/boot/cli/ReproIntegrationTests.java
+
+Method found! 
+ 	public void dataJpaDependencies() throws Exception {
+
+Class path: spring-boot-project/spring-boot-cli/src/test/java/org/springframework/boot/cli/ReproIntegrationTests.java
+
+Method found! 
+ 	void dataJpaDependencies() throws Exception {
+
+git reset --hard 2696d370971964e20a78a24d0e05378d4beffe80 SUCCESS!
+Target class: TestCommandIntegrationTests    
+1 class(es) found
+Target method: appAndTestsInOneFile
+Class path: spring-boot-cli/src/test/java/org/springframework/boot/cli/TestCommandIntegrationTests.java
+
+Method found! 
+ 	public void appAndTestsInOneFile() throws Exception {
+
+git reset --hard 2696d370971964e20a78a24d0e05378d4beffe80 SUCCESS!
+Target class: TestCommandIntegrationTests    
+1 class(es) found
+Target method: appInOneFileTestsInAnotherFile
+Class path: spring-boot-cli/src/test/java/org/springframework/boot/cli/TestCommandIntegrationTests.java
+
+Method found! 
+ 	public void appInOneFileTestsInAnotherFile() throws Exception {
+
+git reset --hard 2696d370971964e20a78a24d0e05378d4beffe80 SUCCESS!
+Target class: TestCommandIntegrationTests    
+1 class(es) found
+Target method: empty
+Class path: spring-boot-cli/src/test/java/org/springframework/boot/cli/TestCommandIntegrationTests.java
+
+Method found! 
+ 	public void empty() throws Exception {
+		String output = this.cli.test("empty.groovy");
+
+git reset --hard 2696d370971964e20a78a24d0e05378d4beffe80 SUCCESS!
+Target class: TestCommandIntegrationTests    
+1 class(es) found
+Target method: noFile
+Class path: spring-boot-cli/src/test/java/org/springframework/boot/cli/TestCommandIntegrationTests.java
+
+Method found! 
+ 	public void noFile() throws Exception {
+
+git reset --hard 2696d370971964e20a78a24d0e05378d4beffe80 SUCCESS!
+Target class: TestCommandIntegrationTests    
+1 class(es) found
+Target method: noTests
+Class path: spring-boot-cli/src/test/java/org/springframework/boot/cli/TestCommandIntegrationTests.java
+
+Method found! 
+ 	public void noTests() throws Throwable {
+
+git reset --hard 2696d370971964e20a78a24d0e05378d4beffe80 SUCCESS!
+Target class: TestCommandIntegrationTests    
+1 class(es) found
+Target method: spockAndJunitTester
+Class path: spring-boot-cli/src/test/java/org/springframework/boot/cli/TestCommandIntegrationTests.java
+
+Method found! 
+ 	public void spockAndJunitTester() throws Exception {
+
+git reset --hard 2696d370971964e20a78a24d0e05378d4beffe80 SUCCESS!
+Target class: TestCommandIntegrationTests    
+1 class(es) found
+Target method: spockTester
+Class path: spring-boot-cli/src/test/java/org/springframework/boot/cli/TestCommandIntegrationTests.java
+
+Method found! 
+ 	public void spockTester() throws Exception {
+
+git reset --hard 2696d370971964e20a78a24d0e05378d4beffe80 SUCCESS!
+Target class: TestCommandIntegrationTests    
+1 class(es) found
+Target method: verifyFailures
+Class path: spring-boot-cli/src/test/java/org/springframework/boot/cli/TestCommandIntegrationTests.java
+
+Method found! 
+ 	public void verifyFailures() throws Exception {
+
+git reset --hard 27cbf45dbe8b3cd6464dda650cdc6a691d6c0954 SUCCESS!
+Target class: HibernateJpaAutoConfigurationTests    
+2 class(es) found
+Target method: testNamingStrategyThatWorkedInOneDotOhContinuesToWork
+Class path: spring-boot-autoconfigure/src/test/java/org/springframework/boot/autoconfigure/orm/jpa/HibernateJpaAutoConfigurationTests.java
+
+Method found! 
+ 	public void testNamingStrategyThatWorkedInOneDotOhContinuesToWork() {
+
+Class path: spring-boot-project/spring-boot-autoconfigure/src/test/java/org/springframework/boot/autoconfigure/orm/jpa/HibernateJpaAutoConfigurationTests.java
+
+Missing method, searching on superclass...
+Target superclass: AbstractJpaAutoConfigurationTests
+Class path: ./spring-boot-autoconfigure/src/test/java/org/springframework/boot/autoconfigure/orm/jpa/AbstractJpaAutoConfigurationTests.java
+./spring-boot-project/spring-boot-autoconfigure/src/test/java/org/springframework/boot/autoconfigure/orm/jpa/AbstractJpaAutoConfigurationTests.java
+
+Missing method, searching on superclass...
+HibernateJpaAutoConfigurationTests does not has superclass.
+git reset --hard 48d651c7531ae32afb14ab68c365264e9104eff9 SUCCESS!
+Target class: HibernateJpaAutoConfigurationTests    
+2 class(es) found
+Target method: testNamingStrategyThatWorkedInOneDotOhContinuesToWork
+Class path: spring-boot-autoconfigure/src/test/java/org/springframework/boot/autoconfigure/orm/jpa/HibernateJpaAutoConfigurationTests.java
+
+Method found! 
+ 	public void testNamingStrategyThatWorkedInOneDotOhContinuesToWork() {
+
+Class path: spring-boot-project/spring-boot-autoconfigure/src/test/java/org/springframework/boot/autoconfigure/orm/jpa/HibernateJpaAutoConfigurationTests.java
+
+Missing method, searching on superclass...
+Target superclass: AbstractJpaAutoConfigurationTests
+Class path: ./spring-boot-autoconfigure/src/test/java/org/springframework/boot/autoconfigure/orm/jpa/AbstractJpaAutoConfigurationTests.java
+./spring-boot-project/spring-boot-autoconfigure/src/test/java/org/springframework/boot/autoconfigure/orm/jpa/AbstractJpaAutoConfigurationTests.java
+
+Missing method, searching on superclass...
+HibernateJpaAutoConfigurationTests does not has superclass.
+git reset --hard 504de8a7c82145bbd36019d511c138687588f23a SUCCESS!
+Target class: SampleIntegrationTests    
+2 class(es) found
+Target method: appSample
+Class path: spring-boot-cli/src/test/java/org/springframework/boot/cli/SampleIntegrationTests.java
+
+Method found! 
+ 	public void appSample() throws Exception {
+
+Class path: spring-boot-project/spring-boot-cli/src/test/java/org/springframework/boot/cli/SampleIntegrationTests.java
+
+Missing method, searching on superclass...
+SampleIntegrationTests does not has superclass.
+git reset --hard 58d660d10d7abb5fe2ea502b6c538714bede62ea SUCCESS!
+Target class: DirectorySourcesIntegrationTests    
+2 class(es) found
+Target method: runDirectory
+Class path: spring-boot-cli/src/test/java/org/springframework/boot/cli/DirectorySourcesIntegrationTests.java
+
+Method found! 
+ 	public void runDirectory() throws Exception {
+	public void runDirectoryRecursive() throws Exception {
+
+Class path: spring-boot-project/spring-boot-cli/src/test/java/org/springframework/boot/cli/DirectorySourcesIntegrationTests.java
+
+Method found! 
+ 	void runDirectory() throws Exception {
+	void runDirectoryRecursive() throws Exception {
+
+git reset --hard 58d660d10d7abb5fe2ea502b6c538714bede62ea SUCCESS!
+Target class: DirectorySourcesIntegrationTests    
+2 class(es) found
+Target method: runDirectoryRecursive
+Class path: spring-boot-cli/src/test/java/org/springframework/boot/cli/DirectorySourcesIntegrationTests.java
+
+Method found! 
+ 	public void runDirectoryRecursive() throws Exception {
+
+Class path: spring-boot-project/spring-boot-cli/src/test/java/org/springframework/boot/cli/DirectorySourcesIntegrationTests.java
+
+Method found! 
+ 	void runDirectoryRecursive() throws Exception {
+
+git reset --hard 58d660d10d7abb5fe2ea502b6c538714bede62ea SUCCESS!
+Target class: DirectorySourcesIntegrationTests    
+2 class(es) found
+Target method: runPathPattern
+Class path: spring-boot-cli/src/test/java/org/springframework/boot/cli/DirectorySourcesIntegrationTests.java
+
+Method found! 
+ 	public void runPathPattern() throws Exception {
+
+Class path: spring-boot-project/spring-boot-cli/src/test/java/org/springframework/boot/cli/DirectorySourcesIntegrationTests.java
+
+Method found! 
+ 	void runPathPattern() throws Exception {
+
+git reset --hard 5946a44b7b4da9967c8bdffc991ba06b7099887c SUCCESS!
+Target class: ClassLoaderIntegrationTests    
+2 class(es) found
+Target method: runWithIsolatedClassLoader
+Class path: spring-boot-cli/src/test/java/org/springframework/boot/cli/ClassLoaderIntegrationTests.java
+
+Method found! 
+ 	public void runWithIsolatedClassLoader() throws Exception {
+
+Class path: spring-boot-project/spring-boot-cli/src/test/java/org/springframework/boot/cli/ClassLoaderIntegrationTests.java
+
+Method found! 
+ 	void runWithIsolatedClassLoader() throws Exception {
+
+git reset --hard 5946a44b7b4da9967c8bdffc991ba06b7099887c SUCCESS!
+Target class: GrabCommandIntegrationTests    
+2 class(es) found
+Target method: customMetadata
+Class path: spring-boot-cli/src/test/java/org/springframework/boot/cli/GrabCommandIntegrationTests.java
+
+Method found! 
+ 	public void customMetadata() throws Exception {
+
+Class path: spring-boot-project/spring-boot-cli/src/test/java/org/springframework/boot/cli/GrabCommandIntegrationTests.java
+
+Method found! 
+ 	void customMetadata() throws Exception {
+
+git reset --hard 5946a44b7b4da9967c8bdffc991ba06b7099887c SUCCESS!
+Target class: GrabCommandIntegrationTests    
+2 class(es) found
+Target method: duplicateGrabMetadataAnnotationsProducesAnError
+Class path: spring-boot-cli/src/test/java/org/springframework/boot/cli/GrabCommandIntegrationTests.java
+
+Method found! 
+ 	public void duplicateGrabMetadataAnnotationsProducesAnError() throws Exception {
+
+Class path: spring-boot-project/spring-boot-cli/src/test/java/org/springframework/boot/cli/GrabCommandIntegrationTests.java
+
+Missing method, searching on superclass...
+GrabCommandIntegrationTests does not has superclass.
+git reset --hard 5946a44b7b4da9967c8bdffc991ba06b7099887c SUCCESS!
+Target class: InstallerTests    
+2 class(es) found
+Target method: installAndUninstall
+Class path: spring-boot-cli/src/test/java/org/springframework/boot/cli/command/install/InstallerTests.java
+
+Method found! 
+ 	public void installAndUninstall() throws Exception {
+	public void installAndUninstallWithCommonDependencies() throws Exception {
+
+Class path: spring-boot-project/spring-boot-cli/src/test/java/org/springframework/boot/cli/command/install/InstallerTests.java
+
+Method found! 
+ 	void installAndUninstall() throws Exception {
+	void installAndUninstallWithCommonDependencies() throws Exception {
+
+git reset --hard 5946a44b7b4da9967c8bdffc991ba06b7099887c SUCCESS!
+Target class: InstallerTests    
+2 class(es) found
+Target method: installAndUninstallWithCommonDependencies
+Class path: spring-boot-cli/src/test/java/org/springframework/boot/cli/command/install/InstallerTests.java
+
+Method found! 
+ 	public void installAndUninstallWithCommonDependencies() throws Exception {
+
+Class path: spring-boot-project/spring-boot-cli/src/test/java/org/springframework/boot/cli/command/install/InstallerTests.java
+
+Method found! 
+ 	void installAndUninstallWithCommonDependencies() throws Exception {
+
+git reset --hard 5946a44b7b4da9967c8bdffc991ba06b7099887c SUCCESS!
+Target class: InstallerTests    
+2 class(es) found
+Target method: installNewDependency
+Class path: spring-boot-cli/src/test/java/org/springframework/boot/cli/command/install/InstallerTests.java
+
+Method found! 
+ 	public void installNewDependency() throws Exception {
+
+Class path: spring-boot-project/spring-boot-cli/src/test/java/org/springframework/boot/cli/command/install/InstallerTests.java
+
+Method found! 
+ 	void installNewDependency() throws Exception {
+
+git reset --hard 5946a44b7b4da9967c8bdffc991ba06b7099887c SUCCESS!
+Target class: InstallerTests    
+2 class(es) found
+Target method: uninstallAll
+Class path: spring-boot-cli/src/test/java/org/springframework/boot/cli/command/install/InstallerTests.java
+
+Method found! 
+ 	public void uninstallAll() throws Exception {
+		this.installer.uninstallAll();
+
+Class path: spring-boot-project/spring-boot-cli/src/test/java/org/springframework/boot/cli/command/install/InstallerTests.java
+
+Method found! 
+ 	void uninstallAll() throws Exception {
+		this.installer.uninstallAll();
+
+git reset --hard 68571ee535d302101c38cc2c57f166b6d62afa5d SUCCESS!
+Target class: TestCommandIntegrationTests    
+1 class(es) found
+Target method: appAndTestsInOneFile
+Class path: spring-boot-cli/src/test/java/org/springframework/boot/cli/TestCommandIntegrationTests.java
+
+Method found! 
+ 	public void appAndTestsInOneFile() throws Exception {
+
+git reset --hard 68571ee535d302101c38cc2c57f166b6d62afa5d SUCCESS!
+Target class: TestCommandIntegrationTests    
+1 class(es) found
+Target method: appInOneFileTestsInAnotherFile
+Class path: spring-boot-cli/src/test/java/org/springframework/boot/cli/TestCommandIntegrationTests.java
+
+Method found! 
+ 	public void appInOneFileTestsInAnotherFile() throws Exception {
+
+git reset --hard 68571ee535d302101c38cc2c57f166b6d62afa5d SUCCESS!
+Target class: TestCommandIntegrationTests    
+1 class(es) found
+Target method: empty
+Class path: spring-boot-cli/src/test/java/org/springframework/boot/cli/TestCommandIntegrationTests.java
+
+Method found! 
+ 	public void empty() throws Exception {
+		String output = this.cli.test("empty.groovy");
+
+git reset --hard 68571ee535d302101c38cc2c57f166b6d62afa5d SUCCESS!
+Target class: TestCommandIntegrationTests    
+1 class(es) found
+Target method: noTests
+Class path: spring-boot-cli/src/test/java/org/springframework/boot/cli/TestCommandIntegrationTests.java
+
+Method found! 
+ 	public void noTests() throws Throwable {
+
+git reset --hard 68571ee535d302101c38cc2c57f166b6d62afa5d SUCCESS!
+Target class: TestCommandIntegrationTests    
+1 class(es) found
+Target method: spockTester
+Class path: spring-boot-cli/src/test/java/org/springframework/boot/cli/TestCommandIntegrationTests.java
+
+Method found! 
+ 	public void spockTester() throws Exception {
+
+git reset --hard 68571ee535d302101c38cc2c57f166b6d62afa5d SUCCESS!
+Target class: TestCommandIntegrationTests    
+1 class(es) found
+Target method: verifyFailures
+Class path: spring-boot-cli/src/test/java/org/springframework/boot/cli/TestCommandIntegrationTests.java
+
+Method found! 
+ 	public void verifyFailures() throws Exception {
+
+git reset --hard 6a18ece6a2dd497a5651f6dac009729d359b048c SUCCESS!
+Target class: AetherGrapeEngineTests    
+2 class(es) found
+Target method: dependencyResolution
+Class path: spring-boot-cli/src/test/java/org/springframework/boot/cli/compiler/grape/AetherGrapeEngineTests.java
+
+Method found! 
+ 	public void dependencyResolution() {
+	public void dependencyResolutionWithExclusions() {
+	public void dependencyResolutionWithCustomClassLoader() {
+
+Class path: spring-boot-project/spring-boot-cli/src/test/java/org/springframework/boot/cli/compiler/grape/AetherGrapeEngineTests.java
+
+Method found! 
+ 		DependencyResolutionContext dependencyResolutionContext = new DependencyResolutionContext();
+		dependencyResolutionContext.addDependencyManagement(new SpringBootDependenciesDependencyManagement());
+				dependencyResolutionContext, false);
+	void dependencyResolution() {
+	void dependencyResolutionWithExclusions() {
+	void dependencyResolutionWithCustomClassLoader() {
+
+git reset --hard 6a18ece6a2dd497a5651f6dac009729d359b048c SUCCESS!
+Target class: AetherGrapeEngineTests    
+2 class(es) found
+Target method: dependencyResolutionWithCustomClassLoader
+Class path: spring-boot-cli/src/test/java/org/springframework/boot/cli/compiler/grape/AetherGrapeEngineTests.java
+
+Method found! 
+ 	public void dependencyResolutionWithCustomClassLoader() {
+
+Class path: spring-boot-project/spring-boot-cli/src/test/java/org/springframework/boot/cli/compiler/grape/AetherGrapeEngineTests.java
+
+Method found! 
+ 	void dependencyResolutionWithCustomClassLoader() {
+
+git reset --hard 6a18ece6a2dd497a5651f6dac009729d359b048c SUCCESS!
+Target class: AetherGrapeEngineTests    
+2 class(es) found
+Target method: dependencyResolutionWithExclusions
+Class path: spring-boot-cli/src/test/java/org/springframework/boot/cli/compiler/grape/AetherGrapeEngineTests.java
+
+Method found! 
+ 	public void dependencyResolutionWithExclusions() {
+
+Class path: spring-boot-project/spring-boot-cli/src/test/java/org/springframework/boot/cli/compiler/grape/AetherGrapeEngineTests.java
+
+Method found! 
+ 	void dependencyResolutionWithExclusions() {
+
+git reset --hard 6d9abdc8ca6a84c1f40cd9fa55137b5ca7023113 SUCCESS!
+Target class: CommandRunnerIntegrationTests    
+2 class(es) found
+Target method: debugAddsAutoconfigReport
+Class path: spring-boot-cli/src/test/java/org/springframework/boot/cli/command/CommandRunnerIntegrationTests.java
+
+Method found! 
+ 	public void debugAddsAutoconfigReport() {
+
+Class path: spring-boot-project/spring-boot-cli/src/test/java/org/springframework/boot/cli/command/CommandRunnerIntegrationTests.java
+
+Missing method, searching on superclass...
+CommandRunnerIntegrationTests does not has superclass.
+git reset --hard 6d9abdc8ca6a84c1f40cd9fa55137b5ca7023113 SUCCESS!
+Target class: DependencyCustomizerTests    
+2 class(es) found
+Target method: allMissingClassesWithNoMissingClassesDoesNotPerformAdd
+Class path: spring-boot-cli/src/test/java/org/springframework/boot/cli/compiler/DependencyCustomizerTests.java
+
+Method found! 
+ 	public void allMissingClassesWithNoMissingClassesDoesNotPerformAdd() {
+
+Class path: spring-boot-project/spring-boot-cli/src/test/java/org/springframework/boot/cli/compiler/DependencyCustomizerTests.java
+
+Method found! 
+ 	void allMissingClassesWithNoMissingClassesDoesNotPerformAdd() {
+
+git reset --hard 6d9abdc8ca6a84c1f40cd9fa55137b5ca7023113 SUCCESS!
+Target class: DependencyCustomizerTests    
+2 class(es) found
+Target method: anyMissingClassesWithNoMissingClassesDoesNotPerformAdd
+Class path: spring-boot-cli/src/test/java/org/springframework/boot/cli/compiler/DependencyCustomizerTests.java
+
+Method found! 
+ 	public void anyMissingClassesWithNoMissingClassesDoesNotPerformAdd() {
+
+Class path: spring-boot-project/spring-boot-cli/src/test/java/org/springframework/boot/cli/compiler/DependencyCustomizerTests.java
+
+Method found! 
+ 	void anyMissingClassesWithNoMissingClassesDoesNotPerformAdd() {
+
+git reset --hard 6d9abdc8ca6a84c1f40cd9fa55137b5ca7023113 SUCCESS!
+Target class: DependencyCustomizerTests    
+2 class(es) found
+Target method: nonTransitiveAdd
+Class path: spring-boot-cli/src/test/java/org/springframework/boot/cli/compiler/DependencyCustomizerTests.java
+
+Method found! 
+ 	public void nonTransitiveAdd() {
+
+Class path: spring-boot-project/spring-boot-cli/src/test/java/org/springframework/boot/cli/compiler/DependencyCustomizerTests.java
+
+Method found! 
+ 	void nonTransitiveAdd() {
+
+git reset --hard 6df001d30f6a53436872d8a583a26fe322d74b43 SUCCESS!
+Target class: ResourceUtilsTests    
+2 class(es) found
+Target method: directoryOfFiles
+Class path: spring-boot-cli/src/test/java/org/springframework/boot/cli/util/ResourceUtilsTests.java
+
+Method found! 
+ 	public void directoryOfFilesWithPrefix() {
+	public void directoryOfFiles() {
+
+Class path: spring-boot-project/spring-boot-cli/src/test/java/org/springframework/boot/cli/util/ResourceUtilsTests.java
+
+Method found! 
+ 	void directoryOfFilesWithPrefix() {
+	void directoryOfFiles() {
+
+git reset --hard 6df001d30f6a53436872d8a583a26fe322d74b43 SUCCESS!
+Target class: ResourceUtilsTests    
+2 class(es) found
+Target method: directoryOfFilesWithPrefix
+Class path: spring-boot-cli/src/test/java/org/springframework/boot/cli/util/ResourceUtilsTests.java
+
+Method found! 
+ 	public void directoryOfFilesWithPrefix() {
+
+Class path: spring-boot-project/spring-boot-cli/src/test/java/org/springframework/boot/cli/util/ResourceUtilsTests.java
+
+Method found! 
+ 	void directoryOfFilesWithPrefix() {
+
+git reset --hard 6df001d30f6a53436872d8a583a26fe322d74b43 SUCCESS!
+Target class: ResourceUtilsTests    
+2 class(es) found
+Target method: duplicateResource
+Class path: spring-boot-cli/src/test/java/org/springframework/boot/cli/util/ResourceUtilsTests.java
+
+Method found! 
+ 	public void duplicateResource() throws Exception {
+
+Class path: spring-boot-project/spring-boot-cli/src/test/java/org/springframework/boot/cli/util/ResourceUtilsTests.java
+
+Method found! 
+ 	void duplicateResource() throws Exception {
+
+git reset --hard 6df001d30f6a53436872d8a583a26fe322d74b43 SUCCESS!
+Target class: ResourceUtilsTests    
+2 class(es) found
+Target method: explicitClasspathResource
+Class path: spring-boot-cli/src/test/java/org/springframework/boot/cli/util/ResourceUtilsTests.java
+
+Method found! 
+ 	public void explicitClasspathResource() {
+	public void explicitClasspathResourceWithSlash() {
+
+Class path: spring-boot-project/spring-boot-cli/src/test/java/org/springframework/boot/cli/util/ResourceUtilsTests.java
+
+Method found! 
+ 	void explicitClasspathResource() {
+	void explicitClasspathResourceWithSlash() {
+
+git reset --hard 6df001d30f6a53436872d8a583a26fe322d74b43 SUCCESS!
+Target class: ResourceUtilsTests    
+2 class(es) found
+Target method: explicitClasspathResourceWithSlash
+Class path: spring-boot-cli/src/test/java/org/springframework/boot/cli/util/ResourceUtilsTests.java
+
+Method found! 
+ 	public void explicitClasspathResourceWithSlash() {
+
+Class path: spring-boot-project/spring-boot-cli/src/test/java/org/springframework/boot/cli/util/ResourceUtilsTests.java
+
+Method found! 
+ 	void explicitClasspathResourceWithSlash() {
+
+git reset --hard 6df001d30f6a53436872d8a583a26fe322d74b43 SUCCESS!
+Target class: ResourceUtilsTests    
+2 class(es) found
+Target method: nonexistentClasspathResource
+Class path: spring-boot-cli/src/test/java/org/springframework/boot/cli/util/ResourceUtilsTests.java
+
+Method found! 
+ 	public void nonexistentClasspathResource() {
+
+Class path: spring-boot-project/spring-boot-cli/src/test/java/org/springframework/boot/cli/util/ResourceUtilsTests.java
+
+Method found! 
+ 	void nonexistentClasspathResource() {
+
+git reset --hard 6df001d30f6a53436872d8a583a26fe322d74b43 SUCCESS!
+Target class: ResourceUtilsTests    
+2 class(es) found
+Target method: recursiveFiles
+Class path: spring-boot-cli/src/test/java/org/springframework/boot/cli/util/ResourceUtilsTests.java
+
+Method found! 
+ 	public void recursiveFiles() {
+	public void recursiveFilesByPatternWithPrefix() {
+	public void recursiveFilesByPattern() {
+
+Class path: spring-boot-project/spring-boot-cli/src/test/java/org/springframework/boot/cli/util/ResourceUtilsTests.java
+
+Method found! 
+ 	void recursiveFiles() {
+	void recursiveFilesByPatternWithPrefix() {
+	void recursiveFilesByPattern() {
+
+git reset --hard 6df001d30f6a53436872d8a583a26fe322d74b43 SUCCESS!
+Target class: ResourceUtilsTests    
+2 class(es) found
+Target method: recursiveFilesByPattern
+Class path: spring-boot-cli/src/test/java/org/springframework/boot/cli/util/ResourceUtilsTests.java
+
+Method found! 
+ 	public void recursiveFilesByPatternWithPrefix() {
+	public void recursiveFilesByPattern() {
+
+Class path: spring-boot-project/spring-boot-cli/src/test/java/org/springframework/boot/cli/util/ResourceUtilsTests.java
+
+Method found! 
+ 	void recursiveFilesByPatternWithPrefix() {
+	void recursiveFilesByPattern() {
+
+git reset --hard 6df001d30f6a53436872d8a583a26fe322d74b43 SUCCESS!
+Target class: ResourceUtilsTests    
+2 class(es) found
+Target method: recursiveFilesByPatternWithPrefix
+Class path: spring-boot-cli/src/test/java/org/springframework/boot/cli/util/ResourceUtilsTests.java
+
+Method found! 
+ 	public void recursiveFilesByPatternWithPrefix() {
+
+Class path: spring-boot-project/spring-boot-cli/src/test/java/org/springframework/boot/cli/util/ResourceUtilsTests.java
+
+Method found! 
+ 	void recursiveFilesByPatternWithPrefix() {
+
+git reset --hard 7e5bb9697c0c0b64e05e6d77810c74477873c903 SUCCESS!
+Target class: SampleIntegrationTests    
+2 class(es) found
+Target method: appSample
+Class path: spring-boot-cli/src/test/java/org/springframework/boot/cli/SampleIntegrationTests.java
+
+Method found! 
+ 	public void appSample() throws Exception {
+
+Class path: spring-boot-project/spring-boot-cli/src/test/java/org/springframework/boot/cli/SampleIntegrationTests.java
+
+Missing method, searching on superclass...
+SampleIntegrationTests does not has superclass.
+git reset --hard 7e5bb9697c0c0b64e05e6d77810c74477873c903 SUCCESS!
+Target class: SampleIntegrationTests    
+2 class(es) found
+Target method: caching
+Class path: spring-boot-cli/src/test/java/org/springframework/boot/cli/SampleIntegrationTests.java
+
+Method found! 
+ 	public void caching() throws Exception {
+		this.cli.run("caching.groovy");
+
+Class path: spring-boot-project/spring-boot-cli/src/test/java/org/springframework/boot/cli/SampleIntegrationTests.java
+
+Method found! 
+ 	void caching() throws Exception {
+		assertThat(this.cli.run("caching.groovy")).contains("Hello World");
+
+git reset --hard 7e5bb9697c0c0b64e05e6d77810c74477873c903 SUCCESS!
+Target class: SampleIntegrationTests    
+2 class(es) found
+Target method: integrationSample
+Class path: spring-boot-cli/src/test/java/org/springframework/boot/cli/SampleIntegrationTests.java
+
+Method found! 
+ 	public void integrationSample() throws Exception {
+
+Class path: spring-boot-project/spring-boot-cli/src/test/java/org/springframework/boot/cli/SampleIntegrationTests.java
+
+Method found! 
+ 	void integrationSample() throws Exception {
+
+git reset --hard 7e5bb9697c0c0b64e05e6d77810c74477873c903 SUCCESS!
+Target class: SampleIntegrationTests    
+2 class(es) found
+Target method: jmsSample
+Class path: spring-boot-cli/src/test/java/org/springframework/boot/cli/SampleIntegrationTests.java
+
+Method found! 
+ 	public void jmsSample() throws Exception {
+
+Class path: spring-boot-project/spring-boot-cli/src/test/java/org/springframework/boot/cli/SampleIntegrationTests.java
+
+Method found! 
+ 	void jmsSample() throws Exception {
+
+git reset --hard 7e5bb9697c0c0b64e05e6d77810c74477873c903 SUCCESS!
+Target class: SampleIntegrationTests    
+2 class(es) found
+Target method: jobSample
+Class path: spring-boot-cli/src/test/java/org/springframework/boot/cli/SampleIntegrationTests.java
+
+Method found! 
+ 	public void jobSample() throws Exception {
+
+Class path: spring-boot-project/spring-boot-cli/src/test/java/org/springframework/boot/cli/SampleIntegrationTests.java
+
+Method found! 
+ 	void jobSample() throws Exception {
+
+git reset --hard 7e5bb9697c0c0b64e05e6d77810c74477873c903 SUCCESS!
+Target class: SampleIntegrationTests    
+2 class(es) found
+Target method: reactorSample
+Class path: spring-boot-cli/src/test/java/org/springframework/boot/cli/SampleIntegrationTests.java
+
+Method found! 
+ 	public void reactorSample() throws Exception {
+
+Class path: spring-boot-project/spring-boot-cli/src/test/java/org/springframework/boot/cli/SampleIntegrationTests.java
+
+Missing method, searching on superclass...
+SampleIntegrationTests does not has superclass.
+git reset --hard 7e5bb9697c0c0b64e05e6d77810c74477873c903 SUCCESS!
+Target class: SampleIntegrationTests    
+2 class(es) found
+Target method: txSample
+Class path: spring-boot-cli/src/test/java/org/springframework/boot/cli/SampleIntegrationTests.java
+
+Method found! 
+ 	public void txSample() throws Exception {
+
+Class path: spring-boot-project/spring-boot-cli/src/test/java/org/springframework/boot/cli/SampleIntegrationTests.java
+
+Method found! 
+ 	void txSample() throws Exception {
+
+git reset --hard 8023ddd0c272d62c2cebc94e39a8e19940736ce4 SUCCESS!
+Target class: ReproIntegrationTests    
+2 class(es) found
+Target method: jarFileExtensionNeeded
+Class path: spring-boot-cli/src/test/java/org/springframework/boot/cli/ReproIntegrationTests.java
+
+Method found! 
+ 	public void jarFileExtensionNeeded() throws Exception {
+
+Class path: spring-boot-project/spring-boot-cli/src/test/java/org/springframework/boot/cli/ReproIntegrationTests.java
+
+Method found! 
+ 	void jarFileExtensionNeeded() throws Exception {
+
+git reset --hard 884c058e573ff3bf3824aea414f56485d514d00d SUCCESS!
+Target class: AetherGrapeEngineTests    
+2 class(es) found
+Target method: dependencyResolution
+Class path: spring-boot-cli/src/test/java/org/springframework/boot/cli/compiler/grape/AetherGrapeEngineTests.java
+
+Method found! 
+ 	public void dependencyResolution() {
+	public void dependencyResolutionWithExclusions() {
+	public void dependencyResolutionWithCustomClassLoader() {
+
+Class path: spring-boot-project/spring-boot-cli/src/test/java/org/springframework/boot/cli/compiler/grape/AetherGrapeEngineTests.java
+
+Method found! 
+ 		DependencyResolutionContext dependencyResolutionContext = new DependencyResolutionContext();
+		dependencyResolutionContext.addDependencyManagement(new SpringBootDependenciesDependencyManagement());
+				dependencyResolutionContext, false);
+	void dependencyResolution() {
+	void dependencyResolutionWithExclusions() {
+	void dependencyResolutionWithCustomClassLoader() {
+
+git reset --hard 884c058e573ff3bf3824aea414f56485d514d00d SUCCESS!
+Target class: AetherGrapeEngineTests    
+2 class(es) found
+Target method: dependencyResolutionWithCustomClassLoader
+Class path: spring-boot-cli/src/test/java/org/springframework/boot/cli/compiler/grape/AetherGrapeEngineTests.java
+
+Method found! 
+ 	public void dependencyResolutionWithCustomClassLoader() {
+
+Class path: spring-boot-project/spring-boot-cli/src/test/java/org/springframework/boot/cli/compiler/grape/AetherGrapeEngineTests.java
+
+Method found! 
+ 	void dependencyResolutionWithCustomClassLoader() {
+
+git reset --hard 884c058e573ff3bf3824aea414f56485d514d00d SUCCESS!
+Target class: AetherGrapeEngineTests    
+2 class(es) found
+Target method: dependencyResolutionWithExclusions
+Class path: spring-boot-cli/src/test/java/org/springframework/boot/cli/compiler/grape/AetherGrapeEngineTests.java
+
+Method found! 
+ 	public void dependencyResolutionWithExclusions() {
+
+Class path: spring-boot-project/spring-boot-cli/src/test/java/org/springframework/boot/cli/compiler/grape/AetherGrapeEngineTests.java
+
+Method found! 
+ 	void dependencyResolutionWithExclusions() {
+
+git reset --hard 91fb4f22bdef6324110fcfc57bbecdf1f3e149b0 SUCCESS!
+Target class: TestCommandIntegrationTests    
+1 class(es) found
+Target method: appAndTestsInOneFile
+Class path: spring-boot-cli/src/test/java/org/springframework/boot/cli/TestCommandIntegrationTests.java
+
+Method found! 
+ 	public void appAndTestsInOneFile() throws Exception {
+
+git reset --hard 91fb4f22bdef6324110fcfc57bbecdf1f3e149b0 SUCCESS!
+Target class: TestCommandIntegrationTests    
+1 class(es) found
+Target method: appInOneFileTestsInAnotherFile
+Class path: spring-boot-cli/src/test/java/org/springframework/boot/cli/TestCommandIntegrationTests.java
+
+Method found! 
+ 	public void appInOneFileTestsInAnotherFile() throws Exception {
+
+git reset --hard 91fb4f22bdef6324110fcfc57bbecdf1f3e149b0 SUCCESS!
+Target class: TestCommandIntegrationTests    
+1 class(es) found
+Target method: empty
+Class path: spring-boot-cli/src/test/java/org/springframework/boot/cli/TestCommandIntegrationTests.java
+
+Method found! 
+ 	public void empty() throws Exception {
+		String output = this.cli.test("empty.groovy");
+
+git reset --hard 91fb4f22bdef6324110fcfc57bbecdf1f3e149b0 SUCCESS!
+Target class: TestCommandIntegrationTests    
+1 class(es) found
+Target method: noTests
+Class path: spring-boot-cli/src/test/java/org/springframework/boot/cli/TestCommandIntegrationTests.java
+
+Method found! 
+ 	public void noTests() throws Throwable {
+
+git reset --hard 91fb4f22bdef6324110fcfc57bbecdf1f3e149b0 SUCCESS!
+Target class: TestCommandIntegrationTests    
+1 class(es) found
+Target method: verifyFailures
+Class path: spring-boot-cli/src/test/java/org/springframework/boot/cli/TestCommandIntegrationTests.java
+
+Method found! 
+ 	public void verifyFailures() throws Exception {
+
+git reset --hard 91fb4f22bdef6324110fcfc57bbecdf1f3e149b0 SUCCESS!
+Target class: CommandRunnerIntegrationTests    
+2 class(es) found
+Target method: debugAddsAutoconfigReport
+Class path: spring-boot-cli/src/test/java/org/springframework/boot/cli/command/CommandRunnerIntegrationTests.java
+
+Method found! 
+ 	public void debugAddsAutoconfigReport() {
+
+Class path: spring-boot-project/spring-boot-cli/src/test/java/org/springframework/boot/cli/command/CommandRunnerIntegrationTests.java
+
+Missing method, searching on superclass...
+CommandRunnerIntegrationTests does not has superclass.
+git reset --hard 9af079721f0f82d6209750bc714494c7615fd59b SUCCESS!
+Target class: DependencyCustomizerTests    
+2 class(es) found
+Target method: allMissingClassesWithAllClassesMissingPerformsAdd
+Class path: spring-boot-cli/src/test/java/org/springframework/boot/cli/compiler/DependencyCustomizerTests.java
+
+Method found! 
+ 	public void allMissingClassesWithAllClassesMissingPerformsAdd() {
+
+Class path: spring-boot-project/spring-boot-cli/src/test/java/org/springframework/boot/cli/compiler/DependencyCustomizerTests.java
+
+Method found! 
+ 	void allMissingClassesWithAllClassesMissingPerformsAdd() {
+
+git reset --hard 9af079721f0f82d6209750bc714494c7615fd59b SUCCESS!
+Target class: DependencyCustomizerTests    
+2 class(es) found
+Target method: allMissingClassesWithMixtureOfClassesDoesNotPerformAdd
+Class path: spring-boot-cli/src/test/java/org/springframework/boot/cli/compiler/DependencyCustomizerTests.java
+
+Method found! 
+ 	public void allMissingClassesWithMixtureOfClassesDoesNotPerformAdd() {
+
+Class path: spring-boot-project/spring-boot-cli/src/test/java/org/springframework/boot/cli/compiler/DependencyCustomizerTests.java
+
+Method found! 
+ 	void allMissingClassesWithMixtureOfClassesDoesNotPerformAdd() {
+
+git reset --hard 9af079721f0f82d6209750bc714494c7615fd59b SUCCESS!
+Target class: DependencyCustomizerTests    
+2 class(es) found
+Target method: allMissingClassesWithNoMissingClassesDoesNotPerformAdd
+Class path: spring-boot-cli/src/test/java/org/springframework/boot/cli/compiler/DependencyCustomizerTests.java
+
+Method found! 
+ 	public void allMissingClassesWithNoMissingClassesDoesNotPerformAdd() {
+
+Class path: spring-boot-project/spring-boot-cli/src/test/java/org/springframework/boot/cli/compiler/DependencyCustomizerTests.java
+
+Method found! 
+ 	void allMissingClassesWithNoMissingClassesDoesNotPerformAdd() {
+
+git reset --hard 9af079721f0f82d6209750bc714494c7615fd59b SUCCESS!
+Target class: DependencyCustomizerTests    
+2 class(es) found
+Target method: anyMissingClassesWithMissingClassesPerformsAdd
+Class path: spring-boot-cli/src/test/java/org/springframework/boot/cli/compiler/DependencyCustomizerTests.java
+
+Method found! 
+ 	public void anyMissingClassesWithMissingClassesPerformsAdd() {
+
+Class path: spring-boot-project/spring-boot-cli/src/test/java/org/springframework/boot/cli/compiler/DependencyCustomizerTests.java
+
+Method found! 
+ 	void anyMissingClassesWithMissingClassesPerformsAdd() {
+
+git reset --hard 9af079721f0f82d6209750bc714494c7615fd59b SUCCESS!
+Target class: DependencyCustomizerTests    
+2 class(es) found
+Target method: anyMissingClassesWithMixtureOfClassesPerformsAdd
+Class path: spring-boot-cli/src/test/java/org/springframework/boot/cli/compiler/DependencyCustomizerTests.java
+
+Method found! 
+ 	public void anyMissingClassesWithMixtureOfClassesPerformsAdd() {
+
+Class path: spring-boot-project/spring-boot-cli/src/test/java/org/springframework/boot/cli/compiler/DependencyCustomizerTests.java
+
+Method found! 
+ 	void anyMissingClassesWithMixtureOfClassesPerformsAdd() {
+
+git reset --hard 9af079721f0f82d6209750bc714494c7615fd59b SUCCESS!
+Target class: DependencyCustomizerTests    
+2 class(es) found
+Target method: anyMissingClassesWithNoMissingClassesDoesNotPerformAdd
+Class path: spring-boot-cli/src/test/java/org/springframework/boot/cli/compiler/DependencyCustomizerTests.java
+
+Method found! 
+ 	public void anyMissingClassesWithNoMissingClassesDoesNotPerformAdd() {
+
+Class path: spring-boot-project/spring-boot-cli/src/test/java/org/springframework/boot/cli/compiler/DependencyCustomizerTests.java
+
+Method found! 
+ 	void anyMissingClassesWithNoMissingClassesDoesNotPerformAdd() {
+
+git reset --hard 9af079721f0f82d6209750bc714494c7615fd59b SUCCESS!
+Target class: DependencyCustomizerTests    
+2 class(es) found
+Target method: basicAdd
+Class path: spring-boot-cli/src/test/java/org/springframework/boot/cli/compiler/DependencyCustomizerTests.java
+
+Method found! 
+ 	public void basicAdd() {
+
+Class path: spring-boot-project/spring-boot-cli/src/test/java/org/springframework/boot/cli/compiler/DependencyCustomizerTests.java
+
+Method found! 
+ 	void basicAdd() {
+
+git reset --hard 9af079721f0f82d6209750bc714494c7615fd59b SUCCESS!
+Target class: DependencyCustomizerTests    
+2 class(es) found
+Target method: fullyCustomized
+Class path: spring-boot-cli/src/test/java/org/springframework/boot/cli/compiler/DependencyCustomizerTests.java
+
+Method found! 
+ 	public void fullyCustomized() {
+
+Class path: spring-boot-project/spring-boot-cli/src/test/java/org/springframework/boot/cli/compiler/DependencyCustomizerTests.java
+
+Method found! 
+ 	void fullyCustomized() {
+
+git reset --hard 9af079721f0f82d6209750bc714494c7615fd59b SUCCESS!
+Target class: DependencyCustomizerTests    
+2 class(es) found
+Target method: nonTransitiveAdd
+Class path: spring-boot-cli/src/test/java/org/springframework/boot/cli/compiler/DependencyCustomizerTests.java
+
+Method found! 
+ 	public void nonTransitiveAdd() {
+
+Class path: spring-boot-project/spring-boot-cli/src/test/java/org/springframework/boot/cli/compiler/DependencyCustomizerTests.java
+
+Method found! 
+ 	void nonTransitiveAdd() {
+
+git reset --hard 9af079721f0f82d6209750bc714494c7615fd59b SUCCESS!
+Target class: ManagedDependenciesArtifactCoordinatesResolverTests    
+1 class(es) found
+Target method: getGroupIdForBootArtifact
+Class path: spring-boot-cli/src/test/java/org/springframework/boot/cli/compiler/dependencies/ManagedDependenciesArtifactCoordinatesResolverTests.java
+
+Method found! 
+ 	public void getGroupIdForBootArtifact() throws Exception {
+
+git reset --hard 9af079721f0f82d6209750bc714494c7615fd59b SUCCESS!
+Target class: ManagedDependenciesArtifactCoordinatesResolverTests    
+1 class(es) found
+Target method: getGroupIdFound
+Class path: spring-boot-cli/src/test/java/org/springframework/boot/cli/compiler/dependencies/ManagedDependenciesArtifactCoordinatesResolverTests.java
+
+Method found! 
+ 	public void getGroupIdFound() throws Exception {
+
+git reset --hard 9af079721f0f82d6209750bc714494c7615fd59b SUCCESS!
+Target class: ManagedDependenciesArtifactCoordinatesResolverTests    
+1 class(es) found
+Target method: getGroupIdNotFound
+Class path: spring-boot-cli/src/test/java/org/springframework/boot/cli/compiler/dependencies/ManagedDependenciesArtifactCoordinatesResolverTests.java
+
+Method found! 
+ 	public void getGroupIdNotFound() throws Exception {
+
+git reset --hard 9af079721f0f82d6209750bc714494c7615fd59b SUCCESS!
+Target class: ManagedDependenciesArtifactCoordinatesResolverTests    
+1 class(es) found
+Target method: getVersionForBootArtifact
+Class path: spring-boot-cli/src/test/java/org/springframework/boot/cli/compiler/dependencies/ManagedDependenciesArtifactCoordinatesResolverTests.java
+
+Method found! 
+ 	public void getVersionForBootArtifact() throws Exception {
+
+git reset --hard 9af079721f0f82d6209750bc714494c7615fd59b SUCCESS!
+Target class: ManagedDependenciesArtifactCoordinatesResolverTests    
+1 class(es) found
+Target method: getVersionFound
+Class path: spring-boot-cli/src/test/java/org/springframework/boot/cli/compiler/dependencies/ManagedDependenciesArtifactCoordinatesResolverTests.java
+
+Method found! 
+ 	public void getVersionFound() throws Exception {
+
+git reset --hard 9af079721f0f82d6209750bc714494c7615fd59b SUCCESS!
+Target class: ManagedDependenciesArtifactCoordinatesResolverTests    
+1 class(es) found
+Target method: getVersionNotFound
+Class path: spring-boot-cli/src/test/java/org/springframework/boot/cli/compiler/dependencies/ManagedDependenciesArtifactCoordinatesResolverTests.java
+
+Method found! 
+ 	public void getVersionNotFound() throws Exception {
+
+git reset --hard 9dec27e7bf921a0d5ad3b1d64486a4bff92c1df0 SUCCESS!
+Target class: AetherGrapeEngineTests    
+2 class(es) found
+Target method: dependencyResolution
+Class path: spring-boot-cli/src/test/java/org/springframework/boot/cli/compiler/grape/AetherGrapeEngineTests.java
+
+Method found! 
+ 	public void dependencyResolution() {
+	public void dependencyResolutionWithExclusions() {
+	public void dependencyResolutionWithCustomClassLoader() {
+
+Class path: spring-boot-project/spring-boot-cli/src/test/java/org/springframework/boot/cli/compiler/grape/AetherGrapeEngineTests.java
+
+Method found! 
+ 		DependencyResolutionContext dependencyResolutionContext = new DependencyResolutionContext();
+		dependencyResolutionContext.addDependencyManagement(new SpringBootDependenciesDependencyManagement());
+				dependencyResolutionContext, false);
+	void dependencyResolution() {
+	void dependencyResolutionWithExclusions() {
+	void dependencyResolutionWithCustomClassLoader() {
+
+git reset --hard 9dec27e7bf921a0d5ad3b1d64486a4bff92c1df0 SUCCESS!
+Target class: AetherGrapeEngineTests    
+2 class(es) found
+Target method: dependencyResolutionWithCustomClassLoader
+Class path: spring-boot-cli/src/test/java/org/springframework/boot/cli/compiler/grape/AetherGrapeEngineTests.java
+
+Method found! 
+ 	public void dependencyResolutionWithCustomClassLoader() {
+
+Class path: spring-boot-project/spring-boot-cli/src/test/java/org/springframework/boot/cli/compiler/grape/AetherGrapeEngineTests.java
+
+Method found! 
+ 	void dependencyResolutionWithCustomClassLoader() {
+
+git reset --hard 9dec27e7bf921a0d5ad3b1d64486a4bff92c1df0 SUCCESS!
+Target class: AetherGrapeEngineTests    
+2 class(es) found
+Target method: dependencyResolutionWithExclusions
+Class path: spring-boot-cli/src/test/java/org/springframework/boot/cli/compiler/grape/AetherGrapeEngineTests.java
+
+Method found! 
+ 	public void dependencyResolutionWithExclusions() {
+
+Class path: spring-boot-project/spring-boot-cli/src/test/java/org/springframework/boot/cli/compiler/grape/AetherGrapeEngineTests.java
+
+Method found! 
+ 	void dependencyResolutionWithExclusions() {
+
+git reset --hard a1a643ca245c8b1063af329807254bb9ae691964 SUCCESS!
+Target class: ClassLoaderIntegrationTests    
+2 class(es) found
+Target method: runWithIsolatedClassLoader
+Class path: spring-boot-cli/src/test/java/org/springframework/boot/cli/ClassLoaderIntegrationTests.java
+
+Method found! 
+ 	public void runWithIsolatedClassLoader() throws Exception {
+
+Class path: spring-boot-project/spring-boot-cli/src/test/java/org/springframework/boot/cli/ClassLoaderIntegrationTests.java
+
+Method found! 
+ 	void runWithIsolatedClassLoader() throws Exception {
+
+git reset --hard a1a643ca245c8b1063af329807254bb9ae691964 SUCCESS!
+Target class: SampleIntegrationTests    
+2 class(es) found
+Target method: appSample
+Class path: spring-boot-cli/src/test/java/org/springframework/boot/cli/SampleIntegrationTests.java
+
+Method found! 
+ 	public void appSample() throws Exception {
+
+Class path: spring-boot-project/spring-boot-cli/src/test/java/org/springframework/boot/cli/SampleIntegrationTests.java
+
+Missing method, searching on superclass...
+SampleIntegrationTests does not has superclass.
+git reset --hard a1a643ca245c8b1063af329807254bb9ae691964 SUCCESS!
+Target class: SampleIntegrationTests    
+2 class(es) found
+Target method: integrationSample
+Class path: spring-boot-cli/src/test/java/org/springframework/boot/cli/SampleIntegrationTests.java
+
+Method found! 
+ 	public void integrationSample() throws Exception {
+
+Class path: spring-boot-project/spring-boot-cli/src/test/java/org/springframework/boot/cli/SampleIntegrationTests.java
+
+Method found! 
+ 	void integrationSample() throws Exception {
+
+git reset --hard a1a643ca245c8b1063af329807254bb9ae691964 SUCCESS!
+Target class: SampleIntegrationTests    
+2 class(es) found
+Target method: jobSample
+Class path: spring-boot-cli/src/test/java/org/springframework/boot/cli/SampleIntegrationTests.java
+
+Method found! 
+ 	public void jobSample() throws Exception {
+
+Class path: spring-boot-project/spring-boot-cli/src/test/java/org/springframework/boot/cli/SampleIntegrationTests.java
+
+Method found! 
+ 	void jobSample() throws Exception {
+
+git reset --hard a1a643ca245c8b1063af329807254bb9ae691964 SUCCESS!
+Target class: SampleIntegrationTests    
+2 class(es) found
+Target method: reactorSample
+Class path: spring-boot-cli/src/test/java/org/springframework/boot/cli/SampleIntegrationTests.java
+
+Method found! 
+ 	public void reactorSample() throws Exception {
+
+Class path: spring-boot-project/spring-boot-cli/src/test/java/org/springframework/boot/cli/SampleIntegrationTests.java
+
+Missing method, searching on superclass...
+SampleIntegrationTests does not has superclass.
+git reset --hard a1a643ca245c8b1063af329807254bb9ae691964 SUCCESS!
+Target class: SampleIntegrationTests    
+2 class(es) found
+Target method: txSample
+Class path: spring-boot-cli/src/test/java/org/springframework/boot/cli/SampleIntegrationTests.java
+
+Method found! 
+ 	public void txSample() throws Exception {
+
+Class path: spring-boot-project/spring-boot-cli/src/test/java/org/springframework/boot/cli/SampleIntegrationTests.java
+
+Method found! 
+ 	void txSample() throws Exception {
+
+git reset --hard a3d4e92d9f2c12911b7e1156fcef4789af31ee15 SUCCESS!
+Target class: CommandRunnerIntegrationTests    
+2 class(es) found
+Target method: debugAddsAutoconfigReport
+Class path: spring-boot-cli/src/test/java/org/springframework/boot/cli/command/CommandRunnerIntegrationTests.java
+
+Method found! 
+ 	public void debugAddsAutoconfigReport() {
+
+Class path: spring-boot-project/spring-boot-cli/src/test/java/org/springframework/boot/cli/command/CommandRunnerIntegrationTests.java
+
+Missing method, searching on superclass...
+CommandRunnerIntegrationTests does not has superclass.
+git reset --hard a3d4e92d9f2c12911b7e1156fcef4789af31ee15 SUCCESS!
+Target class: AetherGrapeEngineTests    
+2 class(es) found
+Target method: dependencyResolution
+Class path: spring-boot-cli/src/test/java/org/springframework/boot/cli/compiler/grape/AetherGrapeEngineTests.java
+
+Method found! 
+ 	public void dependencyResolution() {
+	public void dependencyResolutionWithExclusions() {
+	public void dependencyResolutionWithCustomClassLoader() {
+
+Class path: spring-boot-project/spring-boot-cli/src/test/java/org/springframework/boot/cli/compiler/grape/AetherGrapeEngineTests.java
+
+Method found! 
+ 		DependencyResolutionContext dependencyResolutionContext = new DependencyResolutionContext();
+		dependencyResolutionContext.addDependencyManagement(new SpringBootDependenciesDependencyManagement());
+				dependencyResolutionContext, false);
+	void dependencyResolution() {
+	void dependencyResolutionWithExclusions() {
+	void dependencyResolutionWithCustomClassLoader() {
+
+git reset --hard a3d4e92d9f2c12911b7e1156fcef4789af31ee15 SUCCESS!
+Target class: AetherGrapeEngineTests    
+2 class(es) found
+Target method: dependencyResolutionWithCustomClassLoader
+Class path: spring-boot-cli/src/test/java/org/springframework/boot/cli/compiler/grape/AetherGrapeEngineTests.java
+
+Method found! 
+ 	public void dependencyResolutionWithCustomClassLoader() {
+
+Class path: spring-boot-project/spring-boot-cli/src/test/java/org/springframework/boot/cli/compiler/grape/AetherGrapeEngineTests.java
+
+Method found! 
+ 	void dependencyResolutionWithCustomClassLoader() {
+
+git reset --hard a3d4e92d9f2c12911b7e1156fcef4789af31ee15 SUCCESS!
+Target class: AetherGrapeEngineTests    
+2 class(es) found
+Target method: dependencyResolutionWithExclusions
+Class path: spring-boot-cli/src/test/java/org/springframework/boot/cli/compiler/grape/AetherGrapeEngineTests.java
+
+Method found! 
+ 	public void dependencyResolutionWithExclusions() {
+
+Class path: spring-boot-project/spring-boot-cli/src/test/java/org/springframework/boot/cli/compiler/grape/AetherGrapeEngineTests.java
+
+Method found! 
+ 	void dependencyResolutionWithExclusions() {
+
+git reset --hard a7e1ec842d263301f32eb1195d1936d436c1db13 SUCCESS!
+Target class: AetherGrapeEngineTests    
+2 class(es) found
+Target method: dependencyResolution
+Class path: spring-boot-cli/src/test/java/org/springframework/boot/cli/compiler/grape/AetherGrapeEngineTests.java
+
+Method found! 
+ 	public void dependencyResolution() {
+	public void dependencyResolutionWithExclusions() {
+	public void dependencyResolutionWithCustomClassLoader() {
+
+Class path: spring-boot-project/spring-boot-cli/src/test/java/org/springframework/boot/cli/compiler/grape/AetherGrapeEngineTests.java
+
+Method found! 
+ 		DependencyResolutionContext dependencyResolutionContext = new DependencyResolutionContext();
+		dependencyResolutionContext.addDependencyManagement(new SpringBootDependenciesDependencyManagement());
+				dependencyResolutionContext, false);
+	void dependencyResolution() {
+	void dependencyResolutionWithExclusions() {
+	void dependencyResolutionWithCustomClassLoader() {
+
+git reset --hard a7e1ec842d263301f32eb1195d1936d436c1db13 SUCCESS!
+Target class: AetherGrapeEngineTests    
+2 class(es) found
+Target method: dependencyResolutionWithCustomClassLoader
+Class path: spring-boot-cli/src/test/java/org/springframework/boot/cli/compiler/grape/AetherGrapeEngineTests.java
+
+Method found! 
+ 	public void dependencyResolutionWithCustomClassLoader() {
+
+Class path: spring-boot-project/spring-boot-cli/src/test/java/org/springframework/boot/cli/compiler/grape/AetherGrapeEngineTests.java
+
+Method found! 
+ 	void dependencyResolutionWithCustomClassLoader() {
+
+git reset --hard a7e1ec842d263301f32eb1195d1936d436c1db13 SUCCESS!
+Target class: AetherGrapeEngineTests    
+2 class(es) found
+Target method: dependencyResolutionWithExclusions
+Class path: spring-boot-cli/src/test/java/org/springframework/boot/cli/compiler/grape/AetherGrapeEngineTests.java
+
+Method found! 
+ 	public void dependencyResolutionWithExclusions() {
+
+Class path: spring-boot-project/spring-boot-cli/src/test/java/org/springframework/boot/cli/compiler/grape/AetherGrapeEngineTests.java
+
+Method found! 
+ 	void dependencyResolutionWithExclusions() {
+
+git reset --hard a973fd41f48fc395692ef34d224065c260cc2e58 SUCCESS!
+Target class: HibernateJpaAutoConfigurationTests    
+2 class(es) found
+Target method: testNamingStrategyThatWorkedInOneDotOhContinuesToWork
+Class path: spring-boot-autoconfigure/src/test/java/org/springframework/boot/autoconfigure/orm/jpa/HibernateJpaAutoConfigurationTests.java
+
+Method found! 
+ 	public void testNamingStrategyThatWorkedInOneDotOhContinuesToWork() {
+
+Class path: spring-boot-project/spring-boot-autoconfigure/src/test/java/org/springframework/boot/autoconfigure/orm/jpa/HibernateJpaAutoConfigurationTests.java
+
+Missing method, searching on superclass...
+Target superclass: AbstractJpaAutoConfigurationTests
+Class path: ./spring-boot-autoconfigure/src/test/java/org/springframework/boot/autoconfigure/orm/jpa/AbstractJpaAutoConfigurationTests.java
+./spring-boot-project/spring-boot-autoconfigure/src/test/java/org/springframework/boot/autoconfigure/orm/jpa/AbstractJpaAutoConfigurationTests.java
+
+Missing method, searching on superclass...
+HibernateJpaAutoConfigurationTests does not has superclass.
+git reset --hard b6bacd5e8a6d19c800f6dd88249ada91d8da127b SUCCESS!
+Target class: SampleIntegrationTests    
+2 class(es) found
+Target method: caching
+Class path: spring-boot-cli/src/test/java/org/springframework/boot/cli/SampleIntegrationTests.java
+
+Method found! 
+ 	public void caching() throws Exception {
+		this.cli.run("caching.groovy");
+
+Class path: spring-boot-project/spring-boot-cli/src/test/java/org/springframework/boot/cli/SampleIntegrationTests.java
+
+Method found! 
+ 	void caching() throws Exception {
+		assertThat(this.cli.run("caching.groovy")).contains("Hello World");
+
+git reset --hard b6bacd5e8a6d19c800f6dd88249ada91d8da127b SUCCESS!
+Target class: SampleIntegrationTests    
+2 class(es) found
+Target method: jmsSample
+Class path: spring-boot-cli/src/test/java/org/springframework/boot/cli/SampleIntegrationTests.java
+
+Method found! 
+ 	public void jmsSample() throws Exception {
+
+Class path: spring-boot-project/spring-boot-cli/src/test/java/org/springframework/boot/cli/SampleIntegrationTests.java
+
+Method found! 
+ 	void jmsSample() throws Exception {
+
+git reset --hard b6bacd5e8a6d19c800f6dd88249ada91d8da127b SUCCESS!
+Target class: SampleIntegrationTests    
+2 class(es) found
+Target method: templateSample
+Class path: spring-boot-cli/src/test/java/org/springframework/boot/cli/SampleIntegrationTests.java
+
+Method found! 
+ 	public void templateSample() throws Exception {
+
+Class path: spring-boot-project/spring-boot-cli/src/test/java/org/springframework/boot/cli/SampleIntegrationTests.java
+
+Method found! 
+ 	void templateSample() throws Exception {
+
+git reset --hard b6bacd5e8a6d19c800f6dd88249ada91d8da127b SUCCESS!
+Target class: SampleIntegrationTests    
+2 class(es) found
+Target method: xmlSample
+Class path: spring-boot-cli/src/test/java/org/springframework/boot/cli/SampleIntegrationTests.java
+
+Method found! 
+ 	public void xmlSample() throws Exception {
+
+Class path: spring-boot-project/spring-boot-cli/src/test/java/org/springframework/boot/cli/SampleIntegrationTests.java
+
+Method found! 
+ 	void xmlSample() throws Exception {
+
+git reset --hard b6bacd5e8a6d19c800f6dd88249ada91d8da127b SUCCESS!
+Target class: DependencyCustomizerTests    
+2 class(es) found
+Target method: anyMissingClassesWithMissingClassesPerformsAdd
+Class path: spring-boot-cli/src/test/java/org/springframework/boot/cli/compiler/DependencyCustomizerTests.java
+
+Method found! 
+ 	public void anyMissingClassesWithMissingClassesPerformsAdd() {
+
+Class path: spring-boot-project/spring-boot-cli/src/test/java/org/springframework/boot/cli/compiler/DependencyCustomizerTests.java
+
+Method found! 
+ 	void anyMissingClassesWithMissingClassesPerformsAdd() {
+
+git reset --hard b6bacd5e8a6d19c800f6dd88249ada91d8da127b SUCCESS!
+Target class: DependencyCustomizerTests    
+2 class(es) found
+Target method: anyMissingClassesWithMixtureOfClassesPerformsAdd
+Class path: spring-boot-cli/src/test/java/org/springframework/boot/cli/compiler/DependencyCustomizerTests.java
+
+Method found! 
+ 	public void anyMissingClassesWithMixtureOfClassesPerformsAdd() {
+
+Class path: spring-boot-project/spring-boot-cli/src/test/java/org/springframework/boot/cli/compiler/DependencyCustomizerTests.java
+
+Method found! 
+ 	void anyMissingClassesWithMixtureOfClassesPerformsAdd() {
+
+git reset --hard b6bacd5e8a6d19c800f6dd88249ada91d8da127b SUCCESS!
+Target class: DependencyCustomizerTests    
+2 class(es) found
+Target method: basicAdd
+Class path: spring-boot-cli/src/test/java/org/springframework/boot/cli/compiler/DependencyCustomizerTests.java
+
+Method found! 
+ 	public void basicAdd() {
+
+Class path: spring-boot-project/spring-boot-cli/src/test/java/org/springframework/boot/cli/compiler/DependencyCustomizerTests.java
+
+Method found! 
+ 	void basicAdd() {
+
+git reset --hard cbd3c39640a201fb816b035537432ec4eaacbda1 SUCCESS!
+Target class: HibernateJpaAutoConfigurationTests    
+2 class(es) found
+Target method: testNamingStrategyThatWorkedInOneDotOhContinuesToWork
+Class path: spring-boot-autoconfigure/src/test/java/org/springframework/boot/autoconfigure/orm/jpa/HibernateJpaAutoConfigurationTests.java
+
+Method found! 
+ 	public void testNamingStrategyThatWorkedInOneDotOhContinuesToWork() {
+
+Class path: spring-boot-project/spring-boot-autoconfigure/src/test/java/org/springframework/boot/autoconfigure/orm/jpa/HibernateJpaAutoConfigurationTests.java
+
+Missing method, searching on superclass...
+Target superclass: AbstractJpaAutoConfigurationTests
+Class path: ./spring-boot-autoconfigure/src/test/java/org/springframework/boot/autoconfigure/orm/jpa/AbstractJpaAutoConfigurationTests.java
+./spring-boot-project/spring-boot-autoconfigure/src/test/java/org/springframework/boot/autoconfigure/orm/jpa/AbstractJpaAutoConfigurationTests.java
+
+Missing method, searching on superclass...
+HibernateJpaAutoConfigurationTests does not has superclass.
+git reset --hard d039f4310773d0abf7acb70eaed58ecd0df7659b SUCCESS!
+Target class: ClassLoaderIntegrationTests    
+2 class(es) found
+Target method: runWithIsolatedClassLoader
+Class path: spring-boot-cli/src/test/java/org/springframework/boot/cli/ClassLoaderIntegrationTests.java
+
+Method found! 
+ 	public void runWithIsolatedClassLoader() throws Exception {
+
+Class path: spring-boot-project/spring-boot-cli/src/test/java/org/springframework/boot/cli/ClassLoaderIntegrationTests.java
+
+Method found! 
+ 	void runWithIsolatedClassLoader() throws Exception {
+
+git reset --hard d039f4310773d0abf7acb70eaed58ecd0df7659b SUCCESS!
+Target class: DirectorySourcesIntegrationTests    
+2 class(es) found
+Target method: runDirectory
+Class path: spring-boot-cli/src/test/java/org/springframework/boot/cli/DirectorySourcesIntegrationTests.java
+
+Method found! 
+ 	public void runDirectory() throws Exception {
+	public void runDirectoryRecursive() throws Exception {
+
+Class path: spring-boot-project/spring-boot-cli/src/test/java/org/springframework/boot/cli/DirectorySourcesIntegrationTests.java
+
+Method found! 
+ 	void runDirectory() throws Exception {
+	void runDirectoryRecursive() throws Exception {
+
+git reset --hard d039f4310773d0abf7acb70eaed58ecd0df7659b SUCCESS!
+Target class: DirectorySourcesIntegrationTests    
+2 class(es) found
+Target method: runDirectoryRecursive
+Class path: spring-boot-cli/src/test/java/org/springframework/boot/cli/DirectorySourcesIntegrationTests.java
+
+Method found! 
+ 	public void runDirectoryRecursive() throws Exception {
+
+Class path: spring-boot-project/spring-boot-cli/src/test/java/org/springframework/boot/cli/DirectorySourcesIntegrationTests.java
+
+Method found! 
+ 	void runDirectoryRecursive() throws Exception {
+
+git reset --hard d039f4310773d0abf7acb70eaed58ecd0df7659b SUCCESS!
+Target class: DirectorySourcesIntegrationTests    
+2 class(es) found
+Target method: runPathPattern
+Class path: spring-boot-cli/src/test/java/org/springframework/boot/cli/DirectorySourcesIntegrationTests.java
+
+Method found! 
+ 	public void runPathPattern() throws Exception {
+
+Class path: spring-boot-project/spring-boot-cli/src/test/java/org/springframework/boot/cli/DirectorySourcesIntegrationTests.java
+
+Method found! 
+ 	void runPathPattern() throws Exception {
+
+git reset --hard d040bb72d374776ba3f753078dca833c6c380fd5 SUCCESS!
+Target class: ResourceMatcherTests    
+2 class(es) found
+Target method: defaults
+Class path: spring-boot-cli/src/test/java/org/springframework/boot/cli/command/jar/ResourceMatcherTests.java
+
+Method found! 
+ 	public void defaults() throws Exception {
+
+Class path: spring-boot-project/spring-boot-cli/src/test/java/org/springframework/boot/cli/command/archive/ResourceMatcherTests.java
+
+Method found! 
+ 	void defaults() {
+
+git reset --hard d040bb72d374776ba3f753078dca833c6c380fd5 SUCCESS!
+Target class: ResourceMatcherTests    
+2 class(es) found
+Target method: excludedDeltas
+Class path: spring-boot-cli/src/test/java/org/springframework/boot/cli/command/jar/ResourceMatcherTests.java
+
+Method found! 
+ 	public void excludedDeltas() throws Exception {
+
+Class path: spring-boot-project/spring-boot-cli/src/test/java/org/springframework/boot/cli/command/archive/ResourceMatcherTests.java
+
+Method found! 
+ 	void excludedDeltas() {
+
+git reset --hard d040bb72d374776ba3f753078dca833c6c380fd5 SUCCESS!
+Target class: ResourceMatcherTests    
+2 class(es) found
+Target method: excludedWins
+Class path: spring-boot-cli/src/test/java/org/springframework/boot/cli/command/jar/ResourceMatcherTests.java
+
+Method found! 
+ 	public void excludedWins() throws Exception {
+
+Class path: spring-boot-project/spring-boot-cli/src/test/java/org/springframework/boot/cli/command/archive/ResourceMatcherTests.java
+
+Method found! 
+ 	void excludedWins() throws Exception {
+
+git reset --hard d040bb72d374776ba3f753078dca833c6c380fd5 SUCCESS!
+Target class: ResourceMatcherTests    
+2 class(es) found
+Target method: includedDeltas
+Class path: spring-boot-cli/src/test/java/org/springframework/boot/cli/command/jar/ResourceMatcherTests.java
+
+Method found! 
+ 	public void includedDeltas() throws Exception {
+	public void includedDeltasAndNewEntries() throws Exception {
+
+Class path: spring-boot-project/spring-boot-cli/src/test/java/org/springframework/boot/cli/command/archive/ResourceMatcherTests.java
+
+Method found! 
+ 	void includedDeltas() {
+	void includedDeltasAndNewEntries() {
+
+git reset --hard d040bb72d374776ba3f753078dca833c6c380fd5 SUCCESS!
+Target class: ResourceMatcherTests    
+2 class(es) found
+Target method: includedDeltasAndNewEntries
+Class path: spring-boot-cli/src/test/java/org/springframework/boot/cli/command/jar/ResourceMatcherTests.java
+
+Method found! 
+ 	public void includedDeltasAndNewEntries() throws Exception {
+
+Class path: spring-boot-project/spring-boot-cli/src/test/java/org/springframework/boot/cli/command/archive/ResourceMatcherTests.java
+
+Method found! 
+ 	void includedDeltasAndNewEntries() {
+
+git reset --hard d040bb72d374776ba3f753078dca833c6c380fd5 SUCCESS!
+Target class: ResourceMatcherTests    
+2 class(es) found
+Target method: jarFileAlwaysMatches
+Class path: spring-boot-cli/src/test/java/org/springframework/boot/cli/command/jar/ResourceMatcherTests.java
+
+Method found! 
+ 	public void jarFileAlwaysMatches() throws Exception {
+
+Class path: spring-boot-project/spring-boot-cli/src/test/java/org/springframework/boot/cli/command/archive/ResourceMatcherTests.java
+
+Method found! 
+ 	void jarFileAlwaysMatches() throws Exception {
+
+git reset --hard d040bb72d374776ba3f753078dca833c6c380fd5 SUCCESS!
+Target class: ResourceMatcherTests    
+2 class(es) found
+Target method: resourceMatching
+Class path: spring-boot-cli/src/test/java/org/springframework/boot/cli/command/jar/ResourceMatcherTests.java
+
+Method found! 
+ 	public void resourceMatching() throws IOException {
+
+Class path: spring-boot-project/spring-boot-cli/src/test/java/org/springframework/boot/cli/command/archive/ResourceMatcherTests.java
+
+Method found! 
+ 	void resourceMatching() throws IOException {
+
+git reset --hard d097c9a2f96a754ea1a9b4a18ad1651782664dbb SUCCESS!
+Target class: HibernateJpaAutoConfigurationTests    
+2 class(es) found
+Target method: testNamingStrategyThatWorkedInOneDotOhContinuesToWork
+Class path: spring-boot-autoconfigure/src/test/java/org/springframework/boot/autoconfigure/orm/jpa/HibernateJpaAutoConfigurationTests.java
+
+Method found! 
+ 	public void testNamingStrategyThatWorkedInOneDotOhContinuesToWork() {
+
+Class path: spring-boot-project/spring-boot-autoconfigure/src/test/java/org/springframework/boot/autoconfigure/orm/jpa/HibernateJpaAutoConfigurationTests.java
+
+Missing method, searching on superclass...
+Target superclass: AbstractJpaAutoConfigurationTests
+Class path: ./spring-boot-autoconfigure/src/test/java/org/springframework/boot/autoconfigure/orm/jpa/AbstractJpaAutoConfigurationTests.java
+./spring-boot-project/spring-boot-autoconfigure/src/test/java/org/springframework/boot/autoconfigure/orm/jpa/AbstractJpaAutoConfigurationTests.java
+
+Missing method, searching on superclass...
+HibernateJpaAutoConfigurationTests does not has superclass.
+git reset --hard d2c50813fdf848352b626e52115da26e8aacf123 SUCCESS!
+Target class: HibernateJpaAutoConfigurationTests    
+2 class(es) found
+Target method: testNamingStrategyThatWorkedInOneDotOhContinuesToWork
+Class path: spring-boot-autoconfigure/src/test/java/org/springframework/boot/autoconfigure/orm/jpa/HibernateJpaAutoConfigurationTests.java
+
+Method found! 
+ 	public void testNamingStrategyThatWorkedInOneDotOhContinuesToWork() {
+
+Class path: spring-boot-project/spring-boot-autoconfigure/src/test/java/org/springframework/boot/autoconfigure/orm/jpa/HibernateJpaAutoConfigurationTests.java
+
+Missing method, searching on superclass...
+Target superclass: AbstractJpaAutoConfigurationTests
+Class path: ./spring-boot-autoconfigure/src/test/java/org/springframework/boot/autoconfigure/orm/jpa/AbstractJpaAutoConfigurationTests.java
+./spring-boot-project/spring-boot-autoconfigure/src/test/java/org/springframework/boot/autoconfigure/orm/jpa/AbstractJpaAutoConfigurationTests.java
+
+Missing method, searching on superclass...
+HibernateJpaAutoConfigurationTests does not has superclass.
+git reset --hard d6f2f0deee0c5bc36a9eed4fc247055a826c009d SUCCESS!
+Target class: AetherGrapeEngineTests    
+2 class(es) found
+Target method: dependencyResolution
+Class path: spring-boot-cli/src/test/java/org/springframework/boot/cli/compiler/grape/AetherGrapeEngineTests.java
+
+Method found! 
+ 	public void dependencyResolution() {
+	public void dependencyResolutionWithExclusions() {
+	public void dependencyResolutionWithCustomClassLoader() {
+
+Class path: spring-boot-project/spring-boot-cli/src/test/java/org/springframework/boot/cli/compiler/grape/AetherGrapeEngineTests.java
+
+Method found! 
+ 		DependencyResolutionContext dependencyResolutionContext = new DependencyResolutionContext();
+		dependencyResolutionContext.addDependencyManagement(new SpringBootDependenciesDependencyManagement());
+				dependencyResolutionContext, false);
+	void dependencyResolution() {
+	void dependencyResolutionWithExclusions() {
+	void dependencyResolutionWithCustomClassLoader() {
+
+git reset --hard d6f2f0deee0c5bc36a9eed4fc247055a826c009d SUCCESS!
+Target class: AetherGrapeEngineTests    
+2 class(es) found
+Target method: dependencyResolutionWithCustomClassLoader
+Class path: spring-boot-cli/src/test/java/org/springframework/boot/cli/compiler/grape/AetherGrapeEngineTests.java
+
+Method found! 
+ 	public void dependencyResolutionWithCustomClassLoader() {
+
+Class path: spring-boot-project/spring-boot-cli/src/test/java/org/springframework/boot/cli/compiler/grape/AetherGrapeEngineTests.java
+
+Method found! 
+ 	void dependencyResolutionWithCustomClassLoader() {
+
+git reset --hard d6f2f0deee0c5bc36a9eed4fc247055a826c009d SUCCESS!
+Target class: AetherGrapeEngineTests    
+2 class(es) found
+Target method: dependencyResolutionWithExclusions
+Class path: spring-boot-cli/src/test/java/org/springframework/boot/cli/compiler/grape/AetherGrapeEngineTests.java
+
+Method found! 
+ 	public void dependencyResolutionWithExclusions() {
+
+Class path: spring-boot-project/spring-boot-cli/src/test/java/org/springframework/boot/cli/compiler/grape/AetherGrapeEngineTests.java
+
+Method found! 
+ 	void dependencyResolutionWithExclusions() {
+
+git reset --hard dba4ad0768c806e0e97293cf3658d29a36e56aee SUCCESS!
+Target class: AetherGrapeEngineTests    
+2 class(es) found
+Target method: dependencyResolution
+Class path: spring-boot-cli/src/test/java/org/springframework/boot/cli/compiler/grape/AetherGrapeEngineTests.java
+
+Method found! 
+ 	public void dependencyResolution() {
+	public void dependencyResolutionWithExclusions() {
+	public void dependencyResolutionWithCustomClassLoader() {
+
+Class path: spring-boot-project/spring-boot-cli/src/test/java/org/springframework/boot/cli/compiler/grape/AetherGrapeEngineTests.java
+
+Method found! 
+ 		DependencyResolutionContext dependencyResolutionContext = new DependencyResolutionContext();
+		dependencyResolutionContext.addDependencyManagement(new SpringBootDependenciesDependencyManagement());
+				dependencyResolutionContext, false);
+	void dependencyResolution() {
+	void dependencyResolutionWithExclusions() {
+	void dependencyResolutionWithCustomClassLoader() {
+
+git reset --hard dba4ad0768c806e0e97293cf3658d29a36e56aee SUCCESS!
+Target class: AetherGrapeEngineTests    
+2 class(es) found
+Target method: dependencyResolutionWithCustomClassLoader
+Class path: spring-boot-cli/src/test/java/org/springframework/boot/cli/compiler/grape/AetherGrapeEngineTests.java
+
+Method found! 
+ 	public void dependencyResolutionWithCustomClassLoader() {
+
+Class path: spring-boot-project/spring-boot-cli/src/test/java/org/springframework/boot/cli/compiler/grape/AetherGrapeEngineTests.java
+
+Method found! 
+ 	void dependencyResolutionWithCustomClassLoader() {
+
+git reset --hard dba4ad0768c806e0e97293cf3658d29a36e56aee SUCCESS!
+Target class: AetherGrapeEngineTests    
+2 class(es) found
+Target method: dependencyResolutionWithExclusions
+Class path: spring-boot-cli/src/test/java/org/springframework/boot/cli/compiler/grape/AetherGrapeEngineTests.java
+
+Method found! 
+ 	public void dependencyResolutionWithExclusions() {
+
+Class path: spring-boot-project/spring-boot-cli/src/test/java/org/springframework/boot/cli/compiler/grape/AetherGrapeEngineTests.java
+
+Method found! 
+ 	void dependencyResolutionWithExclusions() {
+
+git reset --hard e02dbbc16dcc12a2c28ccdff54885b5bbc80e91f SUCCESS!
+Target class: SampleIntegrationTests    
+2 class(es) found
+Target method: jmsSample
+Class path: spring-boot-cli/src/test/java/org/springframework/boot/cli/SampleIntegrationTests.java
+
+Method found! 
+ 	public void jmsSample() throws Exception {
+
+Class path: spring-boot-project/spring-boot-cli/src/test/java/org/springframework/boot/cli/SampleIntegrationTests.java
+
+Method found! 
+ 	void jmsSample() throws Exception {
+
+git reset --hard e02dbbc16dcc12a2c28ccdff54885b5bbc80e91f SUCCESS!
+Target class: SampleIntegrationTests    
+2 class(es) found
+Target method: jobSample
+Class path: spring-boot-cli/src/test/java/org/springframework/boot/cli/SampleIntegrationTests.java
+
+Method found! 
+ 	public void jobSample() throws Exception {
+
+Class path: spring-boot-project/spring-boot-cli/src/test/java/org/springframework/boot/cli/SampleIntegrationTests.java
+
+Method found! 
+ 	void jobSample() throws Exception {
+
+git reset --hard e02dbbc16dcc12a2c28ccdff54885b5bbc80e91f SUCCESS!
+Target class: SampleIntegrationTests    
+2 class(es) found
+Target method: templateSample
+Class path: spring-boot-cli/src/test/java/org/springframework/boot/cli/SampleIntegrationTests.java
+
+Method found! 
+ 	public void templateSample() throws Exception {
+
+Class path: spring-boot-project/spring-boot-cli/src/test/java/org/springframework/boot/cli/SampleIntegrationTests.java
+
+Method found! 
+ 	void templateSample() throws Exception {
+
+git reset --hard e1894c1c4ba5fed7c3b22916f05f50ce6235c4dc SUCCESS!
+Target class: HibernateJpaAutoConfigurationTests    
+2 class(es) found
+Target method: testNamingStrategyThatWorkedInOneDotOhContinuesToWork
+Class path: spring-boot-autoconfigure/src/test/java/org/springframework/boot/autoconfigure/orm/jpa/HibernateJpaAutoConfigurationTests.java
+
+Method found! 
+ 	public void testNamingStrategyThatWorkedInOneDotOhContinuesToWork() {
+
+Class path: spring-boot-project/spring-boot-autoconfigure/src/test/java/org/springframework/boot/autoconfigure/orm/jpa/HibernateJpaAutoConfigurationTests.java
+
+Missing method, searching on superclass...
+Target superclass: AbstractJpaAutoConfigurationTests
+Class path: ./spring-boot-autoconfigure/src/test/java/org/springframework/boot/autoconfigure/orm/jpa/AbstractJpaAutoConfigurationTests.java
+./spring-boot-project/spring-boot-autoconfigure/src/test/java/org/springframework/boot/autoconfigure/orm/jpa/AbstractJpaAutoConfigurationTests.java
+
+Missing method, searching on superclass...
+HibernateJpaAutoConfigurationTests does not has superclass.
+git reset --hard e76a571dd320cad51ba9c006e9d500613e6b00b4 SUCCESS!
+Target class: AetherGrapeEngineTests    
+2 class(es) found
+Target method: dependencyResolution
+Class path: spring-boot-cli/src/test/java/org/springframework/boot/cli/compiler/grape/AetherGrapeEngineTests.java
+
+Method found! 
+ 	public void dependencyResolution() {
+	public void dependencyResolutionWithExclusions() {
+	public void dependencyResolutionWithCustomClassLoader() {
+
+Class path: spring-boot-project/spring-boot-cli/src/test/java/org/springframework/boot/cli/compiler/grape/AetherGrapeEngineTests.java
+
+Method found! 
+ 		DependencyResolutionContext dependencyResolutionContext = new DependencyResolutionContext();
+		dependencyResolutionContext.addDependencyManagement(new SpringBootDependenciesDependencyManagement());
+				dependencyResolutionContext, false);
+	void dependencyResolution() {
+	void dependencyResolutionWithExclusions() {
+	void dependencyResolutionWithCustomClassLoader() {
+
+git reset --hard e76a571dd320cad51ba9c006e9d500613e6b00b4 SUCCESS!
+Target class: AetherGrapeEngineTests    
+2 class(es) found
+Target method: dependencyResolutionWithCustomClassLoader
+Class path: spring-boot-cli/src/test/java/org/springframework/boot/cli/compiler/grape/AetherGrapeEngineTests.java
+
+Method found! 
+ 	public void dependencyResolutionWithCustomClassLoader() {
+
+Class path: spring-boot-project/spring-boot-cli/src/test/java/org/springframework/boot/cli/compiler/grape/AetherGrapeEngineTests.java
+
+Method found! 
+ 	void dependencyResolutionWithCustomClassLoader() {
+
+git reset --hard e76a571dd320cad51ba9c006e9d500613e6b00b4 SUCCESS!
+Target class: AetherGrapeEngineTests    
+2 class(es) found
+Target method: dependencyResolutionWithExclusions
+Class path: spring-boot-cli/src/test/java/org/springframework/boot/cli/compiler/grape/AetherGrapeEngineTests.java
+
+Method found! 
+ 	public void dependencyResolutionWithExclusions() {
+
+Class path: spring-boot-project/spring-boot-cli/src/test/java/org/springframework/boot/cli/compiler/grape/AetherGrapeEngineTests.java
+
+Method found! 
+ 	void dependencyResolutionWithExclusions() {
+
+git reset --hard e76a571dd320cad51ba9c006e9d500613e6b00b4 SUCCESS!
+Target class: ResourceUtilsTests    
+2 class(es) found
+Target method: directoryOfFilesWithPrefix
+Class path: spring-boot-cli/src/test/java/org/springframework/boot/cli/util/ResourceUtilsTests.java
+
+Method found! 
+ 	public void directoryOfFilesWithPrefix() {
+
+Class path: spring-boot-project/spring-boot-cli/src/test/java/org/springframework/boot/cli/util/ResourceUtilsTests.java
+
+Method found! 
+ 	void directoryOfFilesWithPrefix() {
+
+git reset --hard e76a571dd320cad51ba9c006e9d500613e6b00b4 SUCCESS!
+Target class: ResourceUtilsTests    
+2 class(es) found
+Target method: duplicateResource
+Class path: spring-boot-cli/src/test/java/org/springframework/boot/cli/util/ResourceUtilsTests.java
+
+Method found! 
+ 	public void duplicateResource() throws Exception {
+
+Class path: spring-boot-project/spring-boot-cli/src/test/java/org/springframework/boot/cli/util/ResourceUtilsTests.java
+
+Method found! 
+ 	void duplicateResource() throws Exception {
+
+git reset --hard e76a571dd320cad51ba9c006e9d500613e6b00b4 SUCCESS!
+Target class: ResourceUtilsTests    
+2 class(es) found
+Target method: explicitClasspathResourceWithSlash
+Class path: spring-boot-cli/src/test/java/org/springframework/boot/cli/util/ResourceUtilsTests.java
+
+Method found! 
+ 	public void explicitClasspathResourceWithSlash() {
+
+Class path: spring-boot-project/spring-boot-cli/src/test/java/org/springframework/boot/cli/util/ResourceUtilsTests.java
+
+Method found! 
+ 	void explicitClasspathResourceWithSlash() {
+
+git reset --hard e76a571dd320cad51ba9c006e9d500613e6b00b4 SUCCESS!
+Target class: ResourceUtilsTests    
+2 class(es) found
+Target method: recursiveFiles
+Class path: spring-boot-cli/src/test/java/org/springframework/boot/cli/util/ResourceUtilsTests.java
+
+Method found! 
+ 	public void recursiveFiles() {
+	public void recursiveFilesByPatternWithPrefix() {
+	public void recursiveFilesByPattern() {
+
+Class path: spring-boot-project/spring-boot-cli/src/test/java/org/springframework/boot/cli/util/ResourceUtilsTests.java
+
+Method found! 
+ 	void recursiveFiles() {
+	void recursiveFilesByPatternWithPrefix() {
+	void recursiveFilesByPattern() {
+
+git reset --hard e76a571dd320cad51ba9c006e9d500613e6b00b4 SUCCESS!
+Target class: ResourceUtilsTests    
+2 class(es) found
+Target method: recursiveFilesByPattern
+Class path: spring-boot-cli/src/test/java/org/springframework/boot/cli/util/ResourceUtilsTests.java
+
+Method found! 
+ 	public void recursiveFilesByPatternWithPrefix() {
+	public void recursiveFilesByPattern() {
+
+Class path: spring-boot-project/spring-boot-cli/src/test/java/org/springframework/boot/cli/util/ResourceUtilsTests.java
+
+Method found! 
+ 	void recursiveFilesByPatternWithPrefix() {
+	void recursiveFilesByPattern() {
+
+229 method(s) found (~169.62962962962962%).
+0 method(s) missing.
+Dataset updated with results.

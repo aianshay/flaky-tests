@@ -1,0 +1,3 @@
+Project,sha,class_,method,Found
+httpcore,3a836a2d779e29495c1348c900aae91572b44d2a,org.apache.http.nio.protocol.TestHttpAsyncHandlers,testHttpPostsHTTP10,1
+httpcore,b76028b4270e701f14ab8b8c26dd6b4798f6eca4,org.apache.http.pool.TestConnPool,testStatefulConnectionRedistributionOnPerRouteMaxLimit,1

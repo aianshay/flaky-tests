@@ -1,0 +1,169 @@
+git reset --hard 147ed05b09fc60430d87aa1da984d7a24092aa6a SUCCESS!
+Target class: MDCBasedDiscriminatorTest    
+1 class(es) found
+Target method: nullMDC
+Class path: logback-classic/src/test/java/ch/qos/logback/classic/sift/MDCBasedDiscriminatorTest.java
+
+Method found! 
+   public void nullMDC() {
+
+git reset --hard 16a26fdc6e144de18ee8805724ec7341d3bf06f3 SUCCESS!
+Target class: AbstractSocketAppenderTest    
+1 class(es) found
+Target method: addsInfoMessageWhenSocketConnectionClosed
+Class path: logback-core/src/test/java/ch/qos/logback/core/net/AbstractSocketAppenderTest.java
+
+Method found! 
+   public void addsInfoMessageWhenSocketConnectionClosed() throws Exception {
+
+git reset --hard 16a26fdc6e144de18ee8805724ec7341d3bf06f3 SUCCESS!
+Target class: AbstractSocketAppenderTest    
+1 class(es) found
+Target method: addsInfoMessageWhenSocketConnectionFailed
+Class path: logback-core/src/test/java/ch/qos/logback/core/net/AbstractSocketAppenderTest.java
+
+Method found! 
+   public void addsInfoMessageWhenSocketConnectionFailed() throws Exception {
+
+git reset --hard 16a26fdc6e144de18ee8805724ec7341d3bf06f3 SUCCESS!
+Target class: AbstractSocketAppenderTest    
+1 class(es) found
+Target method: closesSocketOnException
+Class path: logback-core/src/test/java/ch/qos/logback/core/net/AbstractSocketAppenderTest.java
+
+Method found! 
+   public void closesSocketOnException() throws Exception {
+
+git reset --hard 16a26fdc6e144de18ee8805724ec7341d3bf06f3 SUCCESS!
+Target class: AbstractSocketAppenderTest    
+1 class(es) found
+Target method: shutsDownOnInterruptWhileWaitingForEvent
+Class path: logback-core/src/test/java/ch/qos/logback/core/net/AbstractSocketAppenderTest.java
+
+Method found! 
+   public void shutsDownOnInterruptWhileWaitingForEvent() throws Exception {
+
+git reset --hard 19cde4d58e8264ab2086730d8e7e3cd8757007ca SUCCESS!
+Target class: AbstractSocketAppenderTest    
+1 class(es) found
+Target method: reAddsEventAtTheFrontOfTheDequeWhenTransmissionFails
+Class path: logback-core/src/test/java/ch/qos/logback/core/net/AbstractSocketAppenderTest.java
+
+Method found! 
+   public void reAddsEventAtTheFrontOfTheDequeWhenTransmissionFails() throws Exception {
+
+git reset --hard 46080183489ad1988c5eb8ad1a14deb876003c57 SUCCESS!
+Target class: MDCBasedDiscriminatorTest    
+1 class(es) found
+Target method: nullMDC
+Class path: logback-classic/src/test/java/ch/qos/logback/classic/sift/MDCBasedDiscriminatorTest.java
+
+Method found! 
+   public void nullMDC() {
+
+git reset --hard 5fc6a8d495d8c034f30bcc201bc32fa9864e4d61 SUCCESS!
+Target class: AsyncAppenderBaseTest    
+1 class(es) found
+Target method: workerShouldStopEvenIfInterruptExceptionConsumedWithinSubappender
+Class path: logback-core/src/test/java/ch/qos/logback/core/AsyncAppenderBaseTest.java
+
+Method found! 
+   public void workerShouldStopEvenIfInterruptExceptionConsumedWithinSubappender() {
+
+git reset --hard 929b984db4435766a5e4718fec4fdcc5d81a8efb SUCCESS!
+Target class: MDCBasedDiscriminatorTest    
+1 class(es) found
+Target method: nullMDC
+Class path: logback-classic/src/test/java/ch/qos/logback/classic/sift/MDCBasedDiscriminatorTest.java
+
+Method found! 
+   public void nullMDC() {
+
+git reset --hard 929b984db4435766a5e4718fec4fdcc5d81a8efb SUCCESS!
+Target class: AbstractSocketAppenderTest    
+1 class(es) found
+Target method: addsInfoMessageWhenSocketConnectionClosed
+Class path: logback-core/src/test/java/ch/qos/logback/core/net/AbstractSocketAppenderTest.java
+
+Method found! 
+   public void addsInfoMessageWhenSocketConnectionClosed() throws Exception {
+
+git reset --hard 929b984db4435766a5e4718fec4fdcc5d81a8efb SUCCESS!
+Target class: AbstractSocketAppenderTest    
+1 class(es) found
+Target method: shutsDownOnInterruptWhileWaitingForEvent
+Class path: logback-core/src/test/java/ch/qos/logback/core/net/AbstractSocketAppenderTest.java
+
+Method found! 
+   public void shutsDownOnInterruptWhileWaitingForEvent() throws Exception {
+
+git reset --hard b44048c53a872a77b7c85f6c66ad26a9f0449a23 SUCCESS!
+Target class: AbstractSocketAppenderTest    
+1 class(es) found
+Target method: addsInfoMessageWhenEventIsBeingDroppedBecauseOfConnectionProblemAndDequeCapacityLimitReached
+Class path: logback-core/src/test/java/ch/qos/logback/core/net/AbstractSocketAppenderTest.java
+
+Method found! 
+   public void addsInfoMessageWhenEventIsBeingDroppedBecauseOfConnectionProblemAndDequeCapacityLimitReached() throws Exception {
+
+git reset --hard c1061ba4a7447a5469a1d964ce3a46bf1893cc5d SUCCESS!
+Target class: MDCBasedDiscriminatorTest    
+1 class(es) found
+Target method: nullMDC
+Class path: logback-classic/src/test/java/ch/qos/logback/classic/sift/MDCBasedDiscriminatorTest.java
+
+Method found! 
+   public void nullMDC() {
+
+git reset --hard c63a656be51da79bc82260a3201c22ef90b1cd66 SUCCESS!
+Target class: AbstractSocketAppenderTest    
+1 class(es) found
+Target method: addsInfoMessageWhenEventIsBeingDroppedBecauseOfConnectionProblemAndDequeCapacityLimitReached
+Class path: logback-core/src/test/java/ch/qos/logback/core/net/AbstractSocketAppenderTest.java
+
+Method found! 
+   public void addsInfoMessageWhenEventIsBeingDroppedBecauseOfConnectionProblemAndDequeCapacityLimitReached() throws Exception {
+
+git reset --hard ea0da34cffd55ffb8b8462bda4eb57070adb5603 SUCCESS!
+Target class: RecoveryCoordinatorTest    
+1 class(es) found
+Target method: recoveryNotNeededIfCurrentTimeSetToBackOffTime
+Class path: logback-core/src/test/java/ch/qos/logback/core/recovery/RecoveryCoordinatorTest.java
+
+Method found! 
+   public void recoveryNotNeededIfCurrentTimeSetToBackOffTime() throws InterruptedException {
+
+git reset --hard edc0fe2340782a592f9fd8329287d8ea5557b09c SUCCESS!
+Target class: ConverterTest    
+2 class(es) found
+Target method: testRelativeTime
+Class path: logback-access/src/test/java/ch/qos/logback/access/pattern/ConverterTest.java
+
+Missing method, searching on superclass...
+ConverterTest does not has superclass.
+Class path: logback-classic/src/test/java/ch/qos/logback/classic/pattern/ConverterTest.java
+
+Method found! 
+   public void testRelativeTime() throws Exception {
+
+git reset --hard f438ea021657fe3cde742e169f60ffe39fe750b6 SUCCESS!
+Target class: AbstractSocketAppenderTest    
+1 class(es) found
+Target method: addsErrorMessageWhenAppendingIsInterruptedWhileWaitingForTheQueueToAcceptTheEvent
+Class path: logback-core/src/test/java/ch/qos/logback/core/net/AbstractSocketAppenderTest.java
+
+Method found! 
+   public void addsErrorMessageWhenAppendingIsInterruptedWhileWaitingForTheQueueToAcceptTheEvent() throws Exception {
+
+git reset --hard f438ea021657fe3cde742e169f60ffe39fe750b6 SUCCESS!
+Target class: AbstractSocketAppenderTest    
+1 class(es) found
+Target method: reAddsEventAtTheFrontOfTheDequeWhenTransmissionFails
+Class path: logback-core/src/test/java/ch/qos/logback/core/net/AbstractSocketAppenderTest.java
+
+Method found! 
+   public void reAddsEventAtTheFrontOfTheDequeWhenTransmissionFails() throws Exception {
+
+18 method(s) found (~100.0%).
+0 method(s) missing.
+Dataset updated with results.

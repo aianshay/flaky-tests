@@ -1,0 +1,315 @@
+git reset --hard 1af0f7ab20a86b03e1409d515e55e1e435bfef21 FAILED!
+Target class: DocumentNodeStoreConfigTest    
+0 class(es) found
+Target method: testRDBDocumentStore_CustomBlobDataSource
+git reset --hard 31c58b3749d50e87cb717f7f01f762f37dde66b1 FAILED!
+Target class: ReadTest    
+1 class(es) found
+Target method: testGlobRestriction2
+Class path: oak-jcr/src/test/java/org/apache/jackrabbit/oak/jcr/security/authorization/ReadTest.java
+
+Method found! 
+     public void testGlobRestriction2() throws Exception {
+
+git reset --hard 31c58b3749d50e87cb717f7f01f762f37dde66b1 FAILED!
+Target class: ReadTest    
+1 class(es) found
+Target method: testGlobRestriction3
+Class path: oak-jcr/src/test/java/org/apache/jackrabbit/oak/jcr/security/authorization/ReadTest.java
+
+Method found! 
+     public void testGlobRestriction3() throws Exception {
+
+git reset --hard 5c2bbae7cdeebed5ccc2a0d6c9211c34b0c67c94 FAILED!
+Target class: BrokenNetworkTest    
+0 class(es) found
+Target method: testProxyFlippedIntermediateByteSSL
+git reset --hard 5c2bbae7cdeebed5ccc2a0d6c9211c34b0c67c94 FAILED!
+Target class: BrokenNetworkTest    
+0 class(es) found
+Target method: testProxyFlippedStartByte
+git reset --hard 5e7129a36da1b040194b2f898e342e518da2f85d FAILED!
+Target class: CompositeDataStoreCacheTest    
+1 class(es) found
+Target method: invalidateStaging
+Class path: oak-blob-plugins/src/test/java/org/apache/jackrabbit/oak/plugins/blob/CompositeDataStoreCacheTest.java
+
+Method found! 
+     public void invalidateStaging() throws IOException {
+        LOG.info("Starting invalidateStaging");
+        LOG.info("Finished invalidateStaging");
+
+git reset --hard 66ea2666b1e08a0fcf01484f1aec3d97b37c894e FAILED!
+Target class: JackrabbitNodeTest    
+1 class(es) found
+Target method: testRename
+Class path: oak-jcr/src/test/java/org/apache/jackrabbit/oak/jcr/JackrabbitNodeTest.java
+
+Method found! 
+     public void _testRename() throws RepositoryException {
+    public void _testRenameEventHandling() throws RepositoryException, InterruptedException {
+
+git reset --hard 66ea2666b1e08a0fcf01484f1aec3d97b37c894e FAILED!
+Target class: JackrabbitNodeTest    
+1 class(es) found
+Target method: testRenameEventHandling
+Class path: oak-jcr/src/test/java/org/apache/jackrabbit/oak/jcr/JackrabbitNodeTest.java
+
+Method found! 
+     public void _testRenameEventHandling() throws RepositoryException, InterruptedException {
+
+git reset --hard 6de1bd2eee805a859fcad0f87a9cf704c132a22e FAILED!
+Target class: RDBDocumentSerializerTest    
+1 class(es) found
+Target method: testBlobAndDiff
+Class path: oak-store-document/src/test/java/org/apache/jackrabbit/oak/plugins/document/rdb/RDBDocumentSerializerTest.java
+
+Method found! 
+     public void testBlobAndDiff() throws UnsupportedEncodingException {
+    public void testBlobAndDiffBorked() throws UnsupportedEncodingException {
+
+git reset --hard 6de1bd2eee805a859fcad0f87a9cf704c132a22e FAILED!
+Target class: RDBDocumentSerializerTest    
+1 class(es) found
+Target method: testBlobAndDiffBorked
+Class path: oak-store-document/src/test/java/org/apache/jackrabbit/oak/plugins/document/rdb/RDBDocumentSerializerTest.java
+
+Method found! 
+     public void testBlobAndDiffBorked() throws UnsupportedEncodingException {
+
+git reset --hard 6de1bd2eee805a859fcad0f87a9cf704c132a22e FAILED!
+Target class: RDBDocumentSerializerTest    
+1 class(es) found
+Target method: testSimpleBlob
+Class path: oak-store-document/src/test/java/org/apache/jackrabbit/oak/plugins/document/rdb/RDBDocumentSerializerTest.java
+
+Method found! 
+     public void testSimpleBlob() throws UnsupportedEncodingException {
+    public void testSimpleBlobGzipped() throws IOException {
+    public void testSimpleBlob2() throws UnsupportedEncodingException {
+
+git reset --hard 6de1bd2eee805a859fcad0f87a9cf704c132a22e FAILED!
+Target class: RDBDocumentSerializerTest    
+1 class(es) found
+Target method: testSimpleBoth
+Class path: oak-store-document/src/test/java/org/apache/jackrabbit/oak/plugins/document/rdb/RDBDocumentSerializerTest.java
+
+Method found! 
+     public void testSimpleBoth() throws UnsupportedEncodingException {
+
+git reset --hard 6de1bd2eee805a859fcad0f87a9cf704c132a22e FAILED!
+Target class: RDBDocumentSerializerTest    
+1 class(es) found
+Target method: testSimpleString
+Class path: oak-store-document/src/test/java/org/apache/jackrabbit/oak/plugins/document/rdb/RDBDocumentSerializerTest.java
+
+Method found! 
+     public void testSimpleString() {
+    public void testSimpleStringNonAscii() {
+
+git reset --hard 6de1bd2eee805a859fcad0f87a9cf704c132a22e FAILED!
+Target class: RDBDocumentSerializerTest    
+1 class(es) found
+Target method: testSimpleStringNonAscii
+Class path: oak-store-document/src/test/java/org/apache/jackrabbit/oak/plugins/document/rdb/RDBDocumentSerializerTest.java
+
+Method found! 
+     public void testSimpleStringNonAscii() {
+
+git reset --hard 7a4b513abb1aaed4c3fe1cb4c9a8fa7e31468b7e FAILED!
+Target class: CommitRateLimiterTest    
+1 class(es) found
+Target method: blockCommits
+Class path: oak-core/src/test/java/org/apache/jackrabbit/oak/plugins/observation/CommitRateLimiterTest.java
+
+Method found! 
+     public void blockCommits() throws CommitFailedException, InterruptedException {
+        limiter.blockCommits();
+
+git reset --hard 80d320cae5dd39a2188f7ee66044da23e747dbcb FAILED!
+Target class: CompositeDataStoreCacheTest    
+1 class(es) found
+Target method: add
+Class path: oak-blob-plugins/src/test/java/org/apache/jackrabbit/oak/plugins/blob/CompositeDataStoreCacheTest.java
+
+Method found! 
+  * distributed with this work for additional information
+    public void add() throws Exception {
+        LOG.info("Starting add");
+        LOG.info("Finished add");
+    public void addCacheFull() throws IOException {
+        LOG.info("Starting addCacheFull");
+        LOG.info("Finished addCacheFull");
+
+git reset --hard 83a9e86c5913dae30103b31bfacd5654dff201f4 FAILED!
+Target class: ReadTest    
+1 class(es) found
+Target method: testGlobRestriction2
+Class path: oak-jcr/src/test/java/org/apache/jackrabbit/oak/jcr/security/authorization/ReadTest.java
+
+Method found! 
+     public void testGlobRestriction2() throws Exception {
+
+git reset --hard 83a9e86c5913dae30103b31bfacd5654dff201f4 FAILED!
+Target class: ReadTest    
+1 class(es) found
+Target method: testGlobRestriction3
+Class path: oak-jcr/src/test/java/org/apache/jackrabbit/oak/jcr/security/authorization/ReadTest.java
+
+Method found! 
+     public void testGlobRestriction3() throws Exception {
+
+git reset --hard 8d43c9f9c73e2729a280785092f2b95863b66601 FAILED!
+Target class: DocumentNodeStoreConfigTest    
+0 class(es) found
+Target method: testRDBDocumentStore_CustomBlobStore
+git reset --hard 938009b6c1ba8640007fe827cf166e4afa71b435 FAILED!
+Target class: FailoverTest    
+1 class(es) found
+Target method: testFailover
+Class path: oak-jcr/src/test/java/org/apache/jackrabbit/oak/jcr/cluster/FailoverTest.java
+
+Missing method, searching on superclass...
+Target superclass: AbstractClusterTest
+Class path: ./oak-jcr/src/test/java/org/apache/jackrabbit/oak/jcr/cluster/AbstractClusterTest.java
+
+Missing method, searching on superclass...
+FailoverTest does not has superclass.
+git reset --hard a567971d5a1ea2787cf949d87c75c9b2b297d93b FAILED!
+Target class: RDBDocumentSerializerTest    
+1 class(es) found
+Target method: testBlobAndDiff
+Class path: oak-store-document/src/test/java/org/apache/jackrabbit/oak/plugins/document/rdb/RDBDocumentSerializerTest.java
+
+Method found! 
+     public void testBlobAndDiff() throws UnsupportedEncodingException {
+    public void testBlobAndDiffBorked() throws UnsupportedEncodingException {
+
+git reset --hard a567971d5a1ea2787cf949d87c75c9b2b297d93b FAILED!
+Target class: RDBDocumentSerializerTest    
+1 class(es) found
+Target method: testBlobAndDiffBorked
+Class path: oak-store-document/src/test/java/org/apache/jackrabbit/oak/plugins/document/rdb/RDBDocumentSerializerTest.java
+
+Method found! 
+     public void testBlobAndDiffBorked() throws UnsupportedEncodingException {
+
+git reset --hard a567971d5a1ea2787cf949d87c75c9b2b297d93b FAILED!
+Target class: RDBDocumentSerializerTest    
+1 class(es) found
+Target method: testBrokenJSONTrailingComma
+Class path: oak-store-document/src/test/java/org/apache/jackrabbit/oak/plugins/document/rdb/RDBDocumentSerializerTest.java
+
+Method found! 
+     public void testBrokenJSONTrailingComma() throws UnsupportedEncodingException {
+
+git reset --hard a567971d5a1ea2787cf949d87c75c9b2b297d93b FAILED!
+Target class: RDBDocumentSerializerTest    
+1 class(es) found
+Target method: testBrokenJSONUnquotedIdentifier
+Class path: oak-store-document/src/test/java/org/apache/jackrabbit/oak/plugins/document/rdb/RDBDocumentSerializerTest.java
+
+Method found! 
+     public void testBrokenJSONUnquotedIdentifier() throws UnsupportedEncodingException {
+
+git reset --hard a567971d5a1ea2787cf949d87c75c9b2b297d93b FAILED!
+Target class: RDBDocumentSerializerTest    
+1 class(es) found
+Target method: testSimpleBlob
+Class path: oak-store-document/src/test/java/org/apache/jackrabbit/oak/plugins/document/rdb/RDBDocumentSerializerTest.java
+
+Method found! 
+     public void testSimpleBlob() throws UnsupportedEncodingException {
+    public void testSimpleBlobGzipped() throws IOException {
+    public void testSimpleBlob2() throws UnsupportedEncodingException {
+
+git reset --hard a567971d5a1ea2787cf949d87c75c9b2b297d93b FAILED!
+Target class: RDBDocumentSerializerTest    
+1 class(es) found
+Target method: testSimpleBlob2
+Class path: oak-store-document/src/test/java/org/apache/jackrabbit/oak/plugins/document/rdb/RDBDocumentSerializerTest.java
+
+Method found! 
+     public void testSimpleBlob2() throws UnsupportedEncodingException {
+
+git reset --hard a567971d5a1ea2787cf949d87c75c9b2b297d93b FAILED!
+Target class: RDBDocumentSerializerTest    
+1 class(es) found
+Target method: testSimpleBoth
+Class path: oak-store-document/src/test/java/org/apache/jackrabbit/oak/plugins/document/rdb/RDBDocumentSerializerTest.java
+
+Method found! 
+     public void testSimpleBoth() throws UnsupportedEncodingException {
+
+git reset --hard a567971d5a1ea2787cf949d87c75c9b2b297d93b FAILED!
+Target class: RDBDocumentSerializerTest    
+1 class(es) found
+Target method: testSimpleString
+Class path: oak-store-document/src/test/java/org/apache/jackrabbit/oak/plugins/document/rdb/RDBDocumentSerializerTest.java
+
+Method found! 
+     public void testSimpleString() {
+    public void testSimpleStringNonAscii() {
+
+git reset --hard a567971d5a1ea2787cf949d87c75c9b2b297d93b FAILED!
+Target class: RDBDocumentSerializerTest    
+1 class(es) found
+Target method: testSimpleStringNonAscii
+Class path: oak-store-document/src/test/java/org/apache/jackrabbit/oak/plugins/document/rdb/RDBDocumentSerializerTest.java
+
+Method found! 
+     public void testSimpleStringNonAscii() {
+
+git reset --hard a567971d5a1ea2787cf949d87c75c9b2b297d93b FAILED!
+Target class: NodeTypeIndexTest    
+1 class(es) found
+Target method: nodeType
+Class path: oak-core/src/test/java/org/apache/jackrabbit/oak/plugins/index/nodetype/NodeTypeIndexTest.java
+
+Method found! 
+     public void nodeType() throws Exception {
+    private static FilterImpl createFilter(NodeState root, String nodeTypeName) {
+        NodeTypeInfoProvider nodeTypes = new NodeStateNodeTypeInfoProvider(root);
+        NodeTypeInfo type = nodeTypes.getNodeTypeInfo(nodeTypeName);        
+        SelectorImpl selector = new SelectorImpl(type, nodeTypeName);
+        return new FilterImpl(selector, "SELECT * FROM [" + nodeTypeName + "]", new QueryEngineSettings());
+    private static NodeBuilder addChild(NodeBuilder node, String name, String nodeType) {
+                JcrConstants.JCR_PRIMARYTYPE, nodeType, Type.NAME);
+
+git reset --hard befa5004d7b7c100430faed88511402410c5649c FAILED!
+Target class: LuceneSupportTest    
+0 class(es) found
+Target method: fullTextSearch
+git reset --hard d2730876af2de7e6789285516abdd3c0b934592f FAILED!
+Target class: ConfigTest    
+0 class(es) found
+Target method: testFileConfig
+git reset --hard ecabae849fc0049b845cd1d0a1f2bd0b9eab8315 FAILED!
+Target class: ObservationRefreshTest    
+1 class(es) found
+Target method: observation[0]
+Class path: oak-jcr/src/test/java/org/apache/jackrabbit/oak/jcr/observation/ObservationRefreshTest.java
+
+Missing method, searching on superclass...
+Target superclass: AbstractRepositoryTest
+Class path: ./oak-jcr/src/test/java/org/apache/jackrabbit/oak/jcr/AbstractRepositoryTest.java
+
+Missing method, searching on superclass...
+ObservationRefreshTest does not has superclass.
+git reset --hard f9f99a9f1e9ed66276ce7f8fcc91f77d2abdb984 FAILED!
+Target class: DocumentDiscoveryLiteServiceTest    
+1 class(es) found
+Target method: testLargeStartStopFiesta
+Class path: oak-store-document/src/test/java/org/apache/jackrabbit/oak/plugins/document/DocumentDiscoveryLiteServiceTest.java
+
+Missing method, searching on superclass...
+Target superclass: BaseDocumentDiscoveryLiteServiceTest
+Class path: ./oak-store-document/src/test/java/org/apache/jackrabbit/oak/plugins/document/BaseDocumentDiscoveryLiteServiceTest.java
+
+Method found! 
+         logger.info("testLargeStartStopFiesta: start, seed="+SEED);
+            // logger.info("testLargeStartStopFiesta: iteration "+i+" with case
+
+26 method(s) found (~76.47058823529412%).
+8 method(s) missing.
+Dataset updated with results.

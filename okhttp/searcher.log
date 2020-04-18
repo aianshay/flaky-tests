@@ -1,0 +1,3158 @@
+git reset --hard 027618dfdc25f28018286864ddf0eee5950d1c41 SUCCESS!
+Target class: CacheTest    
+1 class(es) found
+Target method: clientPrematureDisconnectWithNoLengthHeaders
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/CacheTest.java
+
+Method found! 
+   @Test public void clientPrematureDisconnectWithNoLengthHeaders() throws IOException {
+
+git reset --hard 027618dfdc25f28018286864ddf0eee5950d1c41 SUCCESS!
+Target class: CacheTest    
+1 class(es) found
+Target method: clientSuppliedConditionWithoutCachedResult
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/CacheTest.java
+
+Method found! 
+   @Test public void clientSuppliedConditionWithoutCachedResult() throws Exception {
+
+git reset --hard 027618dfdc25f28018286864ddf0eee5950d1c41 SUCCESS!
+Target class: CacheTest    
+1 class(es) found
+Target method: maxAgeInTheFutureWithDateHeader
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/CacheTest.java
+
+Method found! 
+   @Test public void maxAgeInTheFutureWithDateHeader() throws Exception {
+
+git reset --hard 027618dfdc25f28018286864ddf0eee5950d1c41 SUCCESS!
+Target class: CacheTest    
+1 class(es) found
+Target method: noDefaultExpirationForUrlsWithQueryString
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/CacheTest.java
+
+Method found! 
+   @Test public void noDefaultExpirationForUrlsWithQueryString() throws Exception {
+
+git reset --hard 02ee75d0381728a24b9fd4de3aa5455e6eedc9d0 SUCCESS!
+Target class: URLConnectionTest    
+1 class(es) found
+Target method: noTransparentGzipFor304NotModified
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/http/URLConnectionTest.java
+
+Method found! 
+   @Test public void noTransparentGzipFor304NotModified() throws Exception {
+
+git reset --hard 02ee75d0381728a24b9fd4de3aa5455e6eedc9d0 SUCCESS!
+Target class: URLConnectionTest    
+1 class(es) found
+Target method: postFailsWithFixedLengthRequestForLargeRequest
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/http/URLConnectionTest.java
+
+Method found! 
+   @Test public void postFailsWithFixedLengthRequestForLargeRequest() throws Exception {
+
+git reset --hard 02ee75d0381728a24b9fd4de3aa5455e6eedc9d0 SUCCESS!
+Target class: URLConnectionTest    
+1 class(es) found
+Target method: response300MultipleChoiceWithPost
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/http/URLConnectionTest.java
+
+Method found! 
+   @Test public void response300MultipleChoiceWithPost() throws Exception {
+
+git reset --hard 04e530ad0b75f05f057e5990a631578eb0fcdc2c SUCCESS!
+Target class: HttpOverHttp20Draft16Test    
+1 class(es) found
+Target method: readTimeoutOnSlowConnection
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/http/HttpOverHttp20Draft16Test.java
+
+Missing method, searching on superclass...
+Target superclass: HttpOverSpdyTest
+Class path: ./okhttp-tests/src/test/java/com/squareup/okhttp/internal/http/HttpOverSpdyTest.java
+
+Method found! 
+   @Test public void readTimeoutOnSlowConnection() throws Exception {
+
+git reset --hard 04e530ad0b75f05f057e5990a631578eb0fcdc2c SUCCESS!
+Target class: URLConnectionTest    
+1 class(es) found
+Target method: postFailsWithFixedLengthRequestForLargeRequest
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/http/URLConnectionTest.java
+
+Method found! 
+   @Test public void postFailsWithFixedLengthRequestForLargeRequest() throws Exception {
+
+git reset --hard 050eb79163c2ab185461baf9cdb307cfb7d26a91 SUCCESS!
+Target class: URLConnectionTest    
+1 class(es) found
+Target method: postFailsWithChunkedRequestForLargeRequest
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/http/URLConnectionTest.java
+
+Method found! 
+   @Test public void postFailsWithChunkedRequestForLargeRequest() throws Exception {
+
+git reset --hard 087348c2c70abaa50f119d608b19d13210bcc3c0 SUCCESS!
+Target class: SpdyConnectionTest    
+1 class(es) found
+Target method: serverClosesClientInputStream
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/spdy/SpdyConnectionTest.java
+
+Method found! 
+   @Test public void serverClosesClientInputStream() throws Exception {
+
+git reset --hard 09bb8bcd0db29bc96ca9b771e06e5f8055d9f46a SUCCESS!
+Target class: URLConnectionTest    
+1 class(es) found
+Target method: connectViaHttpProxyToHttpsUsingBadProxyAndHttpResponseCache
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/http/URLConnectionTest.java
+
+Method found! 
+   @Test public void connectViaHttpProxyToHttpsUsingBadProxyAndHttpResponseCache() throws Exception {
+
+git reset --hard 09bb8bcd0db29bc96ca9b771e06e5f8055d9f46a SUCCESS!
+Target class: ResponseCacheTest    
+1 class(es) found
+Target method: cacheControlNoCacheAndExpirationDateInTheFuture
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/huc/ResponseCacheTest.java
+
+Method found! 
+   @Test public void cacheControlNoCacheAndExpirationDateInTheFuture() throws Exception {
+
+git reset --hard 09bb8bcd0db29bc96ca9b771e06e5f8055d9f46a SUCCESS!
+Target class: ResponseCacheTest    
+1 class(es) found
+Target method: clientPrematureDisconnectWithContentLengthHeader
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/huc/ResponseCacheTest.java
+
+Method found! 
+   @Test public void clientPrematureDisconnectWithContentLengthHeader() throws IOException {
+
+git reset --hard 09bb8bcd0db29bc96ca9b771e06e5f8055d9f46a SUCCESS!
+Target class: ResponseCacheTest    
+1 class(es) found
+Target method: getHeadersDeletesCached100LevelWarnings
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/huc/ResponseCacheTest.java
+
+Method found! 
+   @Test public void getHeadersDeletesCached100LevelWarnings() throws Exception {
+
+git reset --hard 09bb8bcd0db29bc96ca9b771e06e5f8055d9f46a SUCCESS!
+Target class: ResponseCacheTest    
+1 class(es) found
+Target method: responseSourceHeaderConditionalCacheNotFetched
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/huc/ResponseCacheTest.java
+
+Method found! 
+   @Test public void responseSourceHeaderConditionalCacheNotFetched() throws IOException {
+
+git reset --hard 0b0fe2e03f4a45563b9f36fe51ddf73dd74bbb59 SUCCESS!
+Target class: URLConnectionTest    
+1 class(es) found
+Target method: authenticateWithGet
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/http/URLConnectionTest.java
+
+Method found! 
+   @Test public void authenticateWithGet() throws Exception {
+
+git reset --hard 0b677ac70d37f9064d3a0c0914794f60f66d64be SUCCESS!
+Target class: URLConnectionTest    
+1 class(es) found
+Target method: inputStreamAvailableWithChunkedEncoding
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/http/URLConnectionTest.java
+
+Method found! 
+   @Test public void inputStreamAvailableWithChunkedEncoding() throws Exception {
+
+git reset --hard 0b677ac70d37f9064d3a0c0914794f60f66d64be SUCCESS!
+Target class: URLConnectionTest    
+1 class(es) found
+Target method: postFailsWithBufferedRequestForLargeRequest
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/http/URLConnectionTest.java
+
+Method found! 
+   @Test public void postFailsWithBufferedRequestForLargeRequest() throws Exception {
+
+git reset --hard 122e99980d6f16ba4f13fc99135603600cf4823d SUCCESS!
+Target class: HttpOverSpdy3Test    
+1 class(es) found
+Target method: readTimeoutOnSlowConnection
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/http/HttpOverSpdy3Test.java
+
+Missing method, searching on superclass...
+Target superclass: HttpOverSpdyTest
+Class path: ./okhttp-tests/src/test/java/com/squareup/okhttp/internal/http/HttpOverSpdyTest.java
+
+Method found! 
+   @Test public void readTimeoutOnSlowConnection() throws Exception {
+
+git reset --hard 17840eda568fd74aa48c648ac498d4fd0d378dc8 SUCCESS!
+Target class: HttpResponseCacheTest    
+1 class(es) found
+Target method: clientPrematureDisconnectWithNoLengthHeaders
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/http/HttpResponseCacheTest.java
+
+Method found! 
+   @Test public void clientPrematureDisconnectWithNoLengthHeaders() throws IOException {
+
+git reset --hard 17840eda568fd74aa48c648ac498d4fd0d378dc8 SUCCESS!
+Target class: HttpResponseCacheTest    
+1 class(es) found
+Target method: contentLocationDoesNotPopulateCache
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/http/HttpResponseCacheTest.java
+
+Method found! 
+   @Test public void contentLocationDoesNotPopulateCache() throws Exception {
+
+git reset --hard 1836612da753d911e4065197e5da485616c78745 SUCCESS!
+Target class: URLConnectionTest    
+1 class(es) found
+Target method: connectViaHttpProxyToHttpsUsingProxyArg
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/http/URLConnectionTest.java
+
+Method found! 
+   @Test public void connectViaHttpProxyToHttpsUsingProxyArgWithNoProxy() throws Exception {
+  @Test public void connectViaHttpProxyToHttpsUsingProxyArg() throws Exception {
+
+git reset --hard 18dfd08aeb50e02da7d3af2723d6ce81bae2502b SUCCESS!
+Target class: URLConnectionTest    
+1 class(es) found
+Target method: gzipAndConnectionReuseWithFixedLength
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/http/URLConnectionTest.java
+
+Method found! 
+   @Test public void gzipAndConnectionReuseWithFixedLength() throws Exception {
+  @Test public void gzipAndConnectionReuseWithFixedLengthAndTls() throws Exception {
+
+git reset --hard 18dfd08aeb50e02da7d3af2723d6ce81bae2502b SUCCESS!
+Target class: URLConnectionTest    
+1 class(es) found
+Target method: noTransparentGzipFor304NotModified
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/http/URLConnectionTest.java
+
+Method found! 
+   @Test public void noTransparentGzipFor304NotModified() throws Exception {
+
+git reset --hard 18dfd08aeb50e02da7d3af2723d6ce81bae2502b SUCCESS!
+Target class: URLConnectionTest    
+1 class(es) found
+Target method: postFailsWithChunkedRequestForSmallRequest
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/http/URLConnectionTest.java
+
+Method found! 
+   @Test public void postFailsWithChunkedRequestForSmallRequest() throws Exception {
+
+git reset --hard 19f83f8d546bed8c91759396b3931ee5a644d95d SUCCESS!
+Target class: URLConnectionTest    
+1 class(es) found
+Target method: redirectToAnotherOriginServerWithHttps
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/http/URLConnectionTest.java
+
+Method found! 
+   @Test public void redirectToAnotherOriginServerWithHttps() throws Exception {
+
+git reset --hard 1ad3b6d7499160075f4482b4788a07359ffd7932 SUCCESS!
+Target class: URLConnectionTest    
+1 class(es) found
+Target method: gzipAndConnectionReuseWithFixedLength
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/http/URLConnectionTest.java
+
+Method found! 
+   @Test public void gzipAndConnectionReuseWithFixedLength() throws Exception {
+  @Test public void gzipAndConnectionReuseWithFixedLengthAndTls() throws Exception {
+
+git reset --hard 1ad3b6d7499160075f4482b4788a07359ffd7932 SUCCESS!
+Target class: URLConnectionTest    
+1 class(es) found
+Target method: noTransparentGzipFor304NotModified
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/http/URLConnectionTest.java
+
+Method found! 
+   @Test public void noTransparentGzipFor304NotModified() throws Exception {
+
+git reset --hard 1b340c0872066fed8c4d3ecd85f53843e860b855 SUCCESS!
+Target class: AsyncApiTest    
+1 class(es) found
+Target method: canceledBeforeResponseReadIsNeverDelivered
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/AsyncApiTest.java
+
+Method found! 
+   @Test public void canceledBeforeResponseReadIsNeverDelivered() throws Exception {
+
+git reset --hard 1b340c0872066fed8c4d3ecd85f53843e860b855 SUCCESS!
+Target class: AsyncApiTest    
+1 class(es) found
+Target method: connectionPooling
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/AsyncApiTest.java
+
+Method found! 
+   @Test public void connectionPooling() throws Exception {
+
+git reset --hard 1b340c0872066fed8c4d3ecd85f53843e860b855 SUCCESS!
+Target class: AsyncApiTest    
+1 class(es) found
+Target method: redirect
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/AsyncApiTest.java
+
+Method found! 
+   @Test public void redirect() throws Exception {
+        .redirectedBy()
+        .redirectedBy()
+  @Test public void redirectWithRedirectsDisabled() throws Exception {
+    receiver.await(server.getUrl("/20")).assertFailure("Too many redirects: 21");
+
+git reset --hard 1c7ab54e6ad964035b2cbb3b0280e4e8bf811d9a SUCCESS!
+Target class: AsyncApiTest    
+1 class(es) found
+Target method: conditionalCacheHit
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/AsyncApiTest.java
+
+Method found! 
+   @Test public void conditionalCacheHit() throws Exception {
+
+git reset --hard 1c7ab54e6ad964035b2cbb3b0280e4e8bf811d9a SUCCESS!
+Target class: AsyncApiTest    
+1 class(es) found
+Target method: doesNotFollow21Redirects
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/AsyncApiTest.java
+
+Method found! 
+   @Test public void doesNotFollow21Redirects() throws Exception {
+
+git reset --hard 1c7ab54e6ad964035b2cbb3b0280e4e8bf811d9a SUCCESS!
+Target class: AsyncApiTest    
+1 class(es) found
+Target method: follow20Redirects
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/AsyncApiTest.java
+
+Method found! 
+   @Test public void follow20Redirects() throws Exception {
+
+git reset --hard 1c7ab54e6ad964035b2cbb3b0280e4e8bf811d9a SUCCESS!
+Target class: AsyncApiTest    
+1 class(es) found
+Target method: get
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/AsyncApiTest.java
+
+Method found! 
+     String tmp = System.getProperty("java.io.tmpdir");
+  @Test public void get() throws Exception {
+        .url(server.getUrl("/"))
+    assertTrue(server.takeRequest().getHeaders().contains("User-Agent: AsyncApiTest"));
+    client.enqueue(new Request.Builder().url(server.getUrl("/a")).build(), receiver);
+    receiver.await(server.getUrl("/a")).assertBody("abc");
+    client.enqueue(new Request.Builder().url(server.getUrl("/b")).build(), receiver);
+    receiver.await(server.getUrl("/b")).assertBody("def");
+    client.enqueue(new Request.Builder().url(server.getUrl("/c")).build(), receiver);
+    receiver.await(server.getUrl("/c")).assertBody("ghi");
+    assertEquals(0, server.takeRequest().getSequenceNumber());
+    assertEquals(1, server.takeRequest().getSequenceNumber());
+    assertEquals(2, server.takeRequest().getSequenceNumber());
+    server.useHttps(sslContext.getSocketFactory(), false);
+    client.setSslSocketFactory(sslContext.getSocketFactory());
+        .url(server.getUrl("/"))
+    server.useHttps(sslContext.getSocketFactory(), false);
+    client.setSslSocketFactory(sslContext.getSocketFactory());
+        .url(server.getUrl("/"))
+        .url(server.getUrl("/"))
+    assertEquals("def", recordedRequest.getUtf8Body());
+    assertEquals("3", recordedRequest.getHeader("Content-Length"));
+    assertEquals("text/plain; charset=utf-8", recordedRequest.getHeader("Content-Type"));
+        .url(server.getUrl("/"))
+    assertNull(server.takeRequest().getHeader("If-None-Match"));
+        .url(server.getUrl("/"))
+    assertEquals("v1", server.takeRequest().getHeader("If-None-Match"));
+        .url(server.getUrl("/"))
+    assertNull(server.takeRequest().getHeader("If-None-Match"));
+        .url(server.getUrl("/"))
+    assertEquals("v1", server.takeRequest().getHeader("If-None-Match"));
+    Request request = new Request.Builder().url(server.getUrl("/a")).build();
+    receiver.await(server.getUrl("/c"))
+    assertEquals(0, server.takeRequest().getSequenceNumber()); // New connection.
+    assertEquals(1, server.takeRequest().getSequenceNumber()); // Connection reused.
+    assertEquals(2, server.takeRequest().getSequenceNumber()); // Connection reused again!
+    Request request = new Request.Builder().url(server.getUrl("/a")).build();
+    receiver.await(server.getUrl("/a"))
+    Request request = new Request.Builder().url(server.getUrl("/0")).build();
+    receiver.await(server.getUrl("/20"))
+    Request request = new Request.Builder().url(server.getUrl("/0")).build();
+    receiver.await(server.getUrl("/20")).assertFailure("Too many redirects: 21");
+    client.getDispatcher().setMaxRequests(1); // Force requests to be executed serially.
+    Request requestA = new Request.Builder().url(server.getUrl("/a")).tag("request A").build();
+    assertEquals("/a", server.takeRequest().getPath());
+    Request requestB = new Request.Builder().url(server.getUrl("/b")).tag("request B").build();
+    assertEquals("/b", server.takeRequest().getPath());
+    Request request = new Request.Builder().url(server.getUrl("/a")).tag("request A").build();
+    assertEquals("A", bodyRef.get());
+    Request request = new Request.Builder().url(server.getUrl("/a")).build();
+        client.enqueue(new Request.Builder().url(server.getUrl("/b")).build(), receiver);
+    receiver.await(server.getUrl("/b")).assertCode(200).assertBody("def");
+    assertEquals(0, server.takeRequest().getSequenceNumber()); // New connection.
+    assertEquals(1, server.takeRequest().getSequenceNumber()); // Connection reuse!
+        .url(server.getUrl("/"))
+    receiver.await(server.getUrl("/b"))
+    assertEquals("body!", request1.getUtf8Body());
+    assertEquals("5", request1.getHeader("Content-Length"));
+    assertEquals("text/plain; charset=utf-8", request1.getHeader("Content-Type"));
+    assertEquals(0, request1.getSequenceNumber());
+    assertEquals("body!", request2.getUtf8Body());
+    assertEquals("5", request2.getHeader("Content-Length"));
+    assertEquals("text/plain; charset=utf-8", request2.getHeader("Content-Type"));
+    assertEquals(1, request2.getSequenceNumber());
+
+git reset --hard 1dc42da8d6cf1727c118db5eda5ab8094678188f SUCCESS!
+Target class: URLConnectionTest    
+1 class(es) found
+Target method: postFailsWithChunkedRequestForSmallRequest
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/http/URLConnectionTest.java
+
+Method found! 
+   @Test public void postFailsWithChunkedRequestForSmallRequest() throws Exception {
+
+git reset --hard 1dc42da8d6cf1727c118db5eda5ab8094678188f SUCCESS!
+Target class: SpdyConnectionTest    
+1 class(es) found
+Target method: headersOnlyStreamIsClosedAfterReplyHeaders
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/spdy/SpdyConnectionTest.java
+
+Method found! 
+   @Test public void headersOnlyStreamIsClosedAfterReplyHeaders() throws Exception {
+
+git reset --hard 1fd77e07c462d9d077bbd4232b9af8bb4411b41b SUCCESS!
+Target class: URLConnectionTest    
+1 class(es) found
+Target method: postFailsWithFixedLengthRequestForLargeRequest
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/http/URLConnectionTest.java
+
+Method found! 
+   @Test public void postFailsWithFixedLengthRequestForLargeRequest() throws Exception {
+
+git reset --hard 2267888d365db3462c7d59eb16ad33953554953d SUCCESS!
+Target class: AsyncApiTest    
+1 class(es) found
+Target method: conditionalCacheHit
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/AsyncApiTest.java
+
+Method found! 
+   @Test public void conditionalCacheHit() throws Exception {
+
+git reset --hard 2267888d365db3462c7d59eb16ad33953554953d SUCCESS!
+Target class: AsyncApiTest    
+1 class(es) found
+Target method: doesNotFollow21Redirects
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/AsyncApiTest.java
+
+Method found! 
+   @Test public void doesNotFollow21Redirects() throws Exception {
+
+git reset --hard 2267888d365db3462c7d59eb16ad33953554953d SUCCESS!
+Target class: AsyncApiTest    
+1 class(es) found
+Target method: follow20Redirects
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/AsyncApiTest.java
+
+Method found! 
+   @Test public void follow20Redirects() throws Exception {
+
+git reset --hard 2267888d365db3462c7d59eb16ad33953554953d SUCCESS!
+Target class: AsyncApiTest    
+1 class(es) found
+Target method: get
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/AsyncApiTest.java
+
+Method found! 
+     String tmp = System.getProperty("java.io.tmpdir");
+  @Test public void get() throws Exception {
+        .url(server.getUrl("/"))
+    assertTrue(server.takeRequest().getHeaders().contains("User-Agent: AsyncApiTest"));
+    client.enqueue(new Request.Builder().url(server.getUrl("/a")).build(), receiver);
+    receiver.await(server.getUrl("/a")).assertBody("abc");
+    client.enqueue(new Request.Builder().url(server.getUrl("/b")).build(), receiver);
+    receiver.await(server.getUrl("/b")).assertBody("def");
+    client.enqueue(new Request.Builder().url(server.getUrl("/c")).build(), receiver);
+    receiver.await(server.getUrl("/c")).assertBody("ghi");
+    assertEquals(0, server.takeRequest().getSequenceNumber());
+    assertEquals(1, server.takeRequest().getSequenceNumber());
+    assertEquals(2, server.takeRequest().getSequenceNumber());
+    server.useHttps(sslContext.getSocketFactory(), false);
+    client.setSslSocketFactory(sslContext.getSocketFactory());
+        .url(server.getUrl("/"))
+    server.useHttps(sslContext.getSocketFactory(), false);
+    client.setSslSocketFactory(sslContext.getSocketFactory());
+        .url(server.getUrl("/"))
+        .url(server.getUrl("/"))
+    assertEquals("def", recordedRequest.getUtf8Body());
+    assertEquals("3", recordedRequest.getHeader("Content-Length"));
+    assertEquals("text/plain; charset=utf-8", recordedRequest.getHeader("Content-Type"));
+        .url(server.getUrl("/"))
+    assertNull(server.takeRequest().getHeader("If-None-Match"));
+        .url(server.getUrl("/"))
+    assertEquals("v1", server.takeRequest().getHeader("If-None-Match"));
+        .url(server.getUrl("/"))
+    assertNull(server.takeRequest().getHeader("If-None-Match"));
+        .url(server.getUrl("/"))
+    assertEquals("v1", server.takeRequest().getHeader("If-None-Match"));
+    Request request = new Request.Builder().url(server.getUrl("/a")).build();
+    receiver.await(server.getUrl("/c"))
+    assertEquals(0, server.takeRequest().getSequenceNumber()); // New connection.
+    assertEquals(1, server.takeRequest().getSequenceNumber()); // Connection reused.
+    assertEquals(2, server.takeRequest().getSequenceNumber()); // Connection reused again!
+    Request request = new Request.Builder().url(server.getUrl("/a")).build();
+    receiver.await(server.getUrl("/a"))
+    Request request = new Request.Builder().url(server.getUrl("/0")).build();
+    receiver.await(server.getUrl("/20"))
+    Request request = new Request.Builder().url(server.getUrl("/0")).build();
+    receiver.await(server.getUrl("/20")).assertFailure("Too many redirects: 21");
+    client.getDispatcher().setMaxRequests(1); // Force requests to be executed serially.
+    Request requestA = new Request.Builder().url(server.getUrl("/a")).tag("request A").build();
+    assertEquals("/a", server.takeRequest().getPath());
+    Request requestB = new Request.Builder().url(server.getUrl("/b")).tag("request B").build();
+    assertEquals("/b", server.takeRequest().getPath());
+    Request request = new Request.Builder().url(server.getUrl("/a")).tag("request A").build();
+    assertEquals("A", bodyRef.get());
+    Request request = new Request.Builder().url(server.getUrl("/a")).build();
+        client.enqueue(new Request.Builder().url(server.getUrl("/b")).build(), receiver);
+    receiver.await(server.getUrl("/b")).assertCode(200).assertBody("def");
+    assertEquals(0, server.takeRequest().getSequenceNumber()); // New connection.
+    assertEquals(1, server.takeRequest().getSequenceNumber()); // Connection reuse!
+        .url(server.getUrl("/"))
+    receiver.await(server.getUrl("/b"))
+    assertEquals("body!", request1.getUtf8Body());
+    assertEquals("5", request1.getHeader("Content-Length"));
+    assertEquals("text/plain; charset=utf-8", request1.getHeader("Content-Type"));
+    assertEquals(0, request1.getSequenceNumber());
+    assertEquals("body!", request2.getUtf8Body());
+    assertEquals("5", request2.getHeader("Content-Length"));
+    assertEquals("text/plain; charset=utf-8", request2.getHeader("Content-Type"));
+    assertEquals(1, request2.getSequenceNumber());
+
+git reset --hard 23774087dbf9876454aa7a6cd3828bc06043bf26 SUCCESS!
+Target class: SyncApiTest    
+1 class(es) found
+Target method: redirect
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/SyncApiTest.java
+
+Method found! 
+   @Test public void redirect() throws Exception {
+        .redirectedBy()
+        .redirectedBy()
+  @Test public void redirectWithRedirectsDisabled() throws Exception {
+      assertEquals("Too many redirects: 21", e.getMessage());
+
+git reset --hard 23774087dbf9876454aa7a6cd3828bc06043bf26 SUCCESS!
+Target class: URLConnectionTest    
+1 class(es) found
+Target method: postFailsWithChunkedRequestForLargeRequest
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/http/URLConnectionTest.java
+
+Method found! 
+   @Test public void postFailsWithChunkedRequestForLargeRequest() throws Exception {
+
+git reset --hard 23774087dbf9876454aa7a6cd3828bc06043bf26 SUCCESS!
+Target class: SpdyConnectionTest    
+1 class(es) found
+Target method: remoteSendsDataAfterInFinished
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/spdy/SpdyConnectionTest.java
+
+Method found! 
+   @Test public void remoteSendsDataAfterInFinished() throws Exception {
+
+git reset --hard 26b5f35718ef3fc5500b492f43d520fd42606a53 SUCCESS!
+Target class: SpdyConnectionTest    
+1 class(es) found
+Target method: serverClosesClientInputStream
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/spdy/SpdyConnectionTest.java
+
+Method found! 
+   @Test public void serverClosesClientInputStream() throws Exception {
+
+git reset --hard 2d6b3770d9ef3424a12c4c243596a34cc07cbef1 SUCCESS!
+Target class: HttpOverHttp20Draft14Test    
+1 class(es) found
+Target method: readTimeoutOnSlowConnection
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/http/HttpOverHttp20Draft14Test.java
+
+Missing method, searching on superclass...
+Target superclass: HttpOverSpdyTest
+Class path: ./okhttp-tests/src/test/java/com/squareup/okhttp/internal/http/HttpOverSpdyTest.java
+
+Method found! 
+   @Test public void readTimeoutOnSlowConnection() throws Exception {
+
+git reset --hard 2f0ab086386f9257efc55b2c2b313275e85151cf SUCCESS!
+Target class: URLConnectionTest    
+1 class(es) found
+Target method: connectViaHttpProxyToHttpsUsingBadProxyAndHttpResponseCache
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/http/URLConnectionTest.java
+
+Method found! 
+   @Test public void connectViaHttpProxyToHttpsUsingBadProxyAndHttpResponseCache() throws Exception {
+
+git reset --hard 2f0ab086386f9257efc55b2c2b313275e85151cf SUCCESS!
+Target class: URLConnectionTest    
+1 class(es) found
+Target method: digestAuthentication
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/http/URLConnectionTest.java
+
+Method found! 
+   @Test public void digestAuthentication() throws Exception {
+
+git reset --hard 2f0ab086386f9257efc55b2c2b313275e85151cf SUCCESS!
+Target class: URLConnectionTest    
+1 class(es) found
+Target method: response300MultipleChoiceWithPost
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/http/URLConnectionTest.java
+
+Method found! 
+   @Test public void response300MultipleChoiceWithPost() throws Exception {
+
+git reset --hard 2f0ab086386f9257efc55b2c2b313275e85151cf SUCCESS!
+Target class: SpdyConnectionTest    
+1 class(es) found
+Target method: peerHttp2ServerZerosCompressionTable
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/spdy/SpdyConnectionTest.java
+
+Method found! 
+   @Test public void peerHttp2ServerZerosCompressionTable() throws Exception {
+
+git reset --hard 326a4b565f0eb15c189754c29fc735b79a0c8835 SUCCESS!
+Target class: URLConnectionTest    
+1 class(es) found
+Target method: connectViaHttpProxyToHttpsUsingBadProxyAndHttpResponseCache
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/http/URLConnectionTest.java
+
+Method found! 
+   @Test public void connectViaHttpProxyToHttpsUsingBadProxyAndHttpResponseCache() throws Exception {
+
+git reset --hard 326a4b565f0eb15c189754c29fc735b79a0c8835 SUCCESS!
+Target class: URLConnectionTest    
+1 class(es) found
+Target method: gzipAndConnectionReuseWithFixedLength
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/http/URLConnectionTest.java
+
+Method found! 
+   @Test public void gzipAndConnectionReuseWithFixedLength() throws Exception {
+  @Test public void gzipAndConnectionReuseWithFixedLengthAndTls() throws Exception {
+
+git reset --hard 326a4b565f0eb15c189754c29fc735b79a0c8835 SUCCESS!
+Target class: URLConnectionTest    
+1 class(es) found
+Target method: redirectedWithContentLengthHeader
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/http/URLConnectionTest.java
+
+Method found! 
+   @Test public void redirectedWithContentLengthHeader() throws Exception {
+
+git reset --hard 34ab38d63613f861f7d14b6f572ac42b57b10b0f SUCCESS!
+Target class: HttpResponseCacheTest    
+1 class(es) found
+Target method: serverDisconnectsPrematurelyWithNoLengthHeaders
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/http/HttpResponseCacheTest.java
+
+Method found! 
+   @Test public void serverDisconnectsPrematurelyWithNoLengthHeaders() throws IOException {
+
+git reset --hard 34ab38d63613f861f7d14b6f572ac42b57b10b0f SUCCESS!
+Target class: HttpResponseCacheTest    
+1 class(es) found
+Target method: varyMatchesRemovedRequestHeaderField
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/http/HttpResponseCacheTest.java
+
+Method found! 
+   @Test public void varyMatchesRemovedRequestHeaderField() throws Exception {
+
+git reset --hard 34ab38d63613f861f7d14b6f572ac42b57b10b0f SUCCESS!
+Target class: SpdyConnectionTest    
+1 class(es) found
+Target method: headersOnlyStreamIsClosedAfterReplyHeaders
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/spdy/SpdyConnectionTest.java
+
+Method found! 
+   @Test public void headersOnlyStreamIsClosedAfterReplyHeaders() throws Exception {
+
+git reset --hard 34ab38d63613f861f7d14b6f572ac42b57b10b0f SUCCESS!
+Target class: SpdyConnectionTest    
+1 class(es) found
+Target method: serverClosesClientInputStream
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/spdy/SpdyConnectionTest.java
+
+Method found! 
+   @Test public void serverClosesClientInputStream() throws Exception {
+
+git reset --hard 361b391ef4ac36399663a6fdee37cccdbe7713fc SUCCESS!
+Target class: DiskLruCacheTest    
+1 class(es) found
+Target method: shrinkMaxSizeEvicts
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/DiskLruCacheTest.java
+
+Method found! 
+   @Test public void shrinkMaxSizeEvicts() throws Exception {
+
+git reset --hard 3687bc96c257efbf727b914c318899a09caf20a6 SUCCESS!
+Target class: URLConnectionTest    
+1 class(es) found
+Target method: postFailsWithFixedLengthRequestForLargeRequest
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/http/URLConnectionTest.java
+
+Method found! 
+   @Test public void postFailsWithFixedLengthRequestForLargeRequest() throws Exception {
+
+git reset --hard 393ad1c5e992aaa1df4dfcec761dd8fecab38124 SUCCESS!
+Target class: HttpOverHttp20Draft12Test    
+1 class(es) found
+Target method: readTimeoutOnSlowConnection
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/http/HttpOverHttp20Draft12Test.java
+
+Missing method, searching on superclass...
+Target superclass: HttpOverSpdyTest
+Class path: ./okhttp-tests/src/test/java/com/squareup/okhttp/internal/http/HttpOverSpdyTest.java
+
+Method found! 
+   @Test public void readTimeoutOnSlowConnection() throws Exception {
+
+git reset --hard 3956f67ac783fa3047c0126830209209ae5fff21 SUCCESS!
+Target class: URLConnectionTest    
+1 class(es) found
+Target method: connectViaHttpProxyToHttpsUsingBadProxyAndHttpResponseCache
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/http/URLConnectionTest.java
+
+Method found! 
+   @Test public void connectViaHttpProxyToHttpsUsingBadProxyAndHttpResponseCache() throws Exception {
+
+git reset --hard 3956f67ac783fa3047c0126830209209ae5fff21 SUCCESS!
+Target class: SpdyConnectionTest    
+1 class(es) found
+Target method: clientPingsServerHttp2
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/spdy/SpdyConnectionTest.java
+
+Method found! 
+   @Test public void clientPingsServerHttp2() throws Exception {
+
+git reset --hard 3956f67ac783fa3047c0126830209209ae5fff21 SUCCESS!
+Target class: SpdyConnectionTest    
+1 class(es) found
+Target method: remoteDoubleSynReply
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/spdy/SpdyConnectionTest.java
+
+Method found! 
+   @Test public void remoteDoubleSynReply() throws Exception {
+
+git reset --hard 4048663140a157c68cc0a5f56a8739b0d9001feb SUCCESS!
+Target class: MockWebServerTest    
+1 class(es) found
+Target method: delayResponse
+Class path: mockwebserver/src/test/java/com/squareup/okhttp/mockwebserver/MockWebServerTest.java
+
+Method found! 
+   @Test public void delayResponse() throws IOException {
+
+git reset --hard 408e68af29d9100cbdd6e4a3473a7a37ae47fa82 SUCCESS!
+Target class: SpdyConnectionTest    
+1 class(es) found
+Target method: headersOnlyStreamIsClosedAfterReplyHeaders
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/spdy/SpdyConnectionTest.java
+
+Method found! 
+   @Test public void headersOnlyStreamIsClosedAfterReplyHeaders() throws Exception {
+
+git reset --hard 40c2e6aec09d139a4e96b45856020a5b324b01ef SUCCESS!
+Target class: CookiesTest    
+1 class(es) found
+Target method: testHeadersSentToCookieHandler
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/http/CookiesTest.java
+
+Method found! 
+   @Test public void testHeadersSentToCookieHandler() throws IOException, InterruptedException {
+
+git reset --hard 40c2e6aec09d139a4e96b45856020a5b324b01ef SUCCESS!
+Target class: CookiesTest    
+1 class(es) found
+Target method: testSendingCookiesFromStore
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/http/CookiesTest.java
+
+Method found! 
+   @Test public void testSendingCookiesFromStore() throws Exception {
+
+git reset --hard 411a33810512340fd68fc5c33423badd52d290e9 SUCCESS!
+Target class: URLConnectionTest    
+1 class(es) found
+Target method: connectViaHttpProxyToHttpsUsingBadProxyAndHttpResponseCache
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/http/URLConnectionTest.java
+
+Method found! 
+   @Test public void connectViaHttpProxyToHttpsUsingBadProxyAndHttpResponseCache() throws Exception {
+
+git reset --hard 411a33810512340fd68fc5c33423badd52d290e9 SUCCESS!
+Target class: SpdyConnectionTest    
+1 class(es) found
+Target method: clientPingsServer
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/spdy/SpdyConnectionTest.java
+
+Method found! 
+   @Test public void clientPingsServer() throws Exception {
+  @Test public void clientPingsServerHttp2() throws Exception {
+
+git reset --hard 411a33810512340fd68fc5c33423badd52d290e9 SUCCESS!
+Target class: SpdyConnectionTest    
+1 class(es) found
+Target method: readTimeoutExpires
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/spdy/SpdyConnectionTest.java
+
+Method found! 
+   @Test public void readTimeoutExpires() throws Exception {
+
+git reset --hard 411a33810512340fd68fc5c33423badd52d290e9 SUCCESS!
+Target class: SpdyConnectionTest    
+1 class(es) found
+Target method: receiveGoAwayHttp2
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/spdy/SpdyConnectionTest.java
+
+Method found! 
+   @Test public void receiveGoAwayHttp2() throws Exception {
+
+git reset --hard 41aa4b6805141369d614964152d329a686aabdb8 SUCCESS!
+Target class: URLConnectionTest    
+1 class(es) found
+Target method: getOutputAfterGetInputStreamFails
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/http/URLConnectionTest.java
+
+Method found! 
+   @Test public void getOutputAfterGetInputStreamFails() throws Exception {
+
+git reset --hard 41aa4b6805141369d614964152d329a686aabdb8 SUCCESS!
+Target class: URLConnectionTest    
+1 class(es) found
+Target method: gzipAndConnectionReuseWithFixedLength
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/http/URLConnectionTest.java
+
+Method found! 
+   @Test public void gzipAndConnectionReuseWithFixedLength() throws Exception {
+  @Test public void gzipAndConnectionReuseWithFixedLengthAndTls() throws Exception {
+
+git reset --hard 41aa4b6805141369d614964152d329a686aabdb8 SUCCESS!
+Target class: URLConnectionTest    
+1 class(es) found
+Target method: readTimeouts
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/http/URLConnectionTest.java
+
+Method found! 
+   @Test public void readTimeouts() throws IOException {
+
+git reset --hard 41aa4b6805141369d614964152d329a686aabdb8 SUCCESS!
+Target class: URLConnectionTest    
+1 class(es) found
+Target method: redirectedWithContentLengthHeader
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/http/URLConnectionTest.java
+
+Method found! 
+   @Test public void redirectedWithContentLengthHeader() throws Exception {
+
+git reset --hard 41aa4b6805141369d614964152d329a686aabdb8 SUCCESS!
+Target class: SpdyConnectionTest    
+1 class(es) found
+Target method: receiveGoAway
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/spdy/SpdyConnectionTest.java
+
+Method found! 
+   @Test public void receiveGoAway() throws Exception {
+    receiveGoAway(SPDY3);
+  @Test public void receiveGoAwayHttp2() throws Exception {
+    receiveGoAway(HTTP_20_DRAFT_09);
+  private void receiveGoAway(Variant variant) throws Exception {
+
+git reset --hard 46edb72d6e4fc19438f3eaeabd7ceb5243ec8c0f SUCCESS!
+Target class: DiskLruCacheTest    
+1 class(es) found
+Target method: shrinkMaxSizeEvicts
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/DiskLruCacheTest.java
+
+Method found! 
+   @Test public void shrinkMaxSizeEvicts() throws Exception {
+
+git reset --hard 487c7545b6b7280c40f5300ee5a8effc84751b87 SUCCESS!
+Target class: HttpOverHttp20Draft16Test    
+1 class(es) found
+Target method: readTimeoutOnSlowConnection
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/http/HttpOverHttp20Draft16Test.java
+
+Missing method, searching on superclass...
+Target superclass: HttpOverSpdyTest
+Class path: ./okhttp-tests/src/test/java/com/squareup/okhttp/internal/http/HttpOverSpdyTest.java
+
+Method found! 
+   @Test public void readTimeoutOnSlowConnection() throws Exception {
+
+git reset --hard 487c7545b6b7280c40f5300ee5a8effc84751b87 SUCCESS!
+Target class: URLConnectionTest    
+1 class(es) found
+Target method: postFailsWithFixedLengthRequestForLargeRequest
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/http/URLConnectionTest.java
+
+Method found! 
+   @Test public void postFailsWithFixedLengthRequestForLargeRequest() throws Exception {
+
+git reset --hard 487c7545b6b7280c40f5300ee5a8effc84751b87 SUCCESS!
+Target class: Spdy3ConnectionTest    
+1 class(es) found
+Target method: getResponseHeadersTimesOut
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/spdy/Spdy3ConnectionTest.java
+
+Method found! 
+   @Test public void getResponseHeadersTimesOut() throws Exception {
+
+git reset --hard 4b037e7b226212ab1f91ee4431cad09691f6a186 SUCCESS!
+Target class: URLConnectionTest    
+1 class(es) found
+Target method: postFailsWithFixedLengthRequestForLargeRequest
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/http/URLConnectionTest.java
+
+Method found! 
+   @Test public void postFailsWithFixedLengthRequestForLargeRequest() throws Exception {
+
+git reset --hard 4c86085429edbeef0a383941936ee7b64cc3805e SUCCESS!
+Target class: URLConnectionTest    
+1 class(es) found
+Target method: postFailsWithFixedLengthRequestForLargeRequest
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/http/URLConnectionTest.java
+
+Method found! 
+   @Test public void postFailsWithFixedLengthRequestForLargeRequest() throws Exception {
+
+git reset --hard 4c86085429edbeef0a383941936ee7b64cc3805e SUCCESS!
+Target class: SpdyConnectionTest    
+1 class(es) found
+Target method: headersOnlyStreamIsClosedAfterReplyHeaders
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/spdy/SpdyConnectionTest.java
+
+Method found! 
+   @Test public void headersOnlyStreamIsClosedAfterReplyHeaders() throws Exception {
+
+git reset --hard 4c86085429edbeef0a383941936ee7b64cc3805e SUCCESS!
+Target class: SpdyConnectionTest    
+1 class(es) found
+Target method: readSendsWindowUpdate
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/spdy/SpdyConnectionTest.java
+
+Method found! 
+   @Test public void readSendsWindowUpdate() throws Exception {
+    readSendsWindowUpdate(SPDY3);
+  @Test public void readSendsWindowUpdateHttp2() throws Exception {
+    readSendsWindowUpdate(HTTP_20_DRAFT_09);
+  private void readSendsWindowUpdate(Variant variant)
+
+git reset --hard 4c86085429edbeef0a383941936ee7b64cc3805e SUCCESS!
+Target class: SpdyConnectionTest    
+1 class(es) found
+Target method: readTimeoutExpires
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/spdy/SpdyConnectionTest.java
+
+Method found! 
+   @Test public void readTimeoutExpires() throws Exception {
+
+git reset --hard 4c86085429edbeef0a383941936ee7b64cc3805e SUCCESS!
+Target class: SpdyConnectionTest    
+1 class(es) found
+Target method: remoteDoubleSynStream
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/spdy/SpdyConnectionTest.java
+
+Method found! 
+   @Test public void remoteDoubleSynStream() throws Exception {
+
+git reset --hard 4c86085429edbeef0a383941936ee7b64cc3805e SUCCESS!
+Target class: SpdyConnectionTest    
+1 class(es) found
+Target method: unexpectedPingIsNotReturned
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/spdy/SpdyConnectionTest.java
+
+Method found! 
+   @Test public void unexpectedPingIsNotReturned() throws Exception {
+
+git reset --hard 4c86085429edbeef0a383941936ee7b64cc3805e SUCCESS!
+Target class: SpdyConnectionTest    
+1 class(es) found
+Target method: writeAwaitsWindowUpdate
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/spdy/SpdyConnectionTest.java
+
+Method found! 
+   @Test public void writeAwaitsWindowUpdate() throws Exception {
+
+git reset --hard 5355762a6f90e3ac5f3bfe4d2e8e2b862f91d21b SUCCESS!
+Target class: URLConnectionTest    
+1 class(es) found
+Target method: postFailsWithFixedLengthRequestForLargeRequest
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/http/URLConnectionTest.java
+
+Method found! 
+   @Test public void postFailsWithFixedLengthRequestForLargeRequest() throws Exception {
+
+git reset --hard 543b335640cc3feff84643f04447164ec5cc3d52 SUCCESS!
+Target class: HttpOverHttp20Draft12Test    
+1 class(es) found
+Target method: readTimeoutOnSlowConnection
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/http/HttpOverHttp20Draft12Test.java
+
+Missing method, searching on superclass...
+Target superclass: HttpOverSpdyTest
+Class path: ./okhttp-tests/src/test/java/com/squareup/okhttp/internal/http/HttpOverSpdyTest.java
+
+Method found! 
+   @Test public void readTimeoutOnSlowConnection() throws Exception {
+
+git reset --hard 543b335640cc3feff84643f04447164ec5cc3d52 SUCCESS!
+Target class: Spdy3ConnectionTest    
+1 class(es) found
+Target method: getResponseHeadersTimesOut
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/spdy/Spdy3ConnectionTest.java
+
+Method found! 
+   @Test public void getResponseHeadersTimesOut() throws Exception {
+
+git reset --hard 5527a1764d973d293faffe31faddf205e3f37641 SUCCESS!
+Target class: CallTest    
+1 class(es) found
+Target method: canceledBeforeResponseReadSignalsOnFailure_SPDY_3
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/CallTest.java
+
+Method found! 
+   @Test public void canceledBeforeResponseReadSignalsOnFailure_SPDY_3() throws Exception {
+
+git reset --hard 58dff54d1e6ede53f332db8153d48f9bdb5762b0 SUCCESS!
+Target class: CallTest    
+1 class(es) found
+Target method: cancelInFlightBeforeResponseReadThrowsIOE
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/CallTest.java
+
+Method found! 
+   @Test public void cancelInFlightBeforeResponseReadThrowsIOE() throws Exception {
+  @Test public void cancelInFlightBeforeResponseReadThrowsIOE_HTTP_2() throws Exception {
+    cancelInFlightBeforeResponseReadThrowsIOE();
+  @Test public void cancelInFlightBeforeResponseReadThrowsIOE_SPDY_3() throws Exception {
+    cancelInFlightBeforeResponseReadThrowsIOE();
+
+git reset --hard 58f6cf5130a06e95e9f0ef078abea082417340f7 SUCCESS!
+Target class: URLConnectionTest    
+1 class(es) found
+Target method: postFailsWithFixedLengthRequestForLargeRequest
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/http/URLConnectionTest.java
+
+Method found! 
+   @Test public void postFailsWithFixedLengthRequestForLargeRequest() throws Exception {
+
+git reset --hard 5a4bfc71ecaaa1f426c3fe71fc1ef8e0786f0ead SUCCESS!
+Target class: URLConnectionTest    
+1 class(es) found
+Target method: urlContainsQueryButNoPath
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/http/URLConnectionTest.java
+
+Method found! 
+   @Test public void urlContainsQueryButNoPath() throws Exception {
+
+git reset --hard 5a4bfc71ecaaa1f426c3fe71fc1ef8e0786f0ead SUCCESS!
+Target class: SpdyConnectionTest    
+1 class(es) found
+Target method: serverClosesClientInputStream
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/spdy/SpdyConnectionTest.java
+
+Method found! 
+   @Test public void serverClosesClientInputStream() throws Exception {
+
+git reset --hard 5e1c5f5f3e9f2dc53c62b2b076b9ddb9d5f9a665 SUCCESS!
+Target class: URLConnectionTest    
+1 class(es) found
+Target method: connectViaHttpProxyToHttpsUsingBadProxyAndHttpResponseCache
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/http/URLConnectionTest.java
+
+Method found! 
+   @Test public void connectViaHttpProxyToHttpsUsingBadProxyAndHttpResponseCache() throws Exception {
+
+git reset --hard 5e1c5f5f3e9f2dc53c62b2b076b9ddb9d5f9a665 SUCCESS!
+Target class: SpdyConnectionTest    
+1 class(es) found
+Target method: pushPromiseStream
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/spdy/SpdyConnectionTest.java
+
+Method found! 
+   @Test public void pushPromiseStream() throws Exception {
+  @Test public void pushPromiseStreamsAutomaticallyCancel() throws Exception {
+
+git reset --hard 5e1c5f5f3e9f2dc53c62b2b076b9ddb9d5f9a665 SUCCESS!
+Target class: SpdyConnectionTest    
+1 class(es) found
+Target method: receiveGoAway
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/spdy/SpdyConnectionTest.java
+
+Method found! 
+   @Test public void receiveGoAway() throws Exception {
+    receiveGoAway(SPDY3);
+  @Test public void receiveGoAwayHttp2() throws Exception {
+    receiveGoAway(HTTP_20_DRAFT_09);
+  private void receiveGoAway(Variant variant) throws Exception {
+
+git reset --hard 5f1ab03cd58eac2afcc01146f425cc3e533358b3 SUCCESS!
+Target class: HttpOverHttp20Draft14Test    
+1 class(es) found
+Target method: readTimeoutOnSlowConnection
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/http/HttpOverHttp20Draft14Test.java
+
+Missing method, searching on superclass...
+Target superclass: HttpOverSpdyTest
+Class path: ./okhttp-tests/src/test/java/com/squareup/okhttp/internal/http/HttpOverSpdyTest.java
+
+Method found! 
+   @Test public void readTimeoutOnSlowConnection() throws Exception {
+
+git reset --hard 607fb15ab3e45c1933bd815b8c2bede8b937468f SUCCESS!
+Target class: CallTest    
+1 class(es) found
+Target method: cancelInFlightBeforeResponseReadThrowsIOE
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/CallTest.java
+
+Method found! 
+   @Test public void cancelInFlightBeforeResponseReadThrowsIOE() throws Exception {
+  @Test public void cancelInFlightBeforeResponseReadThrowsIOE_HTTP_2() throws Exception {
+    cancelInFlightBeforeResponseReadThrowsIOE();
+  @Test public void cancelInFlightBeforeResponseReadThrowsIOE_SPDY_3() throws Exception {
+    cancelInFlightBeforeResponseReadThrowsIOE();
+
+git reset --hard 607fb15ab3e45c1933bd815b8c2bede8b937468f SUCCESS!
+Target class: URLConnectionTest    
+1 class(es) found
+Target method: postFailsWithChunkedRequestForLargeRequest
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/http/URLConnectionTest.java
+
+Method found! 
+   @Test public void postFailsWithChunkedRequestForLargeRequest() throws Exception {
+
+git reset --hard 617641d7d77e0334b41486d0519e169194c834f4 SUCCESS!
+Target class: URLConnectionTest    
+1 class(es) found
+Target method: gzipAndConnectionReuseWithFixedLength
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/http/URLConnectionTest.java
+
+Method found! 
+   @Test public void gzipAndConnectionReuseWithFixedLength() throws Exception {
+  @Test public void gzipAndConnectionReuseWithFixedLengthAndTls() throws Exception {
+
+git reset --hard 617641d7d77e0334b41486d0519e169194c834f4 SUCCESS!
+Target class: URLConnectionTest    
+1 class(es) found
+Target method: noTransparentGzipFor304NotModified
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/http/URLConnectionTest.java
+
+Method found! 
+   @Test public void noTransparentGzipFor304NotModified() throws Exception {
+
+git reset --hard 6184a7f5cf2a1d97072aaccb9fc00e08003848e3 SUCCESS!
+Target class: DiskLruCacheTest    
+1 class(es) found
+Target method: shrinkMaxSizeEvicts
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/DiskLruCacheTest.java
+
+Method found! 
+   @Test public void shrinkMaxSizeEvicts() throws Exception {
+
+git reset --hard 63d7562317e60158e862d1d683cf2f7ee6201df9 SUCCESS!
+Target class: HttpOverHttp20Draft13Test    
+1 class(es) found
+Target method: readTimeoutOnSlowConnection
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/http/HttpOverHttp20Draft13Test.java
+
+Missing method, searching on superclass...
+Target superclass: HttpOverSpdyTest
+Class path: ./okhttp-tests/src/test/java/com/squareup/okhttp/internal/http/HttpOverSpdyTest.java
+
+Method found! 
+   @Test public void readTimeoutOnSlowConnection() throws Exception {
+
+git reset --hard 63d7562317e60158e862d1d683cf2f7ee6201df9 SUCCESS!
+Target class: Spdy3ConnectionTest    
+1 class(es) found
+Target method: receiveGoAway
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/spdy/Spdy3ConnectionTest.java
+
+Method found! 
+   @Test public void receiveGoAway() throws Exception {
+
+git reset --hard 6580d0221b1cf80959055f0730246d85cacbfe1e SUCCESS!
+Target class: HttpOverHttp20Draft12Test    
+1 class(es) found
+Target method: readTimeoutOnSlowConnection
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/http/HttpOverHttp20Draft12Test.java
+
+Missing method, searching on superclass...
+Target superclass: HttpOverSpdyTest
+Class path: ./okhttp-tests/src/test/java/com/squareup/okhttp/internal/http/HttpOverSpdyTest.java
+
+Method found! 
+   @Test public void readTimeoutOnSlowConnection() throws Exception {
+
+git reset --hard 6597405511ab6058146de1053ffe7f27832dbf8e SUCCESS!
+Target class: SpdyConnectionTest    
+1 class(es) found
+Target method: bogusDataFrameDoesNotDisruptConnection
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/spdy/SpdyConnectionTest.java
+
+Method found! 
+   @Test public void bogusDataFrameDoesNotDisruptConnection() throws Exception {
+
+git reset --hard 6597405511ab6058146de1053ffe7f27832dbf8e SUCCESS!
+Target class: SpdyConnectionTest    
+1 class(es) found
+Target method: headerBlockHasTrailingCompressedBytes2048
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/spdy/SpdyConnectionTest.java
+
+Method found! 
+   @Test public void headerBlockHasTrailingCompressedBytes2048() throws Exception {
+
+git reset --hard 6597405511ab6058146de1053ffe7f27832dbf8e SUCCESS!
+Target class: SpdyConnectionTest    
+1 class(es) found
+Target method: readSendsWindowUpdate
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/spdy/SpdyConnectionTest.java
+
+Method found! 
+   @Test public void readSendsWindowUpdate() throws Exception {
+    readSendsWindowUpdate(SPDY3);
+  @Test public void readSendsWindowUpdateHttp2() throws Exception {
+    readSendsWindowUpdate(HTTP_20_DRAFT_09);
+  private void readSendsWindowUpdate(Variant variant)
+
+git reset --hard 6597405511ab6058146de1053ffe7f27832dbf8e SUCCESS!
+Target class: SpdyConnectionTest    
+1 class(es) found
+Target method: receiveGoAwayHttp2
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/spdy/SpdyConnectionTest.java
+
+Method found! 
+   @Test public void receiveGoAwayHttp2() throws Exception {
+
+git reset --hard 6597405511ab6058146de1053ffe7f27832dbf8e SUCCESS!
+Target class: SpdyConnectionTest    
+1 class(es) found
+Target method: unexpectedPingIsNotReturned
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/spdy/SpdyConnectionTest.java
+
+Method found! 
+   @Test public void unexpectedPingIsNotReturned() throws Exception {
+
+git reset --hard 6648193cbd7c6c1901a0a3133369a4d6088bb7a7 SUCCESS!
+Target class: URLConnectionTest    
+1 class(es) found
+Target method: connectViaHttpProxyToHttpsUsingProxyArg
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/http/URLConnectionTest.java
+
+Method found! 
+   @Test public void connectViaHttpProxyToHttpsUsingProxyArgWithNoProxy() throws Exception {
+  @Test public void connectViaHttpProxyToHttpsUsingProxyArg() throws Exception {
+
+git reset --hard 664b65d18e164a571a2c8498fe372d3f934499c3 SUCCESS!
+Target class: SpdyConnectionTest    
+1 class(es) found
+Target method: serverClosesClientInputStream
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/spdy/SpdyConnectionTest.java
+
+Method found! 
+   @Test public void serverClosesClientInputStream() throws Exception {
+
+git reset --hard 67685e1b3d3264c369418855b5c96a2fb3e5ae46 SUCCESS!
+Target class: URLConnectionTest    
+1 class(es) found
+Target method: connectViaHttpProxyToHttpsUsingBadProxyAndHttpResponseCache
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/http/URLConnectionTest.java
+
+Method found! 
+   @Test public void connectViaHttpProxyToHttpsUsingBadProxyAndHttpResponseCache() throws Exception {
+
+git reset --hard 67685e1b3d3264c369418855b5c96a2fb3e5ae46 SUCCESS!
+Target class: SpdyConnectionTest    
+1 class(es) found
+Target method: pushPromiseStream
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/spdy/SpdyConnectionTest.java
+
+Method found! 
+   @Test public void pushPromiseStream() throws Exception {
+  @Test public void pushPromiseStreamsAutomaticallyCancel() throws Exception {
+
+git reset --hard 6909923b89d98fef39600a170aa50e566dbb730a SUCCESS!
+Target class: URLConnectionTest    
+1 class(es) found
+Target method: serverShutdownOutput
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/http/URLConnectionTest.java
+
+Method found! 
+   @Test public void serverShutdownOutput() throws Exception {
+
+git reset --hard 6c57d76915a7e79cc8b8f743ccd8ecc35889ce7c SUCCESS!
+Target class: URLConnectionTest    
+1 class(es) found
+Target method: gzipAndConnectionReuseWithFixedLength
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/http/URLConnectionTest.java
+
+Method found! 
+   @Test public void gzipAndConnectionReuseWithFixedLength() throws Exception {
+  @Test public void gzipAndConnectionReuseWithFixedLengthAndTls() throws Exception {
+
+git reset --hard 6c57d76915a7e79cc8b8f743ccd8ecc35889ce7c SUCCESS!
+Target class: URLConnectionTest    
+1 class(es) found
+Target method: noTransparentGzipFor304NotModified
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/http/URLConnectionTest.java
+
+Method found! 
+   @Test public void noTransparentGzipFor304NotModified() throws Exception {
+
+git reset --hard 6c57d76915a7e79cc8b8f743ccd8ecc35889ce7c SUCCESS!
+Target class: URLConnectionTest    
+1 class(es) found
+Target method: response300MultipleChoiceWithPost
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/http/URLConnectionTest.java
+
+Method found! 
+   @Test public void response300MultipleChoiceWithPost() throws Exception {
+
+git reset --hard 6c92ae511733b3a82eff0289874986cd6be2ff69 SUCCESS!
+Target class: URLConnectionTest    
+1 class(es) found
+Target method: postFailsWithChunkedRequestForSmallRequest
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/http/URLConnectionTest.java
+
+Method found! 
+   @Test public void postFailsWithChunkedRequestForSmallRequest() throws Exception {
+
+git reset --hard 6cf56de5d0701ff26aa6043c552e17c4665c1287 SUCCESS!
+Target class: SpdyConnectionTest    
+1 class(es) found
+Target method: headersOnlyStreamIsClosedAfterReplyHeaders
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/spdy/SpdyConnectionTest.java
+
+Method found! 
+   @Test public void headersOnlyStreamIsClosedAfterReplyHeaders() throws Exception {
+
+git reset --hard 6cf56de5d0701ff26aa6043c552e17c4665c1287 SUCCESS!
+Target class: SpdyConnectionTest    
+1 class(es) found
+Target method: receiveGoAway
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/spdy/SpdyConnectionTest.java
+
+Method found! 
+   @Test public void receiveGoAway() throws Exception {
+    receiveGoAway(SPDY3);
+  @Test public void receiveGoAwayHttp2() throws Exception {
+    receiveGoAway(HTTP_20_DRAFT_09);
+  private void receiveGoAway(Variant variant) throws Exception {
+
+git reset --hard 6dff9f5630f6b7aa0b3442d195921c5dbfd1110f SUCCESS!
+Target class: URLConnectionTest    
+1 class(es) found
+Target method: chunkedUpload_largeBuffers
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/http/URLConnectionTest.java
+
+Method found! 
+   @Test public void chunkedUpload_largeBuffers() throws Exception {
+
+git reset --hard 6dff9f5630f6b7aa0b3442d195921c5dbfd1110f SUCCESS!
+Target class: URLConnectionTest    
+1 class(es) found
+Target method: flushAfterStreamTransmittedWithNoLengthHeaders
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/http/URLConnectionTest.java
+
+Method found! 
+   @Test public void flushAfterStreamTransmittedWithNoLengthHeaders() throws IOException {
+
+git reset --hard 6dff9f5630f6b7aa0b3442d195921c5dbfd1110f SUCCESS!
+Target class: URLConnectionTest    
+1 class(es) found
+Target method: getKeepAlive
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/http/URLConnectionTest.java
+
+Method found! 
+   @Test public void getKeepAlive() throws Exception {
+
+git reset --hard 6dff9f5630f6b7aa0b3442d195921c5dbfd1110f SUCCESS!
+Target class: URLConnectionTest    
+1 class(es) found
+Target method: gzipEncodingEnabledByDefault
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/http/URLConnectionTest.java
+
+Method found! 
+   @Test public void gzipEncodingEnabledByDefault() throws IOException, InterruptedException {
+
+git reset --hard 6dff9f5630f6b7aa0b3442d195921c5dbfd1110f SUCCESS!
+Target class: URLConnectionTest    
+1 class(es) found
+Target method: shoutcast
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/http/URLConnectionTest.java
+
+Method found! 
+   @Test public void shoutcast() throws Exception {
+
+git reset --hard 712e56de25c8c212d8c85c6b316faeb8789d731c SUCCESS!
+Target class: HttpOverHttp20Draft14Test    
+1 class(es) found
+Target method: readTimeoutOnSlowConnection
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/http/HttpOverHttp20Draft14Test.java
+
+Missing method, searching on superclass...
+Target superclass: HttpOverSpdyTest
+Class path: ./okhttp-tests/src/test/java/com/squareup/okhttp/internal/http/HttpOverSpdyTest.java
+
+Method found! 
+   @Test public void readTimeoutOnSlowConnection() throws Exception {
+
+git reset --hard 71ff30ccb8ba6e7415d9c8fd6c2f01340987683e SUCCESS!
+Target class: HttpResponseCacheTest    
+1 class(es) found
+Target method: serverDisconnectsPrematurelyWithNoLengthHeaders
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/http/HttpResponseCacheTest.java
+
+Method found! 
+   @Test public void serverDisconnectsPrematurelyWithNoLengthHeaders() throws IOException {
+
+git reset --hard 72fe1f1c01f328d221d546838c1d80c98ffa2192 SUCCESS!
+Target class: SpdyConnectionTest    
+1 class(es) found
+Target method: headersOnlyStreamIsClosedAfterReplyHeaders
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/spdy/SpdyConnectionTest.java
+
+Method found! 
+   @Test public void headersOnlyStreamIsClosedAfterReplyHeaders() throws Exception {
+
+git reset --hard 739d8760fbee199855fe4a6ba96a835ed43bd744 SUCCESS!
+Target class: URLConnectionTest    
+1 class(es) found
+Target method: postFailsWithChunkedRequestForLargeRequest
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/http/URLConnectionTest.java
+
+Method found! 
+   @Test public void postFailsWithChunkedRequestForLargeRequest() throws Exception {
+
+git reset --hard 739d8760fbee199855fe4a6ba96a835ed43bd744 SUCCESS!
+Target class: URLConnectionTest    
+1 class(es) found
+Target method: postFailsWithFixedLengthRequestForLargeRequest
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/http/URLConnectionTest.java
+
+Method found! 
+   @Test public void postFailsWithFixedLengthRequestForLargeRequest() throws Exception {
+
+git reset --hard 739d8760fbee199855fe4a6ba96a835ed43bd744 SUCCESS!
+Target class: SpdyConnectionTest    
+1 class(es) found
+Target method: peerHttp2ServerZerosCompressionTable
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/spdy/SpdyConnectionTest.java
+
+Method found! 
+   @Test public void peerHttp2ServerZerosCompressionTable() throws Exception {
+
+git reset --hard 739d8760fbee199855fe4a6ba96a835ed43bd744 SUCCESS!
+Target class: SpdyConnectionTest    
+1 class(es) found
+Target method: receiveGoAwayHttp2
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/spdy/SpdyConnectionTest.java
+
+Method found! 
+   @Test public void receiveGoAwayHttp2() throws Exception {
+
+git reset --hard 739d8760fbee199855fe4a6ba96a835ed43bd744 SUCCESS!
+Target class: SpdyConnectionTest    
+1 class(es) found
+Target method: remoteSendsDataAfterInFinished
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/spdy/SpdyConnectionTest.java
+
+Method found! 
+   @Test public void remoteSendsDataAfterInFinished() throws Exception {
+
+git reset --hard 743ae0cbbae97b26a782bd6dd5b9eb2920cb97a0 SUCCESS!
+Target class: HttpResponseCacheTest    
+1 class(es) found
+Target method: serverDisconnectsPrematurelyWithNoLengthHeaders
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/HttpResponseCacheTest.java
+
+Method found! 
+   @Test public void serverDisconnectsPrematurelyWithNoLengthHeaders() throws IOException {
+
+git reset --hard 7874dbda87cfafc9ac1f6e8e725e4f230b735882 SUCCESS!
+Target class: SpdyConnectionTest    
+1 class(es) found
+Target method: headersOnlyStreamIsClosedAfterReplyHeaders
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/spdy/SpdyConnectionTest.java
+
+Method found! 
+   @Test public void headersOnlyStreamIsClosedAfterReplyHeaders() throws Exception {
+
+git reset --hard 789b536cb34afc90f66c82ba8e3705c4997f1507 SUCCESS!
+Target class: DiskLruCacheTest    
+1 class(es) found
+Target method: shrinkMaxSizeEvicts
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/DiskLruCacheTest.java
+
+Method found! 
+   @Test public void shrinkMaxSizeEvicts() throws Exception {
+
+git reset --hard 7a43728529736eb2350f4b2c67e8e7a828258921 SUCCESS!
+Target class: URLConnectionTest    
+1 class(es) found
+Target method: postFailsWithChunkedRequestForLargeRequest
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/http/URLConnectionTest.java
+
+Method found! 
+   @Test public void postFailsWithChunkedRequestForLargeRequest() throws Exception {
+
+git reset --hard 7bb06e78bac05e0e24c6ea81b34aa11f498ad61f SUCCESS!
+Target class: URLConnectionTest    
+1 class(es) found
+Target method: gzipAndConnectionReuseWithChunkedEncoding
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/http/URLConnectionTest.java
+
+Method found! 
+   @Test public void gzipAndConnectionReuseWithChunkedEncoding() throws Exception {
+  @Test public void gzipAndConnectionReuseWithChunkedEncodingAndTls() throws Exception {
+
+git reset --hard 7bb06e78bac05e0e24c6ea81b34aa11f498ad61f SUCCESS!
+Target class: URLConnectionTest    
+1 class(es) found
+Target method: redirectToAnotherOriginServerWithHttps
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/http/URLConnectionTest.java
+
+Method found! 
+   @Test public void redirectToAnotherOriginServerWithHttps() throws Exception {
+
+git reset --hard 7e6e92de511c4b9593fb51d6dda85c89ca28a81a SUCCESS!
+Target class: SpdyConnectionTest    
+1 class(es) found
+Target method: peerHttp2ServerLowersInitialWindowSize
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/spdy/SpdyConnectionTest.java
+
+Method found! 
+   @Test public void peerHttp2ServerLowersInitialWindowSize() throws Exception {
+
+git reset --hard 7e6e92de511c4b9593fb51d6dda85c89ca28a81a SUCCESS!
+Target class: SpdyConnectionTest    
+1 class(es) found
+Target method: readSendsWindowUpdate
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/spdy/SpdyConnectionTest.java
+
+Method found! 
+   @Test public void readSendsWindowUpdate() throws Exception {
+    readSendsWindowUpdate(SPDY3);
+  @Test public void readSendsWindowUpdateHttp2() throws Exception {
+    readSendsWindowUpdate(HTTP_20_DRAFT_09);
+  private void readSendsWindowUpdate(Variant variant)
+
+git reset --hard 7e6e92de511c4b9593fb51d6dda85c89ca28a81a SUCCESS!
+Target class: SpdyConnectionTest    
+1 class(es) found
+Target method: readTimeoutExpires
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/spdy/SpdyConnectionTest.java
+
+Method found! 
+   @Test public void readTimeoutExpires() throws Exception {
+
+git reset --hard 7e6e92de511c4b9593fb51d6dda85c89ca28a81a SUCCESS!
+Target class: SpdyConnectionTest    
+1 class(es) found
+Target method: unexpectedPingIsNotReturned
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/spdy/SpdyConnectionTest.java
+
+Method found! 
+   @Test public void unexpectedPingIsNotReturned() throws Exception {
+
+git reset --hard 80cac1916cc9626333bd569ff420273793a041b0 SUCCESS!
+Target class: URLConnectionTest    
+1 class(es) found
+Target method: digestAuthentication
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/http/URLConnectionTest.java
+
+Method found! 
+   @Test public void digestAuthentication() throws Exception {
+
+git reset --hard 80cac1916cc9626333bd569ff420273793a041b0 SUCCESS!
+Target class: URLConnectionTest    
+1 class(es) found
+Target method: noTransparentGzipFor304NotModified
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/http/URLConnectionTest.java
+
+Method found! 
+   @Test public void noTransparentGzipFor304NotModified() throws Exception {
+
+git reset --hard 80cac1916cc9626333bd569ff420273793a041b0 SUCCESS!
+Target class: URLConnectionTest    
+1 class(es) found
+Target method: response300MultipleChoiceWithPost
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/http/URLConnectionTest.java
+
+Method found! 
+   @Test public void response300MultipleChoiceWithPost() throws Exception {
+
+git reset --hard 837dfc60bd32ff419046fa09fe10c13d752a6230 SUCCESS!
+Target class: URLConnectionTest    
+1 class(es) found
+Target method: postFailsWithChunkedRequestForSmallRequest
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/http/URLConnectionTest.java
+
+Method found! 
+   @Test public void postFailsWithChunkedRequestForSmallRequest() throws Exception {
+
+git reset --hard 837dfc60bd32ff419046fa09fe10c13d752a6230 SUCCESS!
+Target class: URLConnectionTest    
+1 class(es) found
+Target method: postFailsWithFixedLengthRequestForLargeRequest
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/http/URLConnectionTest.java
+
+Method found! 
+   @Test public void postFailsWithFixedLengthRequestForLargeRequest() throws Exception {
+
+git reset --hard 837dfc60bd32ff419046fa09fe10c13d752a6230 SUCCESS!
+Target class: Spdy3ConnectionTest    
+1 class(es) found
+Target method: getResponseHeadersTimesOut
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/spdy/Spdy3ConnectionTest.java
+
+Method found! 
+   @Test public void getResponseHeadersTimesOut() throws Exception {
+
+git reset --hard 853a579b1a4f09bc96b6252c00c944acbbe86911 SUCCESS!
+Target class: HttpResponseCacheTest    
+1 class(es) found
+Target method: cacheControlNoCacheAndExpirationDateInTheFuture
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/http/HttpResponseCacheTest.java
+
+Method found! 
+   @Test public void cacheControlNoCacheAndExpirationDateInTheFuture() throws Exception {
+
+git reset --hard 853a579b1a4f09bc96b6252c00c944acbbe86911 SUCCESS!
+Target class: HttpResponseCacheTest    
+1 class(es) found
+Target method: cacheControlNoStoreAndExpirationDateInTheFuture
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/http/HttpResponseCacheTest.java
+
+Method found! 
+   @Test public void cacheControlNoStoreAndExpirationDateInTheFuture() throws Exception {
+
+git reset --hard 853a579b1a4f09bc96b6252c00c944acbbe86911 SUCCESS!
+Target class: HttpResponseCacheTest    
+1 class(es) found
+Target method: cachePlusRange
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/http/HttpResponseCacheTest.java
+
+Method found! 
+   @Test public void cachePlusRange() throws Exception {
+
+git reset --hard 853a579b1a4f09bc96b6252c00c944acbbe86911 SUCCESS!
+Target class: HttpResponseCacheTest    
+1 class(es) found
+Target method: varyMultipleFieldsWithMatch
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/http/HttpResponseCacheTest.java
+
+Method found! 
+   @Test public void varyMultipleFieldsWithMatch() throws Exception {
+
+git reset --hard 853a579b1a4f09bc96b6252c00c944acbbe86911 SUCCESS!
+Target class: SpdyConnectionTest    
+1 class(es) found
+Target method: receiveGoAway
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/spdy/SpdyConnectionTest.java
+
+Method found! 
+   @Test public void receiveGoAway() throws Exception {
+    receiveGoAway(SPDY3);
+  @Test public void receiveGoAwayHttp2() throws Exception {
+    receiveGoAway(HTTP_20_DRAFT_09);
+  private void receiveGoAway(Variant variant) throws Exception {
+
+git reset --hard 889bc764a5f1627090a69e6e100bcd18474dfb86 SUCCESS!
+Target class: ResponseCacheTest    
+1 class(es) found
+Target method: maxAgeInTheFutureWithDateHeader
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/http/ResponseCacheTest.java
+
+Method found! 
+   @Test public void maxAgeInTheFutureWithDateHeader() throws Exception {
+
+git reset --hard 8a040048643c975acf5c3f73e3c4a0fbb000f5f0 SUCCESS!
+Target class: DiskLruCacheTest    
+1 class(es) found
+Target method: shrinkMaxSizeEvicts
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/DiskLruCacheTest.java
+
+Method found! 
+   @Test public void shrinkMaxSizeEvicts() throws Exception {
+
+git reset --hard 8b0cba5442ee87c268a76a10778bd0425a70d342 SUCCESS!
+Target class: URLConnectionTest    
+1 class(es) found
+Target method: connectViaProxyUsingHttpProxySystemProperty
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/http/URLConnectionTest.java
+
+Method found! 
+   @Test public void connectViaProxyUsingHttpProxySystemProperty() throws Exception {
+
+git reset --hard 8b0cba5442ee87c268a76a10778bd0425a70d342 SUCCESS!
+Target class: URLConnectionTest    
+1 class(es) found
+Target method: gzipAndConnectionReuseWithChunkedEncoding
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/http/URLConnectionTest.java
+
+Method found! 
+   @Test public void gzipAndConnectionReuseWithChunkedEncoding() throws Exception {
+  @Test public void gzipAndConnectionReuseWithChunkedEncodingAndTls() throws Exception {
+
+git reset --hard 8b0cba5442ee87c268a76a10778bd0425a70d342 SUCCESS!
+Target class: URLConnectionTest    
+1 class(es) found
+Target method: inputStreamAvailableWithChunkedEncoding
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/http/URLConnectionTest.java
+
+Method found! 
+   @Test public void inputStreamAvailableWithChunkedEncoding() throws Exception {
+
+git reset --hard 8b0cba5442ee87c268a76a10778bd0425a70d342 SUCCESS!
+Target class: SpdyConnectionTest    
+1 class(es) found
+Target method: headersOnlyStreamIsClosedAfterReplyHeaders
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/spdy/SpdyConnectionTest.java
+
+Method found! 
+   @Test public void headersOnlyStreamIsClosedAfterReplyHeaders() throws Exception {
+
+git reset --hard 8c81c9e358fb12d090a24d47ed8689f7959e301e SUCCESS!
+Target class: DiskLruCacheTest    
+1 class(es) found
+Target method: shrinkMaxSizeEvicts
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/DiskLruCacheTest.java
+
+Method found! 
+   @Test public void shrinkMaxSizeEvicts() throws Exception {
+
+git reset --hard 8e9d8f6fbf4a505417ead296b2c2a1bb15e6ba5c SUCCESS!
+Target class: SpdyConnectionTest    
+1 class(es) found
+Target method: clientPingsServerHttp2
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/spdy/SpdyConnectionTest.java
+
+Method found! 
+   @Test public void clientPingsServerHttp2() throws Exception {
+
+git reset --hard 8f3cae8cda0887602c7ba12060f0ca5194395353 SUCCESS!
+Target class: URLConnectionTest    
+1 class(es) found
+Target method: postFailsWithChunkedRequestForLargeRequest
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/http/URLConnectionTest.java
+
+Method found! 
+   @Test public void postFailsWithChunkedRequestForLargeRequest() throws Exception {
+
+git reset --hard 8f9e50686d16c357060e49ae9a0ccf54c4a59064 SUCCESS!
+Target class: URLConnectionTest    
+1 class(es) found
+Target method: connectViaHttpProxyToHttpsUsingBadProxyAndHttpResponseCache
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/http/URLConnectionTest.java
+
+Method found! 
+   @Test public void connectViaHttpProxyToHttpsUsingBadProxyAndHttpResponseCache() throws Exception {
+
+git reset --hard 8f9e50686d16c357060e49ae9a0ccf54c4a59064 SUCCESS!
+Target class: URLConnectionTest    
+1 class(es) found
+Target method: flushAfterStreamTransmittedWithFixedLength
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/http/URLConnectionTest.java
+
+Method found! 
+   @Test public void flushAfterStreamTransmittedWithFixedLength() throws IOException {
+
+git reset --hard 8f9e50686d16c357060e49ae9a0ccf54c4a59064 SUCCESS!
+Target class: URLConnectionTest    
+1 class(es) found
+Target method: getErrorStreamOnUnsuccessfulRequest
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/http/URLConnectionTest.java
+
+Method found! 
+   @Test public void getErrorStreamOnUnsuccessfulRequest() throws Exception {
+
+git reset --hard 8f9e50686d16c357060e49ae9a0ccf54c4a59064 SUCCESS!
+Target class: URLConnectionTest    
+1 class(es) found
+Target method: noTransparentGzipFor304NotModified
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/http/URLConnectionTest.java
+
+Method found! 
+   @Test public void noTransparentGzipFor304NotModified() throws Exception {
+
+git reset --hard 8f9e50686d16c357060e49ae9a0ccf54c4a59064 SUCCESS!
+Target class: URLConnectionTest    
+1 class(es) found
+Target method: postFailsWithFixedLengthRequestForLargeRequest
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/http/URLConnectionTest.java
+
+Method found! 
+   @Test public void postFailsWithFixedLengthRequestForLargeRequest() throws Exception {
+
+git reset --hard 8f9e50686d16c357060e49ae9a0ccf54c4a59064 SUCCESS!
+Target class: URLConnectionTest    
+1 class(es) found
+Target method: response300MultipleChoiceWithPost
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/http/URLConnectionTest.java
+
+Method found! 
+   @Test public void response300MultipleChoiceWithPost() throws Exception {
+
+git reset --hard 8f9e50686d16c357060e49ae9a0ccf54c4a59064 SUCCESS!
+Target class: SpdyConnectionTest    
+1 class(es) found
+Target method: pushPromiseStream
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/spdy/SpdyConnectionTest.java
+
+Method found! 
+   @Test public void pushPromiseStream() throws Exception {
+  @Test public void pushPromiseStreamsAutomaticallyCancel() throws Exception {
+
+git reset --hard 8fe12e106e922b3cb34d29e2ad89f072409cb792 SUCCESS!
+Target class: SpdyConnectionTest    
+1 class(es) found
+Target method: clientPingsServerHttp2
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/spdy/SpdyConnectionTest.java
+
+Method found! 
+   @Test public void clientPingsServerHttp2() throws Exception {
+
+git reset --hard 9146c579dd9110d0028144c59515da9be1ce7108 SUCCESS!
+Target class: URLConnectionTest    
+1 class(es) found
+Target method: connectViaHttpProxyToHttpsUsingBadProxyAndHttpResponseCache
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/http/URLConnectionTest.java
+
+Method found! 
+   @Test public void connectViaHttpProxyToHttpsUsingBadProxyAndHttpResponseCache() throws Exception {
+
+git reset --hard 9146c579dd9110d0028144c59515da9be1ce7108 SUCCESS!
+Target class: URLConnectionTest    
+1 class(es) found
+Target method: connectViaProxyUsingHttpProxySystemProperty
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/http/URLConnectionTest.java
+
+Method found! 
+   @Test public void connectViaProxyUsingHttpProxySystemProperty() throws Exception {
+
+git reset --hard 9146c579dd9110d0028144c59515da9be1ce7108 SUCCESS!
+Target class: URLConnectionTest    
+1 class(es) found
+Target method: gzipAndConnectionReuseWithChunkedEncoding
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/http/URLConnectionTest.java
+
+Method found! 
+   @Test public void gzipAndConnectionReuseWithChunkedEncoding() throws Exception {
+  @Test public void gzipAndConnectionReuseWithChunkedEncodingAndTls() throws Exception {
+
+git reset --hard 9146c579dd9110d0028144c59515da9be1ce7108 SUCCESS!
+Target class: URLConnectionTest    
+1 class(es) found
+Target method: inputStreamAvailableWithChunkedEncoding
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/http/URLConnectionTest.java
+
+Method found! 
+   @Test public void inputStreamAvailableWithChunkedEncoding() throws Exception {
+
+git reset --hard 945619c3f451bba092f772adbd62cd0a6fd7ec3b SUCCESS!
+Target class: SpdyConnectionTest    
+1 class(es) found
+Target method: pushPromiseStream
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/spdy/SpdyConnectionTest.java
+
+Method found! 
+   @Test public void pushPromiseStream() throws Exception {
+  @Test public void pushPromiseStreamsAutomaticallyCancel() throws Exception {
+
+git reset --hard 945619c3f451bba092f772adbd62cd0a6fd7ec3b SUCCESS!
+Target class: SpdyConnectionTest    
+1 class(es) found
+Target method: serverClosesClientInputStream
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/spdy/SpdyConnectionTest.java
+
+Method found! 
+   @Test public void serverClosesClientInputStream() throws Exception {
+
+git reset --hard 9549fb4455f54d96a307ce17d280ff55df855470 SUCCESS!
+Target class: URLConnectionTest    
+1 class(es) found
+Target method: gzipAndConnectionReuseWithChunkedEncoding
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/http/URLConnectionTest.java
+
+Method found! 
+   @Test public void gzipAndConnectionReuseWithChunkedEncoding() throws Exception {
+  @Test public void gzipAndConnectionReuseWithChunkedEncodingAndTls() throws Exception {
+
+git reset --hard 9549fb4455f54d96a307ce17d280ff55df855470 SUCCESS!
+Target class: URLConnectionTest    
+1 class(es) found
+Target method: inputStreamAvailableWithChunkedEncoding
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/http/URLConnectionTest.java
+
+Method found! 
+   @Test public void inputStreamAvailableWithChunkedEncoding() throws Exception {
+
+git reset --hard 98135b35f983f62e4ce39f6ee62a210778667911 SUCCESS!
+Target class: URLConnectionTest    
+1 class(es) found
+Target method: postFailsWithFixedLengthRequestForLargeRequest
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/http/URLConnectionTest.java
+
+Method found! 
+   @Test public void postFailsWithFixedLengthRequestForLargeRequest() throws Exception {
+
+git reset --hard 98135b35f983f62e4ce39f6ee62a210778667911 SUCCESS!
+Target class: Spdy3ConnectionTest    
+1 class(es) found
+Target method: getResponseHeadersTimesOut
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/spdy/Spdy3ConnectionTest.java
+
+Method found! 
+   @Test public void getResponseHeadersTimesOut() throws Exception {
+
+git reset --hard 986fa834238821709311c1dce738225740dff81f SUCCESS!
+Target class: URLConnectionTest    
+1 class(es) found
+Target method: noTransparentGzipFor304NotModified
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/http/URLConnectionTest.java
+
+Method found! 
+   @Test public void noTransparentGzipFor304NotModified() throws Exception {
+
+git reset --hard 996e9c95bdcafd62e84c79c512d6ccac65c30758 SUCCESS!
+Target class: URLConnectionTest    
+1 class(es) found
+Target method: digestAuthentication
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/http/URLConnectionTest.java
+
+Method found! 
+   @Test public void digestAuthentication() throws Exception {
+
+git reset --hard 996e9c95bdcafd62e84c79c512d6ccac65c30758 SUCCESS!
+Target class: URLConnectionTest    
+1 class(es) found
+Target method: flushAfterStreamTransmittedWithFixedLength
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/http/URLConnectionTest.java
+
+Method found! 
+   @Test public void flushAfterStreamTransmittedWithFixedLength() throws IOException {
+
+git reset --hard 996e9c95bdcafd62e84c79c512d6ccac65c30758 SUCCESS!
+Target class: URLConnectionTest    
+1 class(es) found
+Target method: response300MultipleChoiceWithPost
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/http/URLConnectionTest.java
+
+Method found! 
+   @Test public void response300MultipleChoiceWithPost() throws Exception {
+
+git reset --hard 9aab6489d788ab14ac59e2f1869f822f4045036d SUCCESS!
+Target class: HttpOverHttp20Draft14Test    
+1 class(es) found
+Target method: readTimeoutOnSlowConnection
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/http/HttpOverHttp20Draft14Test.java
+
+Missing method, searching on superclass...
+Target superclass: HttpOverSpdyTest
+Class path: ./okhttp-tests/src/test/java/com/squareup/okhttp/internal/http/HttpOverSpdyTest.java
+
+Method found! 
+   @Test public void readTimeoutOnSlowConnection() throws Exception {
+
+git reset --hard 9babb8d8e5578e2916d414e50ab539376581e4bb SUCCESS!
+Target class: URLConnectionTest    
+1 class(es) found
+Target method: chunkedUpload_largeBuffers
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/http/URLConnectionTest.java
+
+Method found! 
+   @Test public void chunkedUpload_largeBuffers() throws Exception {
+
+git reset --hard 9babb8d8e5578e2916d414e50ab539376581e4bb SUCCESS!
+Target class: URLConnectionTest    
+1 class(es) found
+Target method: contentDisagreesWithContentLengthHeader
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/http/URLConnectionTest.java
+
+Method found! 
+   @Test public void contentDisagreesWithContentLengthHeader() throws IOException {
+
+git reset --hard 9babb8d8e5578e2916d414e50ab539376581e4bb SUCCESS!
+Target class: URLConnectionTest    
+1 class(es) found
+Target method: gzipAndConnectionReuseWithChunkedEncoding
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/http/URLConnectionTest.java
+
+Method found! 
+   @Test public void gzipAndConnectionReuseWithChunkedEncoding() throws Exception {
+  @Test public void gzipAndConnectionReuseWithChunkedEncodingAndTls() throws Exception {
+
+git reset --hard 9babb8d8e5578e2916d414e50ab539376581e4bb SUCCESS!
+Target class: URLConnectionTest    
+1 class(es) found
+Target method: shoutcast
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/http/URLConnectionTest.java
+
+Method found! 
+   @Test public void shoutcast() throws Exception {
+
+git reset --hard 9c302131491d05a4ca0209ef21770592c01f76fa SUCCESS!
+Target class: SpdyConnectionTest    
+1 class(es) found
+Target method: peerHttp2ServerZerosCompressionTable
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/spdy/SpdyConnectionTest.java
+
+Method found! 
+   @Test public void peerHttp2ServerZerosCompressionTable() throws Exception {
+
+git reset --hard 9d173b9f0dac83905d962afc7814695c7cedd784 SUCCESS!
+Target class: URLConnectionTest    
+1 class(es) found
+Target method: postFailsWithFixedLengthRequestForLargeRequest
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/http/URLConnectionTest.java
+
+Method found! 
+   @Test public void postFailsWithFixedLengthRequestForLargeRequest() throws Exception {
+
+git reset --hard a2a9fcb567be89e3c49f2c2d932276ecb634fb7e SUCCESS!
+Target class: HttpResponseCacheTest    
+1 class(es) found
+Target method: contentLocationDoesNotPopulateCache
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/http/HttpResponseCacheTest.java
+
+Method found! 
+   @Test public void contentLocationDoesNotPopulateCache() throws Exception {
+
+git reset --hard a84901e7c10552fe1bbbc9112d2341d8721d741e SUCCESS!
+Target class: SpdyConnectionTest    
+1 class(es) found
+Target method: headersOnlyStreamIsClosedAfterReplyHeaders
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/spdy/SpdyConnectionTest.java
+
+Method found! 
+   @Test public void headersOnlyStreamIsClosedAfterReplyHeaders() throws Exception {
+
+git reset --hard ab4927b857b1feb45d78f2fec8ae27ab6ad7d541 SUCCESS!
+Target class: SpdyConnectionTest    
+1 class(es) found
+Target method: clientSendsEmptyDataServerDoesntSendWindowUpdate
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/spdy/SpdyConnectionTest.java
+
+Method found! 
+   @Test public void clientSendsEmptyDataServerDoesntSendWindowUpdate() throws Exception {
+    clientSendsEmptyDataServerDoesntSendWindowUpdate(SPDY3);
+  @Test public void clientSendsEmptyDataServerDoesntSendWindowUpdateHttp2() throws Exception {
+    clientSendsEmptyDataServerDoesntSendWindowUpdate(HTTP_20_DRAFT_09);
+  private void clientSendsEmptyDataServerDoesntSendWindowUpdate(Variant variant)
+
+git reset --hard ab4927b857b1feb45d78f2fec8ae27ab6ad7d541 SUCCESS!
+Target class: SpdyConnectionTest    
+1 class(es) found
+Target method: pushPromiseStreamsAutomaticallyCancel
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/spdy/SpdyConnectionTest.java
+
+Method found! 
+   @Test public void pushPromiseStreamsAutomaticallyCancel() throws Exception {
+
+git reset --hard ab4927b857b1feb45d78f2fec8ae27ab6ad7d541 SUCCESS!
+Target class: SpdyConnectionTest    
+1 class(es) found
+Target method: readSendsWindowUpdate
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/spdy/SpdyConnectionTest.java
+
+Method found! 
+   @Test public void readSendsWindowUpdate() throws Exception {
+    readSendsWindowUpdate(SPDY3);
+  @Test public void readSendsWindowUpdateHttp2() throws Exception {
+    readSendsWindowUpdate(HTTP_20_DRAFT_09);
+  private void readSendsWindowUpdate(Variant variant)
+
+git reset --hard ab4927b857b1feb45d78f2fec8ae27ab6ad7d541 SUCCESS!
+Target class: SpdyConnectionTest    
+1 class(es) found
+Target method: unexpectedPingIsNotReturned
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/spdy/SpdyConnectionTest.java
+
+Method found! 
+   @Test public void unexpectedPingIsNotReturned() throws Exception {
+
+git reset --hard ab4927b857b1feb45d78f2fec8ae27ab6ad7d541 SUCCESS!
+Target class: SpdyConnectionTest    
+1 class(es) found
+Target method: writeAwaitsWindowUpdate
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/spdy/SpdyConnectionTest.java
+
+Method found! 
+   @Test public void writeAwaitsWindowUpdate() throws Exception {
+
+git reset --hard aca1ff99afc235702f3189447eeadcbf15d5dda7 SUCCESS!
+Target class: URLConnectionTest    
+1 class(es) found
+Target method: gzipAndConnectionReuseWithFixedLength
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/http/URLConnectionTest.java
+
+Method found! 
+   @Test public void gzipAndConnectionReuseWithFixedLength() throws Exception {
+  @Test public void gzipAndConnectionReuseWithFixedLengthAndTls() throws Exception {
+
+git reset --hard aca1ff99afc235702f3189447eeadcbf15d5dda7 SUCCESS!
+Target class: URLConnectionTest    
+1 class(es) found
+Target method: noTransparentGzipFor304NotModified
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/http/URLConnectionTest.java
+
+Method found! 
+   @Test public void noTransparentGzipFor304NotModified() throws Exception {
+
+git reset --hard b03026067b3686e45d4e11886eaccf084c36b01e SUCCESS!
+Target class: URLConnectionTest    
+1 class(es) found
+Target method: digestAuthentication
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/http/URLConnectionTest.java
+
+Method found! 
+   @Test public void digestAuthentication() throws Exception {
+
+git reset --hard b03026067b3686e45d4e11886eaccf084c36b01e SUCCESS!
+Target class: URLConnectionTest    
+1 class(es) found
+Target method: getErrorStreamOnUnsuccessfulRequest
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/http/URLConnectionTest.java
+
+Method found! 
+   @Test public void getErrorStreamOnUnsuccessfulRequest() throws Exception {
+
+git reset --hard b03026067b3686e45d4e11886eaccf084c36b01e SUCCESS!
+Target class: URLConnectionTest    
+1 class(es) found
+Target method: postFailsWithFixedLengthRequestForLargeRequest
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/http/URLConnectionTest.java
+
+Method found! 
+   @Test public void postFailsWithFixedLengthRequestForLargeRequest() throws Exception {
+
+git reset --hard b03026067b3686e45d4e11886eaccf084c36b01e SUCCESS!
+Target class: URLConnectionTest    
+1 class(es) found
+Target method: response300MultipleChoiceWithPost
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/http/URLConnectionTest.java
+
+Method found! 
+   @Test public void response300MultipleChoiceWithPost() throws Exception {
+
+git reset --hard b03026067b3686e45d4e11886eaccf084c36b01e SUCCESS!
+Target class: SpdyConnectionTest    
+1 class(es) found
+Target method: headersOnlyStreamIsClosedAfterReplyHeaders
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/spdy/SpdyConnectionTest.java
+
+Method found! 
+   @Test public void headersOnlyStreamIsClosedAfterReplyHeaders() throws Exception {
+
+git reset --hard b1091b3f552a7badb7bf90faa68cfcc699845c94 SUCCESS!
+Target class: CacheTest    
+1 class(es) found
+Target method: cacheControlNoCacheAndExpirationDateInTheFuture
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/CacheTest.java
+
+Method found! 
+   @Test public void cacheControlNoCacheAndExpirationDateInTheFuture() throws Exception {
+
+git reset --hard b19860c9297197a5055ac2ffd6edaedf693c1a85 SUCCESS!
+Target class: HttpOverHttp20Draft13Test    
+1 class(es) found
+Target method: readTimeoutOnSlowConnection
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/http/HttpOverHttp20Draft13Test.java
+
+Missing method, searching on superclass...
+Target superclass: HttpOverSpdyTest
+Class path: ./okhttp-tests/src/test/java/com/squareup/okhttp/internal/http/HttpOverSpdyTest.java
+
+Method found! 
+   @Test public void readTimeoutOnSlowConnection() throws Exception {
+
+git reset --hard b1a135d8715cf14747d75b6a76036805ba700b22 SUCCESS!
+Target class: SpdyConnectionTest    
+1 class(es) found
+Target method: pushPromiseStream
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/spdy/SpdyConnectionTest.java
+
+Method found! 
+   @Test public void pushPromiseStream() throws Exception {
+  @Test public void pushPromiseStreamsAutomaticallyCancel() throws Exception {
+
+git reset --hard b1a135d8715cf14747d75b6a76036805ba700b22 SUCCESS!
+Target class: SpdyConnectionTest    
+1 class(es) found
+Target method: receiveGoAway
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/spdy/SpdyConnectionTest.java
+
+Method found! 
+   @Test public void receiveGoAway() throws Exception {
+    receiveGoAway(SPDY3);
+  @Test public void receiveGoAwayHttp2() throws Exception {
+    receiveGoAway(HTTP_20_DRAFT_09);
+  private void receiveGoAway(Variant variant) throws Exception {
+
+git reset --hard b21b40e480cdcd09b618e399a349556de509d88d SUCCESS!
+Target class: SpdyConnectionTest    
+1 class(es) found
+Target method: readSendsWindowUpdate
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/spdy/SpdyConnectionTest.java
+
+Method found! 
+   @Test public void readSendsWindowUpdate() throws Exception {
+    readSendsWindowUpdate(SPDY3);
+  @Test public void readSendsWindowUpdateHttp2() throws Exception {
+    readSendsWindowUpdate(HTTP_20_DRAFT_09);
+  private void readSendsWindowUpdate(Variant variant)
+
+git reset --hard b21b40e480cdcd09b618e399a349556de509d88d SUCCESS!
+Target class: SpdyConnectionTest    
+1 class(es) found
+Target method: readTimeoutExpires
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/spdy/SpdyConnectionTest.java
+
+Method found! 
+   @Test public void readTimeoutExpires() throws Exception {
+
+git reset --hard b21b40e480cdcd09b618e399a349556de509d88d SUCCESS!
+Target class: SpdyConnectionTest    
+1 class(es) found
+Target method: remoteDoubleSynStream
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/spdy/SpdyConnectionTest.java
+
+Method found! 
+   @Test public void remoteDoubleSynStream() throws Exception {
+
+git reset --hard b21b40e480cdcd09b618e399a349556de509d88d SUCCESS!
+Target class: SpdyConnectionTest    
+1 class(es) found
+Target method: unexpectedPingIsNotReturned
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/spdy/SpdyConnectionTest.java
+
+Method found! 
+   @Test public void unexpectedPingIsNotReturned() throws Exception {
+
+git reset --hard b21b40e480cdcd09b618e399a349556de509d88d SUCCESS!
+Target class: SpdyConnectionTest    
+1 class(es) found
+Target method: writeAwaitsWindowUpdate
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/spdy/SpdyConnectionTest.java
+
+Method found! 
+   @Test public void writeAwaitsWindowUpdate() throws Exception {
+
+git reset --hard b2420242161a6098e28a3bf1809c0bed26771ebc SUCCESS!
+Target class: SpdyConnectionTest    
+1 class(es) found
+Target method: pushPromiseStream
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/spdy/SpdyConnectionTest.java
+
+Method found! 
+   @Test public void pushPromiseStream() throws Exception {
+  @Test public void pushPromiseStreamsAutomaticallyCancel() throws Exception {
+
+git reset --hard b28cf79a605698e380db8a3b20b150e64ac6fae4 SUCCESS!
+Target class: URLConnectionTest    
+1 class(es) found
+Target method: postFailsWithFixedLengthRequestForLargeRequest
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/http/URLConnectionTest.java
+
+Method found! 
+   @Test public void postFailsWithFixedLengthRequestForLargeRequest() throws Exception {
+
+git reset --hard b28cf79a605698e380db8a3b20b150e64ac6fae4 SUCCESS!
+Target class: SpdyConnectionTest    
+1 class(es) found
+Target method: serverClosesClientInputStream
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/spdy/SpdyConnectionTest.java
+
+Method found! 
+   @Test public void serverClosesClientInputStream() throws Exception {
+
+git reset --hard b60875421b0f67575970b6b63582b7e5e31c4a06 SUCCESS!
+Target class: SpdyConnectionTest    
+1 class(es) found
+Target method: bogusDataFrameDoesNotDisruptConnection
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/spdy/SpdyConnectionTest.java
+
+Method found! 
+   @Test public void bogusDataFrameDoesNotDisruptConnection() throws Exception {
+
+git reset --hard b60875421b0f67575970b6b63582b7e5e31c4a06 SUCCESS!
+Target class: SpdyConnectionTest    
+1 class(es) found
+Target method: readSendsWindowUpdate
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/spdy/SpdyConnectionTest.java
+
+Method found! 
+   @Test public void readSendsWindowUpdate() throws Exception {
+    readSendsWindowUpdate(SPDY3);
+  @Test public void readSendsWindowUpdateHttp2() throws Exception {
+    readSendsWindowUpdate(HTTP_20_DRAFT_09);
+  private void readSendsWindowUpdate(Variant variant)
+
+git reset --hard b60875421b0f67575970b6b63582b7e5e31c4a06 SUCCESS!
+Target class: SpdyConnectionTest    
+1 class(es) found
+Target method: readTimeoutExpires
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/spdy/SpdyConnectionTest.java
+
+Method found! 
+   @Test public void readTimeoutExpires() throws Exception {
+
+git reset --hard b60875421b0f67575970b6b63582b7e5e31c4a06 SUCCESS!
+Target class: SpdyConnectionTest    
+1 class(es) found
+Target method: remoteDoubleSynStream
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/spdy/SpdyConnectionTest.java
+
+Method found! 
+   @Test public void remoteDoubleSynStream() throws Exception {
+
+git reset --hard b60875421b0f67575970b6b63582b7e5e31c4a06 SUCCESS!
+Target class: SpdyConnectionTest    
+1 class(es) found
+Target method: unexpectedPingIsNotReturned
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/spdy/SpdyConnectionTest.java
+
+Method found! 
+   @Test public void unexpectedPingIsNotReturned() throws Exception {
+
+git reset --hard b8e50f57d34d84710493acd3610fd545b9aac88a SUCCESS!
+Target class: SpdyConnectionTest    
+1 class(es) found
+Target method: headersOnlyStreamIsClosedAfterReplyHeaders
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/spdy/SpdyConnectionTest.java
+
+Method found! 
+   @Test public void headersOnlyStreamIsClosedAfterReplyHeaders() throws Exception {
+
+git reset --hard b8e50f57d34d84710493acd3610fd545b9aac88a SUCCESS!
+Target class: SpdyConnectionTest    
+1 class(es) found
+Target method: serverClosesClientInputStream
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/spdy/SpdyConnectionTest.java
+
+Method found! 
+   @Test public void serverClosesClientInputStream() throws Exception {
+
+git reset --hard b8f3a455ebcff01f7527f7ac0ef7202542335eed SUCCESS!
+Target class: URLConnectionTest    
+1 class(es) found
+Target method: serverShutdownOutput
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/http/URLConnectionTest.java
+
+Method found! 
+   @Test public void serverShutdownOutput() throws Exception {
+
+git reset --hard b92c1b9db1c27b8035157a9016344db9e5f198ec SUCCESS!
+Target class: CallTest    
+1 class(es) found
+Target method: cancelInFlightBeforeResponseReadThrowsIOE
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/CallTest.java
+
+Method found! 
+   @Test public void cancelInFlightBeforeResponseReadThrowsIOE() throws Exception {
+  @Test public void cancelInFlightBeforeResponseReadThrowsIOE_HTTP_2() throws Exception {
+    cancelInFlightBeforeResponseReadThrowsIOE();
+  @Test public void cancelInFlightBeforeResponseReadThrowsIOE_SPDY_3() throws Exception {
+    cancelInFlightBeforeResponseReadThrowsIOE();
+
+git reset --hard b9b06e13ddf2e000d6c06f3e4d2dc2612b43c280 SUCCESS!
+Target class: URLConnectionTest    
+1 class(es) found
+Target method: postFailsWithFixedLengthRequestForLargeRequest
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/http/URLConnectionTest.java
+
+Method found! 
+   @Test public void postFailsWithFixedLengthRequestForLargeRequest() throws Exception {
+
+git reset --hard b9efb8bf887ddc2a43d9fa2c90c7462cca9a24bb SUCCESS!
+Target class: AsyncApiTest    
+1 class(es) found
+Target method: conditionalCacheHit
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/AsyncApiTest.java
+
+Method found! 
+   @Test public void conditionalCacheHit() throws Exception {
+
+git reset --hard b9efb8bf887ddc2a43d9fa2c90c7462cca9a24bb SUCCESS!
+Target class: AsyncApiTest    
+1 class(es) found
+Target method: doesNotFollow21Redirects
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/AsyncApiTest.java
+
+Method found! 
+   @Test public void doesNotFollow21Redirects() throws Exception {
+
+git reset --hard b9efb8bf887ddc2a43d9fa2c90c7462cca9a24bb SUCCESS!
+Target class: AsyncApiTest    
+1 class(es) found
+Target method: follow20Redirects
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/AsyncApiTest.java
+
+Method found! 
+   @Test public void follow20Redirects() throws Exception {
+
+git reset --hard b9efb8bf887ddc2a43d9fa2c90c7462cca9a24bb SUCCESS!
+Target class: AsyncApiTest    
+1 class(es) found
+Target method: post
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/AsyncApiTest.java
+
+Method found! 
+   @Test public void post() throws Exception {
+        .post(Request.Body.create(MediaType.parse("text/plain"), "def"))
+  @Test public void postBodyRetransmittedOnRedirect() throws Exception {
+        .post(Request.Body.create(MediaType.parse("text/plain"), "body!"))
+
+git reset --hard bb52caa1039b9ffd6c928112b9e5414c1bde96b8 SUCCESS!
+Target class: SpdyConnectionTest    
+1 class(es) found
+Target method: clientPingsServerHttp2
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/spdy/SpdyConnectionTest.java
+
+Method found! 
+   @Test public void clientPingsServerHttp2() throws Exception {
+
+git reset --hard bda555ad61ef55e9ad6e4a30d2e9cfde5fc216ca SUCCESS!
+Target class: URLConnectionTest    
+1 class(es) found
+Target method: postFailsWithFixedLengthRequestForLargeRequest
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/http/URLConnectionTest.java
+
+Method found! 
+   @Test public void postFailsWithFixedLengthRequestForLargeRequest() throws Exception {
+
+git reset --hard bda555ad61ef55e9ad6e4a30d2e9cfde5fc216ca SUCCESS!
+Target class: SpdyConnectionTest    
+1 class(es) found
+Target method: serverClosesClientInputStream
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/spdy/SpdyConnectionTest.java
+
+Method found! 
+   @Test public void serverClosesClientInputStream() throws Exception {
+
+git reset --hard bdb5c2f4e96fb2dd6dbd77dfe7aebe1634649d42 SUCCESS!
+Target class: CookiesTest    
+1 class(es) found
+Target method: testCookiesSentIgnoresCase
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/http/CookiesTest.java
+
+Method found! 
+   @Test public void testCookiesSentIgnoresCase() throws Exception {
+
+git reset --hard bdb5c2f4e96fb2dd6dbd77dfe7aebe1634649d42 SUCCESS!
+Target class: CookiesTest    
+1 class(es) found
+Target method: testQuotedAttributeValues
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/http/CookiesTest.java
+
+Method found! 
+   @Test public void testQuotedAttributeValues() throws Exception {
+
+git reset --hard bdb5c2f4e96fb2dd6dbd77dfe7aebe1634649d42 SUCCESS!
+Target class: CookiesTest    
+1 class(es) found
+Target method: testRedirectsDoNotIncludeTooManyCookies
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/http/CookiesTest.java
+
+Method found! 
+   @Test public void testRedirectsDoNotIncludeTooManyCookies() throws Exception {
+
+git reset --hard c1dfc6931174f50e5f9a53b860674539a7a81fb6 SUCCESS!
+Target class: SpdyConnectionTest    
+1 class(es) found
+Target method: headersOnlyStreamIsClosedAfterReplyHeaders
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/spdy/SpdyConnectionTest.java
+
+Method found! 
+   @Test public void headersOnlyStreamIsClosedAfterReplyHeaders() throws Exception {
+
+git reset --hard c27e0fdc165282f1c64648bdae2a51ed10f14d40 SUCCESS!
+Target class: JavaApiConverterTest    
+1 class(es) found
+Target method: createOkResponse_fromJavaHttpsUrlConnection
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/huc/JavaApiConverterTest.java
+
+Method found! 
+   @Test public void createOkResponse_fromJavaHttpsUrlConnection() throws Exception {
+
+git reset --hard c4366c65818664182919adfb1131f7fae6a07e91 SUCCESS!
+Target class: AsyncApiTest    
+1 class(es) found
+Target method: conditionalCacheHit
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/AsyncApiTest.java
+
+Method found! 
+   @Test public void conditionalCacheHit() throws Exception {
+
+git reset --hard c4366c65818664182919adfb1131f7fae6a07e91 SUCCESS!
+Target class: AsyncApiTest    
+1 class(es) found
+Target method: doesNotFollow21Redirects
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/AsyncApiTest.java
+
+Method found! 
+   @Test public void doesNotFollow21Redirects() throws Exception {
+
+git reset --hard c4366c65818664182919adfb1131f7fae6a07e91 SUCCESS!
+Target class: AsyncApiTest    
+1 class(es) found
+Target method: follow20Redirects
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/AsyncApiTest.java
+
+Method found! 
+   @Test public void follow20Redirects() throws Exception {
+
+git reset --hard c4366c65818664182919adfb1131f7fae6a07e91 SUCCESS!
+Target class: AsyncApiTest    
+1 class(es) found
+Target method: get
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/AsyncApiTest.java
+
+Method found! 
+     String tmp = System.getProperty("java.io.tmpdir");
+  @Test public void get() throws Exception {
+        .url(server.getUrl("/"))
+    assertTrue(server.takeRequest().getHeaders().contains("User-Agent: AsyncApiTest"));
+    client.enqueue(new Request.Builder().url(server.getUrl("/a")).build(), receiver);
+    receiver.await(server.getUrl("/a")).assertBody("abc");
+    client.enqueue(new Request.Builder().url(server.getUrl("/b")).build(), receiver);
+    receiver.await(server.getUrl("/b")).assertBody("def");
+    client.enqueue(new Request.Builder().url(server.getUrl("/c")).build(), receiver);
+    receiver.await(server.getUrl("/c")).assertBody("ghi");
+    assertEquals(0, server.takeRequest().getSequenceNumber());
+    assertEquals(1, server.takeRequest().getSequenceNumber());
+    assertEquals(2, server.takeRequest().getSequenceNumber());
+    server.useHttps(sslContext.getSocketFactory(), false);
+    client.setSslSocketFactory(sslContext.getSocketFactory());
+        .url(server.getUrl("/"))
+    server.useHttps(sslContext.getSocketFactory(), false);
+    client.setSslSocketFactory(sslContext.getSocketFactory());
+        .url(server.getUrl("/"))
+        .url(server.getUrl("/"))
+    assertEquals("def", recordedRequest.getUtf8Body());
+    assertEquals("3", recordedRequest.getHeader("Content-Length"));
+    assertEquals("text/plain; charset=utf-8", recordedRequest.getHeader("Content-Type"));
+        .url(server.getUrl("/"))
+    assertNull(server.takeRequest().getHeader("If-None-Match"));
+        .url(server.getUrl("/"))
+    assertEquals("v1", server.takeRequest().getHeader("If-None-Match"));
+        .url(server.getUrl("/"))
+    assertNull(server.takeRequest().getHeader("If-None-Match"));
+        .url(server.getUrl("/"))
+    assertEquals("v1", server.takeRequest().getHeader("If-None-Match"));
+    Request request = new Request.Builder().url(server.getUrl("/a")).build();
+    receiver.await(server.getUrl("/c"))
+    assertEquals(0, server.takeRequest().getSequenceNumber()); // New connection.
+    assertEquals(1, server.takeRequest().getSequenceNumber()); // Connection reused.
+    assertEquals(2, server.takeRequest().getSequenceNumber()); // Connection reused again!
+    Request request = new Request.Builder().url(server.getUrl("/a")).build();
+    receiver.await(server.getUrl("/a"))
+    Request request = new Request.Builder().url(server.getUrl("/0")).build();
+    receiver.await(server.getUrl("/20"))
+    Request request = new Request.Builder().url(server.getUrl("/0")).build();
+    receiver.await(server.getUrl("/20")).assertFailure("Too many redirects: 21");
+    client.getDispatcher().setMaxRequests(1); // Force requests to be executed serially.
+    Request requestA = new Request.Builder().url(server.getUrl("/a")).tag("request A").build();
+    assertEquals("/a", server.takeRequest().getPath());
+    Request requestB = new Request.Builder().url(server.getUrl("/b")).tag("request B").build();
+    assertEquals("/b", server.takeRequest().getPath());
+    Request request = new Request.Builder().url(server.getUrl("/a")).tag("request A").build();
+    assertEquals("A", bodyRef.get());
+    Request request = new Request.Builder().url(server.getUrl("/a")).build();
+        client.enqueue(new Request.Builder().url(server.getUrl("/b")).build(), receiver);
+    receiver.await(server.getUrl("/b")).assertCode(200).assertBody("def");
+    assertEquals(0, server.takeRequest().getSequenceNumber()); // New connection.
+    assertEquals(1, server.takeRequest().getSequenceNumber()); // Connection reuse!
+        .url(server.getUrl("/"))
+    receiver.await(server.getUrl("/b"))
+    assertEquals("body!", request1.getUtf8Body());
+    assertEquals("5", request1.getHeader("Content-Length"));
+    assertEquals("text/plain; charset=utf-8", request1.getHeader("Content-Type"));
+    assertEquals(0, request1.getSequenceNumber());
+    assertEquals("body!", request2.getUtf8Body());
+    assertEquals("5", request2.getHeader("Content-Length"));
+    assertEquals("text/plain; charset=utf-8", request2.getHeader("Content-Type"));
+    assertEquals(1, request2.getSequenceNumber());
+
+git reset --hard c676ee28ef959979adfd4fbe6cb183822e31e1a1 SUCCESS!
+Target class: URLConnectionTest    
+1 class(es) found
+Target method: gzipAndConnectionReuseWithFixedLength
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/http/URLConnectionTest.java
+
+Method found! 
+   @Test public void gzipAndConnectionReuseWithFixedLength() throws Exception {
+  @Test public void gzipAndConnectionReuseWithFixedLengthAndTls() throws Exception {
+
+git reset --hard c676ee28ef959979adfd4fbe6cb183822e31e1a1 SUCCESS!
+Target class: URLConnectionTest    
+1 class(es) found
+Target method: noTransparentGzipFor304NotModified
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/http/URLConnectionTest.java
+
+Method found! 
+   @Test public void noTransparentGzipFor304NotModified() throws Exception {
+
+git reset --hard c676ee28ef959979adfd4fbe6cb183822e31e1a1 SUCCESS!
+Target class: URLConnectionTest    
+1 class(es) found
+Target method: postFailsWithChunkedRequestForLargeRequest
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/http/URLConnectionTest.java
+
+Method found! 
+   @Test public void postFailsWithChunkedRequestForLargeRequest() throws Exception {
+
+git reset --hard c676ee28ef959979adfd4fbe6cb183822e31e1a1 SUCCESS!
+Target class: URLConnectionTest    
+1 class(es) found
+Target method: postFailsWithFixedLengthRequestForLargeRequest
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/http/URLConnectionTest.java
+
+Method found! 
+   @Test public void postFailsWithFixedLengthRequestForLargeRequest() throws Exception {
+
+git reset --hard d1768cb499e9d1bd48622dd0529329bc6330438c SUCCESS!
+Target class: HttpOverHttp20Draft10Test    
+1 class(es) found
+Target method: readTimeoutOnSlowConnection
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/http/HttpOverHttp20Draft10Test.java
+
+Missing method, searching on superclass...
+Target superclass: HttpOverSpdyTest
+Class path: ./okhttp-tests/src/test/java/com/squareup/okhttp/internal/http/HttpOverSpdyTest.java
+
+Method found! 
+   @Test public void readTimeoutOnSlowConnection() throws Exception {
+
+git reset --hard d34a9c9992931ed3d39ddaff42df2c37163e3398 SUCCESS!
+Target class: JavaApiConverterTest    
+1 class(es) found
+Target method: createOkResponse_fromOkHttpUrlConnection
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/http/JavaApiConverterTest.java
+
+Method found! 
+   @Test public void createOkResponse_fromOkHttpUrlConnection() throws Exception {
+
+git reset --hard d5d540fac75ee21d4c406537cb8374ec44a3bb66 SUCCESS!
+Target class: SpdyConnectionTest    
+1 class(es) found
+Target method: bogusDataFrameDoesNotDisruptConnection
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/spdy/SpdyConnectionTest.java
+
+Method found! 
+   @Test public void bogusDataFrameDoesNotDisruptConnection() throws Exception {
+
+git reset --hard d5d540fac75ee21d4c406537cb8374ec44a3bb66 SUCCESS!
+Target class: SpdyConnectionTest    
+1 class(es) found
+Target method: clientCreatesStreamAndServerRepliesWithFin
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/spdy/SpdyConnectionTest.java
+
+Method found! 
+   @Test public void clientCreatesStreamAndServerRepliesWithFin() throws Exception {
+
+git reset --hard d5d540fac75ee21d4c406537cb8374ec44a3bb66 SUCCESS!
+Target class: SpdyConnectionTest    
+1 class(es) found
+Target method: headerBlockHasTrailingCompressedBytes2048
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/spdy/SpdyConnectionTest.java
+
+Method found! 
+   @Test public void headerBlockHasTrailingCompressedBytes2048() throws Exception {
+
+git reset --hard d5d540fac75ee21d4c406537cb8374ec44a3bb66 SUCCESS!
+Target class: SpdyConnectionTest    
+1 class(es) found
+Target method: readSendsWindowUpdate
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/spdy/SpdyConnectionTest.java
+
+Method found! 
+   @Test public void readSendsWindowUpdate() throws Exception {
+    readSendsWindowUpdate(SPDY3);
+  @Test public void readSendsWindowUpdateHttp2() throws Exception {
+    readSendsWindowUpdate(HTTP_20_DRAFT_09);
+  private void readSendsWindowUpdate(Variant variant)
+
+git reset --hard d5d540fac75ee21d4c406537cb8374ec44a3bb66 SUCCESS!
+Target class: SpdyConnectionTest    
+1 class(es) found
+Target method: unexpectedPingIsNotReturned
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/spdy/SpdyConnectionTest.java
+
+Method found! 
+   @Test public void unexpectedPingIsNotReturned() throws Exception {
+
+git reset --hard d614f056145d07cfa77140f03027f385afe57c85 SUCCESS!
+Target class: CookiesTest    
+1 class(es) found
+Target method: testCookiesSentIgnoresCase
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/http/CookiesTest.java
+
+Method found! 
+   @Test public void testCookiesSentIgnoresCase() throws Exception {
+
+git reset --hard d614f056145d07cfa77140f03027f385afe57c85 SUCCESS!
+Target class: CookiesTest    
+1 class(es) found
+Target method: testQuotedAttributeValues
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/http/CookiesTest.java
+
+Method found! 
+   @Test public void testQuotedAttributeValues() throws Exception {
+
+git reset --hard d614f056145d07cfa77140f03027f385afe57c85 SUCCESS!
+Target class: URLConnectionTest    
+1 class(es) found
+Target method: postFailsWithChunkedRequestForSmallRequest
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/http/URLConnectionTest.java
+
+Method found! 
+   @Test public void postFailsWithChunkedRequestForSmallRequest() throws Exception {
+
+git reset --hard d6627683130e9c22355da3ee623c0cd335661afa SUCCESS!
+Target class: URLConnectionTest    
+1 class(es) found
+Target method: noTransparentGzipFor304NotModified
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/http/URLConnectionTest.java
+
+Method found! 
+   @Test public void noTransparentGzipFor304NotModified() throws Exception {
+
+git reset --hard d6627683130e9c22355da3ee623c0cd335661afa SUCCESS!
+Target class: URLConnectionTest    
+1 class(es) found
+Target method: postFailsWithFixedLengthRequestForLargeRequest
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/http/URLConnectionTest.java
+
+Method found! 
+   @Test public void postFailsWithFixedLengthRequestForLargeRequest() throws Exception {
+
+git reset --hard d6627683130e9c22355da3ee623c0cd335661afa SUCCESS!
+Target class: URLConnectionTest    
+1 class(es) found
+Target method: response300MultipleChoiceWithPost
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/http/URLConnectionTest.java
+
+Method found! 
+   @Test public void response300MultipleChoiceWithPost() throws Exception {
+
+git reset --hard d68fc05bd22c9c59caef3932def9b0859bbb8396 SUCCESS!
+Target class: URLConnectionTest    
+1 class(es) found
+Target method: inputStreamAvailableWithChunkedEncoding
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/http/URLConnectionTest.java
+
+Method found! 
+   @Test public void inputStreamAvailableWithChunkedEncoding() throws Exception {
+
+git reset --hard d68fc05bd22c9c59caef3932def9b0859bbb8396 SUCCESS!
+Target class: URLConnectionTest    
+1 class(es) found
+Target method: postFailsWithBufferedRequestForLargeRequest
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/http/URLConnectionTest.java
+
+Method found! 
+   @Test public void postFailsWithBufferedRequestForLargeRequest() throws Exception {
+
+git reset --hard d8c4da5d9020ea1db3a26809d8f3e7076e5d1561 SUCCESS!
+Target class: HttpOverHttp20Draft12Test    
+1 class(es) found
+Target method: readTimeoutOnSlowConnection
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/http/HttpOverHttp20Draft12Test.java
+
+Missing method, searching on superclass...
+Target superclass: HttpOverSpdyTest
+Class path: ./okhttp-tests/src/test/java/com/squareup/okhttp/internal/http/HttpOverSpdyTest.java
+
+Method found! 
+   @Test public void readTimeoutOnSlowConnection() throws Exception {
+
+git reset --hard da484932625ab15681e469c1680b6371b8f67080 SUCCESS!
+Target class: URLConnectionTest    
+1 class(es) found
+Target method: chunkedUpload_largeBuffers
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/http/URLConnectionTest.java
+
+Method found! 
+   @Test public void chunkedUpload_largeBuffers() throws Exception {
+
+git reset --hard da484932625ab15681e469c1680b6371b8f67080 SUCCESS!
+Target class: URLConnectionTest    
+1 class(es) found
+Target method: gzipAndConnectionReuseWithChunkedEncoding
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/http/URLConnectionTest.java
+
+Method found! 
+   @Test public void gzipAndConnectionReuseWithChunkedEncoding() throws Exception {
+  @Test public void gzipAndConnectionReuseWithChunkedEncodingAndTls() throws Exception {
+
+git reset --hard da484932625ab15681e469c1680b6371b8f67080 SUCCESS!
+Target class: URLConnectionTest    
+1 class(es) found
+Target method: sameConnectionRedirectAndReuse
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/http/URLConnectionTest.java
+
+Method found! 
+   @Test public void sameConnectionRedirectAndReuse() throws Exception {
+
+git reset --hard da484932625ab15681e469c1680b6371b8f67080 SUCCESS!
+Target class: URLConnectionTest    
+1 class(es) found
+Target method: shoutcast
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/http/URLConnectionTest.java
+
+Method found! 
+   @Test public void shoutcast() throws Exception {
+
+git reset --hard dcb5dc52a18663429a63d8a4b135f8bcdfa9899c SUCCESS!
+Target class: URLConnectionTest    
+1 class(es) found
+Target method: postFailsWithChunkedRequestForSmallRequest
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/http/URLConnectionTest.java
+
+Method found! 
+   @Test public void postFailsWithChunkedRequestForSmallRequest() throws Exception {
+
+git reset --hard dcb5dc52a18663429a63d8a4b135f8bcdfa9899c SUCCESS!
+Target class: SpdyConnectionTest    
+1 class(es) found
+Target method: serverClosesClientInputStream
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/spdy/SpdyConnectionTest.java
+
+Method found! 
+   @Test public void serverClosesClientInputStream() throws Exception {
+
+git reset --hard dd0f2e9d1bcbc8528c44d5d98eedb419e4d02ed7 SUCCESS!
+Target class: URLConnectionTest    
+1 class(es) found
+Target method: postFailsWithChunkedRequestForSmallRequest
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/http/URLConnectionTest.java
+
+Method found! 
+   @Test public void postFailsWithChunkedRequestForSmallRequest() throws Exception {
+
+git reset --hard e2599be9e073f1be8e929597c358e2664ab0c9a9 SUCCESS!
+Target class: SpdyConnectionTest    
+1 class(es) found
+Target method: pushPromiseStream
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/spdy/SpdyConnectionTest.java
+
+Method found! 
+   @Test public void pushPromiseStream() throws Exception {
+  @Test public void pushPromiseStreamsAutomaticallyCancel() throws Exception {
+
+git reset --hard e34ac14009f96100dcc1359243360603bbf02ce3 SUCCESS!
+Target class: ResponseCacheTest    
+1 class(es) found
+Target method: clientPrematureDisconnectWithContentLengthHeader
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/huc/ResponseCacheTest.java
+
+Method found! 
+   @Test public void clientPrematureDisconnectWithContentLengthHeader() throws IOException {
+
+git reset --hard e3bac1e4a35f6b989617957332ef1ca5064a9365 SUCCESS!
+Target class: Spdy3ConnectionTest    
+1 class(es) found
+Target method: bogusDataFrameDoesNotDisruptConnection
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/spdy/Spdy3ConnectionTest.java
+
+Method found! 
+   @Test public void bogusDataFrameDoesNotDisruptConnection() throws Exception {
+
+git reset --hard e3bac1e4a35f6b989617957332ef1ca5064a9365 SUCCESS!
+Target class: Spdy3ConnectionTest    
+1 class(es) found
+Target method: clientSendsEmptyDataServerDoesntSendWindowUpdate
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/spdy/Spdy3ConnectionTest.java
+
+Method found! 
+   @Test public void clientSendsEmptyDataServerDoesntSendWindowUpdate() throws Exception {
+
+git reset --hard e3bac1e4a35f6b989617957332ef1ca5064a9365 SUCCESS!
+Target class: Spdy3ConnectionTest    
+1 class(es) found
+Target method: headerBlockHasTrailingCompressedBytes2048
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/spdy/Spdy3ConnectionTest.java
+
+Method found! 
+   @Test public void headerBlockHasTrailingCompressedBytes2048() throws Exception {
+
+git reset --hard e3bac1e4a35f6b989617957332ef1ca5064a9365 SUCCESS!
+Target class: Spdy3ConnectionTest    
+1 class(es) found
+Target method: readSendsWindowUpdate
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/spdy/Spdy3ConnectionTest.java
+
+Method found! 
+   @Test public void readSendsWindowUpdate() throws Exception {
+
+git reset --hard e3bac1e4a35f6b989617957332ef1ca5064a9365 SUCCESS!
+Target class: Spdy3ConnectionTest    
+1 class(es) found
+Target method: unexpectedPingIsNotReturned
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/spdy/Spdy3ConnectionTest.java
+
+Method found! 
+   @Test public void unexpectedPingIsNotReturned() throws Exception {
+
+git reset --hard e3d39f7ec069ad49bac7c59c2f2384dd2adf71dd SUCCESS!
+Target class: CallTest    
+1 class(es) found
+Target method: cancelInFlightBeforeResponseReadThrowsIOE
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/CallTest.java
+
+Method found! 
+   @Test public void cancelInFlightBeforeResponseReadThrowsIOE() throws Exception {
+  @Test public void cancelInFlightBeforeResponseReadThrowsIOE_HTTP_2() throws Exception {
+    cancelInFlightBeforeResponseReadThrowsIOE();
+  @Test public void cancelInFlightBeforeResponseReadThrowsIOE_SPDY_3() throws Exception {
+    cancelInFlightBeforeResponseReadThrowsIOE();
+
+git reset --hard e49dd7a2f08deac92fab3de2b8a63e90b588f746 SUCCESS!
+Target class: CallTest    
+1 class(es) found
+Target method: canceledBeforeResponseReadSignalsOnFailure_HTTP_2
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/CallTest.java
+
+Method found! 
+   @Test public void canceledBeforeResponseReadSignalsOnFailure_HTTP_2() throws Exception {
+
+git reset --hard e76f8f651dea7c2c2e43185b078f7854216bc37b SUCCESS!
+Target class: ResponseCacheTest    
+1 class(es) found
+Target method: clientPrematureDisconnectWithChunkedEncoding
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/http/ResponseCacheTest.java
+
+Method found! 
+   @Test public void clientPrematureDisconnectWithChunkedEncoding() throws IOException {
+
+git reset --hard e76f8f651dea7c2c2e43185b078f7854216bc37b SUCCESS!
+Target class: ResponseCacheTest    
+1 class(es) found
+Target method: clientSuppliedIfModifiedSinceWithCachedResult
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/http/ResponseCacheTest.java
+
+Method found! 
+   @Test public void clientSuppliedIfModifiedSinceWithCachedResult() throws Exception {
+
+git reset --hard e879c195e45a8a485d79c6cd82035a04a5e70165 SUCCESS!
+Target class: SpdyConnectionTest    
+1 class(es) found
+Target method: headersOnlyStreamIsClosedAfterReplyHeaders
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/spdy/SpdyConnectionTest.java
+
+Method found! 
+   @Test public void headersOnlyStreamIsClosedAfterReplyHeaders() throws Exception {
+
+git reset --hard e879c195e45a8a485d79c6cd82035a04a5e70165 SUCCESS!
+Target class: SpdyConnectionTest    
+1 class(es) found
+Target method: serverClosesClientInputStream
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/spdy/SpdyConnectionTest.java
+
+Method found! 
+   @Test public void serverClosesClientInputStream() throws Exception {
+
+git reset --hard ea13e5ec97e5c8a25cff17612648bed95a5f8f57 SUCCESS!
+Target class: HttpOverHttp20Draft13Test    
+1 class(es) found
+Target method: readTimeoutOnSlowConnection
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/http/HttpOverHttp20Draft13Test.java
+
+Missing method, searching on superclass...
+Target superclass: HttpOverSpdyTest
+Class path: ./okhttp-tests/src/test/java/com/squareup/okhttp/internal/http/HttpOverSpdyTest.java
+
+Method found! 
+   @Test public void readTimeoutOnSlowConnection() throws Exception {
+
+git reset --hard eb40f47753ce1a7d45bb3fbcf7eb28ac6e7e2479 SUCCESS!
+Target class: Spdy3ConnectionTest    
+1 class(es) found
+Target method: remoteDoubleSynStream
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/spdy/Spdy3ConnectionTest.java
+
+Method found! 
+   @Test public void remoteDoubleSynStream() throws Exception {
+
+git reset --hard eb5aeb0976995eb83434129d75eb05c3e7c87fed SUCCESS!
+Target class: URLConnectionTest    
+1 class(es) found
+Target method: postFailsWithFixedLengthRequestForLargeRequest
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/http/URLConnectionTest.java
+
+Method found! 
+   @Test public void postFailsWithFixedLengthRequestForLargeRequest() throws Exception {
+
+git reset --hard eec5b4a8c942d6468d1f6ba389185116228de63d SUCCESS!
+Target class: URLConnectionTest    
+1 class(es) found
+Target method: postFailsWithChunkedRequestForSmallRequest
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/http/URLConnectionTest.java
+
+Method found! 
+   @Test public void postFailsWithChunkedRequestForSmallRequest() throws Exception {
+
+git reset --hard ef4e9b99d33598d525bef704d59aa7dc403997f6 SUCCESS!
+Target class: CallTest    
+1 class(es) found
+Target method: cancelInFlightBeforeResponseReadThrowsIOE
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/CallTest.java
+
+Method found! 
+   @Test public void cancelInFlightBeforeResponseReadThrowsIOE() throws Exception {
+  @Test public void cancelInFlightBeforeResponseReadThrowsIOE_HTTP_2() throws Exception {
+    cancelInFlightBeforeResponseReadThrowsIOE();
+  @Test public void cancelInFlightBeforeResponseReadThrowsIOE_SPDY_3() throws Exception {
+    cancelInFlightBeforeResponseReadThrowsIOE();
+
+git reset --hard f3cc7930a5d1e95b707eeb5ddc182746177d570e SUCCESS!
+Target class: SpdyConnectionTest    
+1 class(es) found
+Target method: clientSendsEmptyDataServerDoesntSendWindowUpdate
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/spdy/SpdyConnectionTest.java
+
+Method found! 
+   @Test public void clientSendsEmptyDataServerDoesntSendWindowUpdate() throws Exception {
+    clientSendsEmptyDataServerDoesntSendWindowUpdate(SPDY3);
+  @Test public void clientSendsEmptyDataServerDoesntSendWindowUpdateHttp2() throws Exception {
+    clientSendsEmptyDataServerDoesntSendWindowUpdate(HTTP_20_DRAFT_09);
+  private void clientSendsEmptyDataServerDoesntSendWindowUpdate(Variant variant)
+
+git reset --hard f3cc7930a5d1e95b707eeb5ddc182746177d570e SUCCESS!
+Target class: SpdyConnectionTest    
+1 class(es) found
+Target method: readTimeoutExpires
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/spdy/SpdyConnectionTest.java
+
+Method found! 
+   @Test public void readTimeoutExpires() throws Exception {
+
+git reset --hard f3cc7930a5d1e95b707eeb5ddc182746177d570e SUCCESS!
+Target class: SpdyConnectionTest    
+1 class(es) found
+Target method: remoteDoubleSynStream
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/spdy/SpdyConnectionTest.java
+
+Method found! 
+   @Test public void remoteDoubleSynStream() throws Exception {
+
+git reset --hard f5111c28356431c6c5d1e71dd1bbced9a8016cd8 SUCCESS!
+Target class: URLConnectionTest    
+1 class(es) found
+Target method: contentDisagreesWithContentLengthHeader
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/http/URLConnectionTest.java
+
+Method found! 
+   @Test public void contentDisagreesWithContentLengthHeader() throws IOException {
+
+git reset --hard f5111c28356431c6c5d1e71dd1bbced9a8016cd8 SUCCESS!
+Target class: URLConnectionTest    
+1 class(es) found
+Target method: gzipAndConnectionReuseWithChunkedEncoding
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/http/URLConnectionTest.java
+
+Method found! 
+   @Test public void gzipAndConnectionReuseWithChunkedEncoding() throws Exception {
+  @Test public void gzipAndConnectionReuseWithChunkedEncodingAndTls() throws Exception {
+
+git reset --hard f5111c28356431c6c5d1e71dd1bbced9a8016cd8 SUCCESS!
+Target class: URLConnectionTest    
+1 class(es) found
+Target method: http10SelectedProtocol
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/http/URLConnectionTest.java
+
+Method found! 
+   @Test public void http10SelectedProtocol() throws Exception {
+
+git reset --hard f5111c28356431c6c5d1e71dd1bbced9a8016cd8 SUCCESS!
+Target class: URLConnectionTest    
+1 class(es) found
+Target method: shoutcast
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/http/URLConnectionTest.java
+
+Method found! 
+   @Test public void shoutcast() throws Exception {
+
+git reset --hard f84b4de48074632366e6bd3160bfce3b93aa59de SUCCESS!
+Target class: URLConnectionTest    
+1 class(es) found
+Target method: serverShutdownOutput
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/http/URLConnectionTest.java
+
+Method found! 
+   @Test public void serverShutdownOutput() throws Exception {
+
+git reset --hard fa42933c783271d21505a5101b5bef61576c335c SUCCESS!
+Target class: SpdyConnectionTest    
+1 class(es) found
+Target method: readSendsWindowUpdate
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/spdy/SpdyConnectionTest.java
+
+Method found! 
+   @Test public void readSendsWindowUpdate() throws Exception {
+    readSendsWindowUpdate(SPDY3);
+  @Test public void readSendsWindowUpdateHttp2() throws Exception {
+    readSendsWindowUpdate(HTTP_20_DRAFT_09);
+  private void readSendsWindowUpdate(Variant variant)
+
+git reset --hard fa42933c783271d21505a5101b5bef61576c335c SUCCESS!
+Target class: SpdyConnectionTest    
+1 class(es) found
+Target method: readTimeoutExpires
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/spdy/SpdyConnectionTest.java
+
+Method found! 
+   @Test public void readTimeoutExpires() throws Exception {
+
+git reset --hard fa42933c783271d21505a5101b5bef61576c335c SUCCESS!
+Target class: SpdyConnectionTest    
+1 class(es) found
+Target method: remoteDoubleSynStream
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/spdy/SpdyConnectionTest.java
+
+Method found! 
+   @Test public void remoteDoubleSynStream() throws Exception {
+
+git reset --hard fa42933c783271d21505a5101b5bef61576c335c SUCCESS!
+Target class: SpdyConnectionTest    
+1 class(es) found
+Target method: unexpectedPingIsNotReturned
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/spdy/SpdyConnectionTest.java
+
+Method found! 
+   @Test public void unexpectedPingIsNotReturned() throws Exception {
+
+git reset --hard fa42933c783271d21505a5101b5bef61576c335c SUCCESS!
+Target class: SpdyConnectionTest    
+1 class(es) found
+Target method: writeAwaitsWindowUpdate
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/spdy/SpdyConnectionTest.java
+
+Method found! 
+   @Test public void writeAwaitsWindowUpdate() throws Exception {
+
+git reset --hard ff5390d6dcaf79ef09a3ef94dbb7e8ac39572a7f SUCCESS!
+Target class: ResponseCacheTest    
+1 class(es) found
+Target method: cacheCanUseCriteriaBesidesVariantObeyed
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/http/ResponseCacheTest.java
+
+Method found! 
+   @Test public void cacheCanUseCriteriaBesidesVariantObeyed() throws Exception {
+
+git reset --hard ff5390d6dcaf79ef09a3ef94dbb7e8ac39572a7f SUCCESS!
+Target class: SpdyConnectionTest    
+1 class(es) found
+Target method: serverClosesClientInputStream
+Class path: okhttp-tests/src/test/java/com/squareup/okhttp/internal/spdy/SpdyConnectionTest.java
+
+Method found! 
+   @Test public void serverClosesClientInputStream() throws Exception {
+
+310 method(s) found (~100.0%).
+0 method(s) missing.
+Dataset updated with results.

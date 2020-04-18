@@ -1,0 +1,898 @@
+git reset --hard 08ba7e56a7159513e71af88fa58319143765dcde SUCCESS!
+Target class: TestWro4jMojo    
+1 class(es) found
+Target method: shouldBeFasterWhenRunningProcessingInParallel
+Class path: wro4j-maven-plugin/src/test/java/ro/isdc/wro/maven/plugin/TestWro4jMojo.java
+
+Method found! 
+   public void shouldBeFasterWhenRunningProcessingInParallel()
+
+git reset --hard 0c059ed0bfa793f6fe31d598b178795312c18887 SUCCESS!
+Target class: TestModelAsJsonRequestHandler    
+1 class(es) found
+Target method: shouldGenerateModelAsJson
+Class path: wro4j-extensions/src/test/java/ro/isdc/wro/extensions/http/handler/TestModelAsJsonRequestHandler.java
+
+Method found! 
+   public void shouldGenerateModelAsJson()
+
+git reset --hard 0ecb877a530cd85a4f6eeeb3e1c4102d9a6e4c50 SUCCESS!
+Target class: TestWro4jMojo    
+1 class(es) found
+Target method: shouldBeFasterWhenRunningProcessingInParallel
+Class path: wro4j-maven-plugin/src/test/java/ro/isdc/wro/maven/plugin/TestWro4jMojo.java
+
+Method found! 
+   public void shouldBeFasterWhenRunningProcessingInParallel() throws Exception {
+
+git reset --hard 0f0e9e0b0d256e7183d27aeccd9830cc100de77b SUCCESS!
+Target class: TestCssImportPreProcessor    
+1 class(es) found
+Target method: testFromFolder
+Class path: wro4j-core/src/test/java/ro/isdc/wro/model/resource/processor/TestCssImportPreProcessor.java
+
+Method found! 
+   public void testFromFolder()
+
+git reset --hard 18f56b7c62b198b2805e57aa6ff8c10195bed848 SUCCESS!
+Target class: TestWro4jMojo    
+1 class(es) found
+Target method: shouldBeFasterWhenRunningProcessingInParallel
+Class path: wro4j-maven-plugin/src/test/java/ro/isdc/wro/maven/plugin/TestWro4jMojo.java
+
+Method found! 
+   public void shouldBeFasterWhenRunningProcessingInParallel()
+
+git reset --hard 1b99da43e921bb0d54a44e7920a1886618267db2 SUCCESS!
+Target class: TestWro4jMojo    
+1 class(es) found
+Target method: shouldBeFasterWhenRunningProcessingInParallel
+Class path: wro4j-maven-plugin/src/test/java/ro/isdc/wro/maven/plugin/TestWro4jMojo.java
+
+Method found! 
+   public void shouldBeFasterWhenRunningProcessingInParallel() throws Exception {
+
+git reset --hard 22deea3bdaef56fa74a823a3d3e6f5834981e4fd SUCCESS!
+Target class: TestWroContextFilter    
+1 class(es) found
+Target method: shouldNotLeakContextForNestedRequest
+Class path: wro4j-core/src/test/java/ro/isdc/wro/http/TestWroContextFilter.java
+
+Method found! 
+   public void shouldNotLeakContextForNestedRequest()
+
+git reset --hard 26fa5752a4dc1688af1bde577f5e69deafcf9c8b SUCCESS!
+Target class: TestWro4jMojo    
+1 class(es) found
+Target method: shouldBeFasterWhenRunningProcessingInParallel
+Class path: wro4j-maven-plugin/src/test/java/ro/isdc/wro/maven/plugin/TestWro4jMojo.java
+
+Method found! 
+   public void shouldBeFasterWhenRunningProcessingInParallel()
+
+git reset --hard 2919044d8365208d193f1120391f4beb0b84d1e4 SUCCESS!
+Target class: TestWro4jMojo    
+1 class(es) found
+Target method: shouldBeFasterWhenRunningProcessingInParallel
+Class path: wro4j-maven-plugin/src/test/java/ro/isdc/wro/maven/plugin/TestWro4jMojo.java
+
+Method found! 
+   public void shouldBeFasterWhenRunningProcessingInParallel()
+
+git reset --hard 2cf93f8d8c61acbec210abaf1cf2df8f8845e7e4 SUCCESS!
+Target class: TestPreProcessorExecutor    
+1 class(es) found
+Target method: preProcessingInParallelIsFaster
+Class path: wro4j-core/src/test/java/ro/isdc/wro/model/group/processor/TestPreProcessorExecutor.java
+
+Method found! 
+   public void preProcessingInParallelIsFaster()
+
+git reset --hard 2f3dc582f9006a6d78f01d6a0cf78d8f1d5e0616 SUCCESS!
+Target class: TestDefaultSynchronizedCacheStrategyDecorator    
+1 class(es) found
+Target method: shouldNotWatchForChangeUnlessCheckCompleted
+Class path: wro4j-core/src/test/java/ro/isdc/wro/cache/support/TestDefaultSynchronizedCacheStrategyDecorator.java
+
+Method found! 
+   public void shouldNotWatchForChangeUnlessCheckCompleted() {
+
+git reset --hard 31a89a6dda76638c9f969cfbbfd75c740b967152 SUCCESS!
+Target class: TestWro4jMojo    
+1 class(es) found
+Target method: shouldBeFasterWhenRunningProcessingInParallel
+Class path: wro4j-maven-plugin/src/test/java/ro/isdc/wro/maven/plugin/TestWro4jMojo.java
+
+Method found! 
+   public void shouldBeFasterWhenRunningProcessingInParallel()
+
+git reset --hard 327857b5a5d11fb8acba51cb39726700abd3186a SUCCESS!
+Target class: TestDefaultSynchronizedCacheStrategyDecorator    
+1 class(es) found
+Target method: shouldNotWatchForChangeUnlessCheckCompleted
+Class path: wro4j-core/src/test/java/ro/isdc/wro/cache/support/TestDefaultSynchronizedCacheStrategyDecorator.java
+
+Method found! 
+   public void shouldNotWatchForChangeUnlessCheckCompleted() {
+
+git reset --hard 3c57810d9783cb2c84d6a1c9ee529764960dab7d SUCCESS!
+Target class: TestBourbonCssProcessor    
+1 class(es) found
+Target method: shouldBeThreadSafe
+Class path: wro4j-extensions/src/test/java/ro/isdc/wro/extensions/processor/TestBourbonCssProcessor.java
+
+Method found! 
+   public void shouldBeThreadSafe() throws Exception {
+
+git reset --hard 3c57810d9783cb2c84d6a1c9ee529764960dab7d SUCCESS!
+Target class: TestRubySassCssProcessor    
+1 class(es) found
+Target method: executeMultipleTimesDoesntThrowOutOfMemoryException
+Class path: wro4j-extensions/src/test/java/ro/isdc/wro/extensions/processor/TestRubySassCssProcessor.java
+
+Method found! 
+   public void executeMultipleTimesDoesntThrowOutOfMemoryException() {
+
+git reset --hard 3c57810d9783cb2c84d6a1c9ee529764960dab7d SUCCESS!
+Target class: TestRubySassCssProcessor    
+1 class(es) found
+Target method: shouldBeThreadSafe
+Class path: wro4j-extensions/src/test/java/ro/isdc/wro/extensions/processor/TestRubySassCssProcessor.java
+
+Method found! 
+   public void shouldBeThreadSafe()
+
+git reset --hard 3c57810d9783cb2c84d6a1c9ee529764960dab7d SUCCESS!
+Target class: TestRubySassCssProcessor    
+1 class(es) found
+Target method: shouldSucceedAfterAFailure
+Class path: wro4j-extensions/src/test/java/ro/isdc/wro/extensions/processor/TestRubySassCssProcessor.java
+
+Method found! 
+   public void shouldSucceedAfterAFailure()
+
+git reset --hard 3c57810d9783cb2c84d6a1c9ee529764960dab7d SUCCESS!
+Target class: TestRubySassEngine    
+1 class(es) found
+Target method: shouldProcessValidCss
+Class path: wro4j-extensions/src/test/java/ro/isdc/wro/extensions/processor/support/sass/TestRubySassEngine.java
+
+Method found! 
+   public void shouldProcessValidCss()
+
+git reset --hard 3c57810d9783cb2c84d6a1c9ee529764960dab7d SUCCESS!
+Target class: TestRubySassEngine    
+1 class(es) found
+Target method: shouldProcessValidSass
+Class path: wro4j-extensions/src/test/java/ro/isdc/wro/extensions/processor/support/sass/TestRubySassEngine.java
+
+Method found! 
+   public void shouldProcessValidSass()
+
+git reset --hard 44cf0babafe9676de15191b7621e9d0070167b82 SUCCESS!
+Target class: TestWro4jMojo    
+1 class(es) found
+Target method: shouldBeFasterWhenRunningProcessingInParallel
+Class path: wro4j-maven-plugin/src/test/java/ro/isdc/wro/maven/plugin/TestWro4jMojo.java
+
+Method found! 
+   public void shouldBeFasterWhenRunningProcessingInParallel() throws Exception {
+
+git reset --hard 5207115c8e889f37ec206d3742b72de9dc873187 SUCCESS!
+Target class: TestJsLintMojo    
+1 class(es) found
+Target method: testResourceWithUndefVariables
+Class path: wro4j-maven-plugin/src/test/java/ro/isdc/wro/maven/plugin/TestJsLintMojo.java
+
+Method found! 
+   public void testResourceWithUndefVariables()
+
+git reset --hard 5207115c8e889f37ec206d3742b72de9dc873187 SUCCESS!
+Target class: TestJsLintMojo    
+1 class(es) found
+Target method: testWroXmlWithInvalidResourcesAndIgnoreMissingResourcesTrue
+Class path: wro4j-maven-plugin/src/test/java/ro/isdc/wro/maven/plugin/TestJsLintMojo.java
+
+Method found! 
+   public void testWroXmlWithInvalidResourcesAndIgnoreMissingResourcesTrue()
+
+git reset --hard 592fc56409090fafe8a9054a4ce11b8d1919a33d SUCCESS!
+Target class: TestDefaultSynchronizedCacheStrategyDecorator    
+1 class(es) found
+Target method: shouldCheckOnlyAfterTimeout
+Class path: wro4j-core/src/test/java/ro/isdc/wro/cache/support/TestDefaultSynchronizedCacheStrategyDecorator.java
+
+Method found! 
+   public void shouldCheckOnlyAfterTimeout() throws Exception {
+
+git reset --hard 676d0494b3097066e0d48b216362325bd971aa9f SUCCESS!
+Target class: TestDefaultSynchronizedCacheStrategyDecorator    
+1 class(es) found
+Target method: shouldNotWatchForChangeUnlessCheckCompleted
+Class path: wro4j-core/src/test/java/ro/isdc/wro/cache/support/TestDefaultSynchronizedCacheStrategyDecorator.java
+
+Method found! 
+   public void shouldNotWatchForChangeUnlessCheckCompleted() {
+
+git reset --hard 6f7e4cdc7822f04baaf023a3b9bac974b2c1359b SUCCESS!
+Target class: TestWro4jMojo    
+1 class(es) found
+Target method: shouldBeFasterWhenRunningProcessingInParallel
+Class path: wro4j-maven-plugin/src/test/java/ro/isdc/wro/maven/plugin/TestWro4jMojo.java
+
+Method found! 
+   public void shouldBeFasterWhenRunningProcessingInParallel()
+
+git reset --hard 70c6d8cf4f71c76f50f77299945907bb3f4976c7 SUCCESS!
+Target class: TestWro4jMojo    
+1 class(es) found
+Target method: shouldBeFasterWhenRunningProcessingInParallel
+Class path: wro4j-maven-plugin/src/test/java/ro/isdc/wro/maven/plugin/TestWro4jMojo.java
+
+Method found! 
+   public void shouldBeFasterWhenRunningProcessingInParallel() throws Exception {
+
+git reset --hard 7242f4bd3e61eef1b8493ed81e83e8352f8253ab SUCCESS!
+Target class: TestBourbonCssProcessor    
+1 class(es) found
+Target method: shouldBeThreadSafe
+Class path: wro4j-extensions/src/test/java/ro/isdc/wro/extensions/processor/TestBourbonCssProcessor.java
+
+Method found! 
+   public void shouldBeThreadSafe() throws Exception {
+
+git reset --hard 7242f4bd3e61eef1b8493ed81e83e8352f8253ab SUCCESS!
+Target class: TestRubySassCssProcessor    
+1 class(es) found
+Target method: executeMultipleTimesDoesntThrowOutOfMemoryException
+Class path: wro4j-extensions/src/test/java/ro/isdc/wro/extensions/processor/TestRubySassCssProcessor.java
+
+Method found! 
+   public void executeMultipleTimesDoesntThrowOutOfMemoryException() {
+
+git reset --hard 7242f4bd3e61eef1b8493ed81e83e8352f8253ab SUCCESS!
+Target class: TestRubySassCssProcessor    
+1 class(es) found
+Target method: shouldBeThreadSafe
+Class path: wro4j-extensions/src/test/java/ro/isdc/wro/extensions/processor/TestRubySassCssProcessor.java
+
+Method found! 
+   public void shouldBeThreadSafe()
+
+git reset --hard 7242f4bd3e61eef1b8493ed81e83e8352f8253ab SUCCESS!
+Target class: TestRubySassCssProcessor    
+1 class(es) found
+Target method: shouldSucceedAfterAFailure
+Class path: wro4j-extensions/src/test/java/ro/isdc/wro/extensions/processor/TestRubySassCssProcessor.java
+
+Method found! 
+   public void shouldSucceedAfterAFailure()
+
+git reset --hard 7242f4bd3e61eef1b8493ed81e83e8352f8253ab SUCCESS!
+Target class: TestRubySassCssProcessor    
+1 class(es) found
+Target method: shouldTestFromFolder
+Class path: wro4j-extensions/src/test/java/ro/isdc/wro/extensions/processor/TestRubySassCssProcessor.java
+
+Method found! 
+   public void shouldTestFromFolder()
+
+git reset --hard 7242f4bd3e61eef1b8493ed81e83e8352f8253ab SUCCESS!
+Target class: TestRubySassEngine    
+1 class(es) found
+Target method: shouldProcessValidCss
+Class path: wro4j-extensions/src/test/java/ro/isdc/wro/extensions/processor/support/sass/TestRubySassEngine.java
+
+Method found! 
+   public void shouldProcessValidCss()
+
+git reset --hard 7242f4bd3e61eef1b8493ed81e83e8352f8253ab SUCCESS!
+Target class: TestRubySassEngine    
+1 class(es) found
+Target method: shouldProcessValidSass
+Class path: wro4j-extensions/src/test/java/ro/isdc/wro/extensions/processor/support/sass/TestRubySassEngine.java
+
+Method found! 
+   public void shouldProcessValidSass()
+
+git reset --hard 72bfe0ac6cb021d60e9667ba6256a28d99961b0d SUCCESS!
+Target class: TestWro4jMojo    
+1 class(es) found
+Target method: shouldBeFasterWhenRunningProcessingInParallel
+Class path: wro4j-maven-plugin/src/test/java/ro/isdc/wro/maven/plugin/TestWro4jMojo.java
+
+Method found! 
+   public void shouldBeFasterWhenRunningProcessingInParallel()
+
+git reset --hard 737d7e0051db49ebff5f000732165458abf1f8d6 SUCCESS!
+Target class: TestBourbonCssProcessor    
+1 class(es) found
+Target method: shouldBeThreadSafe
+Class path: wro4j-extensions/src/test/java/ro/isdc/wro/extensions/processor/TestBourbonCssProcessor.java
+
+Method found! 
+   public void shouldBeThreadSafe() throws Exception {
+
+git reset --hard 737d7e0051db49ebff5f000732165458abf1f8d6 SUCCESS!
+Target class: TestRubySassCssProcessor    
+1 class(es) found
+Target method: shouldBeThreadSafe
+Class path: wro4j-extensions/src/test/java/ro/isdc/wro/extensions/processor/TestRubySassCssProcessor.java
+
+Method found! 
+   public void shouldBeThreadSafe()
+
+git reset --hard 737d7e0051db49ebff5f000732165458abf1f8d6 SUCCESS!
+Target class: TestRubySassCssProcessor    
+1 class(es) found
+Target method: shouldSucceedAfterAFailure
+Class path: wro4j-extensions/src/test/java/ro/isdc/wro/extensions/processor/TestRubySassCssProcessor.java
+
+Method found! 
+   public void shouldSucceedAfterAFailure()
+
+git reset --hard 737d7e0051db49ebff5f000732165458abf1f8d6 SUCCESS!
+Target class: TestRubySassCssProcessor    
+1 class(es) found
+Target method: shouldTestFromFolder
+Class path: wro4j-extensions/src/test/java/ro/isdc/wro/extensions/processor/TestRubySassCssProcessor.java
+
+Method found! 
+   public void shouldTestFromFolder()
+
+git reset --hard 8072bd28aec5efabf82d5da53a8c32b895921533 SUCCESS!
+Target class: TestBourbonCssProcessor    
+1 class(es) found
+Target method: shouldBeThreadSafe
+Class path: wro4j-extensions/src/test/java/ro/isdc/wro/extensions/processor/TestBourbonCssProcessor.java
+
+Method found! 
+   public void shouldBeThreadSafe() throws Exception {
+
+git reset --hard 857aa7ed2c3b1880960fd28770dc2e3afa7dfd68 SUCCESS!
+Target class: TestWro4jMojo    
+1 class(es) found
+Target method: shouldBeFasterWhenRunningProcessingInParallel
+Class path: wro4j-maven-plugin/src/test/java/ro/isdc/wro/maven/plugin/TestWro4jMojo.java
+
+Method found! 
+   public void shouldBeFasterWhenRunningProcessingInParallel()
+
+git reset --hard 8805f6e7efd0130a9f8b88cad61276e3ab109e9c SUCCESS!
+Target class: TestWro4jMojo    
+1 class(es) found
+Target method: shouldBeFasterWhenRunningProcessingInParallel
+Class path: wro4j-maven-plugin/src/test/java/ro/isdc/wro/maven/plugin/TestWro4jMojo.java
+
+Method found! 
+   public void shouldBeFasterWhenRunningProcessingInParallel()
+
+git reset --hard 89b9a8e8d72b6ade620198a4f30a3c2c9b6583c0 SUCCESS!
+Target class: TestDefaultSynchronizedCacheStrategyDecorator    
+1 class(es) found
+Target method: shouldCheckOnlyAfterTimeout
+Class path: wro4j-core/src/test/java/ro/isdc/wro/cache/support/TestDefaultSynchronizedCacheStrategyDecorator.java
+
+Method found! 
+   public void shouldCheckOnlyAfterTimeout()
+
+git reset --hard 8c29e0b6a8c0d8fd37aa6d8ff4e648f8ad42232a SUCCESS!
+Target class: TestDefaultSynchronizedCacheStrategyDecorator    
+1 class(es) found
+Target method: shouldNotWatchForChangeUnlessCheckCompleted
+Class path: wro4j-core/src/test/java/ro/isdc/wro/cache/support/TestDefaultSynchronizedCacheStrategyDecorator.java
+
+Method found! 
+   public void shouldNotWatchForChangeUnlessCheckCompleted() {
+
+git reset --hard 94aa793bff95c3bb53d59f457fc3474b4b982ad9 SUCCESS!
+Target class: TestBourbonCssProcessor    
+1 class(es) found
+Target method: shouldBeThreadSafe
+Class path: wro4j-extensions/src/test/java/ro/isdc/wro/extensions/processor/TestBourbonCssProcessor.java
+
+Method found! 
+   public void shouldBeThreadSafe() throws Exception {
+
+git reset --hard 94aa793bff95c3bb53d59f457fc3474b4b982ad9 SUCCESS!
+Target class: TestRubySassCssProcessor    
+1 class(es) found
+Target method: executeMultipleTimesDoesntThrowOutOfMemoryException
+Class path: wro4j-extensions/src/test/java/ro/isdc/wro/extensions/processor/TestRubySassCssProcessor.java
+
+Method found! 
+   public void executeMultipleTimesDoesntThrowOutOfMemoryException() {
+
+git reset --hard 94aa793bff95c3bb53d59f457fc3474b4b982ad9 SUCCESS!
+Target class: TestRubySassCssProcessor    
+1 class(es) found
+Target method: shouldBeThreadSafe
+Class path: wro4j-extensions/src/test/java/ro/isdc/wro/extensions/processor/TestRubySassCssProcessor.java
+
+Method found! 
+   public void shouldBeThreadSafe()
+
+git reset --hard 94aa793bff95c3bb53d59f457fc3474b4b982ad9 SUCCESS!
+Target class: TestRubySassCssProcessor    
+1 class(es) found
+Target method: shouldSucceedAfterAFailure
+Class path: wro4j-extensions/src/test/java/ro/isdc/wro/extensions/processor/TestRubySassCssProcessor.java
+
+Method found! 
+   public void shouldSucceedAfterAFailure()
+
+git reset --hard 94aa793bff95c3bb53d59f457fc3474b4b982ad9 SUCCESS!
+Target class: TestRubySassCssProcessor    
+1 class(es) found
+Target method: shouldTestFromFolder
+Class path: wro4j-extensions/src/test/java/ro/isdc/wro/extensions/processor/TestRubySassCssProcessor.java
+
+Method found! 
+   public void shouldTestFromFolder()
+
+git reset --hard 94aa793bff95c3bb53d59f457fc3474b4b982ad9 SUCCESS!
+Target class: TestRubySassEngine    
+1 class(es) found
+Target method: shouldProcessValidCss
+Class path: wro4j-extensions/src/test/java/ro/isdc/wro/extensions/processor/support/sass/TestRubySassEngine.java
+
+Method found! 
+   public void shouldProcessValidCss()
+
+git reset --hard 94aa793bff95c3bb53d59f457fc3474b4b982ad9 SUCCESS!
+Target class: TestRubySassEngine    
+1 class(es) found
+Target method: shouldProcessValidSass
+Class path: wro4j-extensions/src/test/java/ro/isdc/wro/extensions/processor/support/sass/TestRubySassEngine.java
+
+Method found! 
+   public void shouldProcessValidSass()
+
+git reset --hard 956f14ba6f7b99d50de59a15a47e5940672129ec SUCCESS!
+Target class: TestWro4jMojo    
+1 class(es) found
+Target method: shouldBeFasterWhenRunningProcessingInParallel
+Class path: wro4j-maven-plugin/src/test/java/ro/isdc/wro/maven/plugin/TestWro4jMojo.java
+
+Method found! 
+   public void shouldBeFasterWhenRunningProcessingInParallel()
+
+git reset --hard a50f786638679437bb3ed9e182074f1e5c54859f SUCCESS!
+Target class: TestBourbonCssProcessor    
+1 class(es) found
+Target method: shouldBeThreadSafe
+Class path: wro4j-extensions/src/test/java/ro/isdc/wro/extensions/processor/TestBourbonCssProcessor.java
+
+Method found! 
+   public void shouldBeThreadSafe() throws Exception {
+
+git reset --hard a50f786638679437bb3ed9e182074f1e5c54859f SUCCESS!
+Target class: TestRubySassCssProcessor    
+1 class(es) found
+Target method: shouldBeThreadSafe
+Class path: wro4j-extensions/src/test/java/ro/isdc/wro/extensions/processor/TestRubySassCssProcessor.java
+
+Method found! 
+   public void shouldBeThreadSafe()
+
+git reset --hard a50f786638679437bb3ed9e182074f1e5c54859f SUCCESS!
+Target class: TestRubySassCssProcessor    
+1 class(es) found
+Target method: shouldSucceedAfterAFailure
+Class path: wro4j-extensions/src/test/java/ro/isdc/wro/extensions/processor/TestRubySassCssProcessor.java
+
+Method found! 
+   public void shouldSucceedAfterAFailure()
+
+git reset --hard a50f786638679437bb3ed9e182074f1e5c54859f SUCCESS!
+Target class: TestRubySassCssProcessor    
+1 class(es) found
+Target method: shouldTestFromFolder
+Class path: wro4j-extensions/src/test/java/ro/isdc/wro/extensions/processor/TestRubySassCssProcessor.java
+
+Method found! 
+   public void shouldTestFromFolder()
+
+git reset --hard a50f786638679437bb3ed9e182074f1e5c54859f SUCCESS!
+Target class: TestWro4jMojo    
+1 class(es) found
+Target method: shouldBeFasterWhenRunningProcessingInParallel
+Class path: wro4j-maven-plugin/src/test/java/ro/isdc/wro/maven/plugin/TestWro4jMojo.java
+
+Method found! 
+   public void shouldBeFasterWhenRunningProcessingInParallel()
+
+git reset --hard a6008197be6d24fac218a9f06f933c85a3222471 SUCCESS!
+Target class: TestBourbonCssProcessor    
+1 class(es) found
+Target method: shouldBeThreadSafe
+Class path: wro4j-extensions/src/test/java/ro/isdc/wro/extensions/processor/TestBourbonCssProcessor.java
+
+Method found! 
+   public void shouldBeThreadSafe() throws Exception {
+
+git reset --hard a6b63740d6d8cb5ac247d8e4e78344b0a3d095f5 SUCCESS!
+Target class: TestRubySassCssProcessor    
+1 class(es) found
+Target method: executeMultipleTimesDoesntThrowOutOfMemoryException
+Class path: wro4j-extensions/src/test/java/ro/isdc/wro/extensions/processor/TestRubySassCssProcessor.java
+
+Method found! 
+   public void executeMultipleTimesDoesntThrowOutOfMemoryException() {
+
+git reset --hard a6b63740d6d8cb5ac247d8e4e78344b0a3d095f5 SUCCESS!
+Target class: TestRubySassCssProcessor    
+1 class(es) found
+Target method: shouldBeThreadSafe
+Class path: wro4j-extensions/src/test/java/ro/isdc/wro/extensions/processor/TestRubySassCssProcessor.java
+
+Method found! 
+   public void shouldBeThreadSafe()
+
+git reset --hard a6b63740d6d8cb5ac247d8e4e78344b0a3d095f5 SUCCESS!
+Target class: TestRubySassCssProcessor    
+1 class(es) found
+Target method: shouldSucceedAfterAFailure
+Class path: wro4j-extensions/src/test/java/ro/isdc/wro/extensions/processor/TestRubySassCssProcessor.java
+
+Method found! 
+   public void shouldSucceedAfterAFailure()
+
+git reset --hard a6b63740d6d8cb5ac247d8e4e78344b0a3d095f5 SUCCESS!
+Target class: TestRubySassCssProcessor    
+1 class(es) found
+Target method: shouldTestFromFolder
+Class path: wro4j-extensions/src/test/java/ro/isdc/wro/extensions/processor/TestRubySassCssProcessor.java
+
+Method found! 
+   public void shouldTestFromFolder()
+
+git reset --hard a7c613fbe0db83a95d0fe3fbdacbf90506753d0a SUCCESS!
+Target class: TestWro4jMojo    
+1 class(es) found
+Target method: shouldBeFasterWhenRunningProcessingInParallel
+Class path: wro4j-maven-plugin/src/test/java/ro/isdc/wro/maven/plugin/TestWro4jMojo.java
+
+Method found! 
+   public void shouldBeFasterWhenRunningProcessingInParallel()
+
+git reset --hard a823500826a5b8f213a7f1bf46e55447e29610a9 SUCCESS!
+Target class: TestBourbonCssProcessor    
+1 class(es) found
+Target method: shouldBeThreadSafe
+Class path: wro4j-extensions/src/test/java/ro/isdc/wro/extensions/processor/TestBourbonCssProcessor.java
+
+Method found! 
+   public void shouldBeThreadSafe() throws Exception {
+
+git reset --hard ad7c505a0ddc146edc2b884ece20a9249fd5e93c SUCCESS!
+Target class: TestWro4jMojo    
+1 class(es) found
+Target method: shouldBeFasterWhenRunningProcessingInParallel
+Class path: wro4j-maven-plugin/src/test/java/ro/isdc/wro/maven/plugin/TestWro4jMojo.java
+
+Method found! 
+   public void shouldBeFasterWhenRunningProcessingInParallel()
+
+git reset --hard af733f5e930f4e7b9d06874113330e12cd97696d SUCCESS!
+Target class: TestRubySassCssProcessor    
+1 class(es) found
+Target method: shouldBeThreadSafe
+Class path: wro4j-extensions/src/test/java/ro/isdc/wro/extensions/processor/TestRubySassCssProcessor.java
+
+Method found! 
+   public void shouldBeThreadSafe()
+
+git reset --hard b2f03729f666735c8be791180b30f67ea73d4b52 SUCCESS!
+Target class: TestWro4jMojo    
+1 class(es) found
+Target method: shouldBeFasterWhenRunningProcessingInParallel
+Class path: wro4j-maven-plugin/src/test/java/ro/isdc/wro/maven/plugin/TestWro4jMojo.java
+
+Method found! 
+   public void shouldBeFasterWhenRunningProcessingInParallel()
+
+git reset --hard b4ff2543e24e8c2e4892105ffe736b3d99cd4b2b SUCCESS!
+Target class: TestBourbonCssProcessor    
+1 class(es) found
+Target method: shouldBeThreadSafe
+Class path: wro4j-extensions/src/test/java/ro/isdc/wro/extensions/processor/TestBourbonCssProcessor.java
+
+Method found! 
+   public void shouldBeThreadSafe() throws Exception {
+
+git reset --hard b4ff2543e24e8c2e4892105ffe736b3d99cd4b2b SUCCESS!
+Target class: TestRubySassCssProcessor    
+1 class(es) found
+Target method: shouldBeThreadSafe
+Class path: wro4j-extensions/src/test/java/ro/isdc/wro/extensions/processor/TestRubySassCssProcessor.java
+
+Method found! 
+   public void shouldBeThreadSafe()
+
+git reset --hard b4ff2543e24e8c2e4892105ffe736b3d99cd4b2b SUCCESS!
+Target class: TestRubySassCssProcessor    
+1 class(es) found
+Target method: shouldSucceedAfterAFailure
+Class path: wro4j-extensions/src/test/java/ro/isdc/wro/extensions/processor/TestRubySassCssProcessor.java
+
+Method found! 
+   public void shouldSucceedAfterAFailure()
+
+git reset --hard b4ff2543e24e8c2e4892105ffe736b3d99cd4b2b SUCCESS!
+Target class: TestRubySassCssProcessor    
+1 class(es) found
+Target method: shouldTestFromFolder
+Class path: wro4j-extensions/src/test/java/ro/isdc/wro/extensions/processor/TestRubySassCssProcessor.java
+
+Method found! 
+   public void shouldTestFromFolder()
+
+git reset --hard b5ac59ba096c5f882d1f79f629c5beac8dd8f275 SUCCESS!
+Target class: TestRubySassCssProcessor    
+1 class(es) found
+Target method: shouldBeThreadSafe
+Class path: wro4j-extensions/src/test/java/ro/isdc/wro/extensions/processor/TestRubySassCssProcessor.java
+
+Method found! 
+   public void shouldBeThreadSafe()
+
+git reset --hard b891130d77621a58d9f4c3540a41a60c5d887a6f SUCCESS!
+Target class: TestWro4jMojo    
+1 class(es) found
+Target method: shouldBeFasterWhenRunningProcessingInParallel
+Class path: wro4j-maven-plugin/src/test/java/ro/isdc/wro/maven/plugin/TestWro4jMojo.java
+
+Method found! 
+   public void shouldBeFasterWhenRunningProcessingInParallel() throws Exception {
+
+git reset --hard c054ae7c549c0a6b5c4191826b3f3173a59feff6 SUCCESS!
+Target class: TestWro4jMojo    
+1 class(es) found
+Target method: shouldBeFasterWhenRunningProcessingInParallel
+Class path: wro4j-maven-plugin/src/test/java/ro/isdc/wro/maven/plugin/TestWro4jMojo.java
+
+Method found! 
+   public void shouldBeFasterWhenRunningProcessingInParallel()
+
+git reset --hard c1d14ab268c47cbb33b3448d9e20ff7700755140 SUCCESS!
+Target class: TestDefaultSynchronizedCacheStrategyDecorator    
+1 class(es) found
+Target method: shouldCheckOnlyAfterTimeout
+Class path: wro4j-core/src/test/java/ro/isdc/wro/cache/support/TestDefaultSynchronizedCacheStrategyDecorator.java
+
+Method found! 
+   public void shouldCheckOnlyAfterTimeout()
+
+git reset --hard c39b1bc4e1d7a9a33ad8999ef0f1234cdb8cc0de SUCCESS!
+Target class: TestWro4jMojo    
+1 class(es) found
+Target method: shouldBeFasterWhenRunningProcessingInParallel
+Class path: wro4j-maven-plugin/src/test/java/ro/isdc/wro/maven/plugin/TestWro4jMojo.java
+
+Method found! 
+   public void shouldBeFasterWhenRunningProcessingInParallel()
+
+git reset --hard c3c00308439ee51fef6898b283a9f003ddc0a1f1 SUCCESS!
+Target class: TestWro4jMojo    
+1 class(es) found
+Target method: shouldBeFasterWhenRunningProcessingInParallel
+Class path: wro4j-maven-plugin/src/test/java/ro/isdc/wro/maven/plugin/TestWro4jMojo.java
+
+Method found! 
+   public void shouldBeFasterWhenRunningProcessingInParallel() throws Exception {
+
+git reset --hard c71717df9e24dd2c6cb3d68c531d004faf2248ba SUCCESS!
+Target class: TestWro4jMojo    
+1 class(es) found
+Target method: shouldBeFasterWhenRunningProcessingInParallel
+Class path: wro4j-maven-plugin/src/test/java/ro/isdc/wro/maven/plugin/TestWro4jMojo.java
+
+Method found! 
+   public void shouldBeFasterWhenRunningProcessingInParallel()
+
+git reset --hard db95fa38f0b0f924461614d00cc48fefab83806f SUCCESS!
+Target class: TestBourbonCssProcessor    
+1 class(es) found
+Target method: shouldBeThreadSafe
+Class path: wro4j-extensions/src/test/java/ro/isdc/wro/extensions/processor/TestBourbonCssProcessor.java
+
+Method found! 
+   public void shouldBeThreadSafe() throws Exception {
+
+git reset --hard db95fa38f0b0f924461614d00cc48fefab83806f SUCCESS!
+Target class: TestRubySassCssProcessor    
+1 class(es) found
+Target method: shouldBeThreadSafe
+Class path: wro4j-extensions/src/test/java/ro/isdc/wro/extensions/processor/TestRubySassCssProcessor.java
+
+Method found! 
+   public void shouldBeThreadSafe()
+
+git reset --hard db95fa38f0b0f924461614d00cc48fefab83806f SUCCESS!
+Target class: TestRubySassCssProcessor    
+1 class(es) found
+Target method: shouldSucceedAfterAFailure
+Class path: wro4j-extensions/src/test/java/ro/isdc/wro/extensions/processor/TestRubySassCssProcessor.java
+
+Method found! 
+   public void shouldSucceedAfterAFailure()
+
+git reset --hard db95fa38f0b0f924461614d00cc48fefab83806f SUCCESS!
+Target class: TestRubySassCssProcessor    
+1 class(es) found
+Target method: shouldTestFromFolder
+Class path: wro4j-extensions/src/test/java/ro/isdc/wro/extensions/processor/TestRubySassCssProcessor.java
+
+Method found! 
+   public void shouldTestFromFolder()
+
+git reset --hard df1e3eb8a62f35ca65bdf588f855a97259c2ff31 SUCCESS!
+Target class: TestBourbonCssProcessor    
+1 class(es) found
+Target method: shouldBeThreadSafe
+Class path: wro4j-extensions/src/test/java/ro/isdc/wro/extensions/processor/TestBourbonCssProcessor.java
+
+Method found! 
+   public void shouldBeThreadSafe() throws Exception {
+
+git reset --hard df1e3eb8a62f35ca65bdf588f855a97259c2ff31 SUCCESS!
+Target class: TestRubySassCssProcessor    
+1 class(es) found
+Target method: shouldBeThreadSafe
+Class path: wro4j-extensions/src/test/java/ro/isdc/wro/extensions/processor/TestRubySassCssProcessor.java
+
+Method found! 
+   public void shouldBeThreadSafe()
+
+git reset --hard df1e3eb8a62f35ca65bdf588f855a97259c2ff31 SUCCESS!
+Target class: TestRubySassCssProcessor    
+1 class(es) found
+Target method: shouldSucceedAfterAFailure
+Class path: wro4j-extensions/src/test/java/ro/isdc/wro/extensions/processor/TestRubySassCssProcessor.java
+
+Method found! 
+   public void shouldSucceedAfterAFailure()
+
+git reset --hard df1e3eb8a62f35ca65bdf588f855a97259c2ff31 SUCCESS!
+Target class: TestRubySassCssProcessor    
+1 class(es) found
+Target method: shouldTestFromFolder
+Class path: wro4j-extensions/src/test/java/ro/isdc/wro/extensions/processor/TestRubySassCssProcessor.java
+
+Method found! 
+   public void shouldTestFromFolder()
+
+git reset --hard f1c2db68e90fec6e6a74f3366a9e1bb45e6a8292 SUCCESS!
+Target class: TestWroFilter    
+2 class(es) found
+Target method: shouldNotFailWhenInvokedConcurrently
+Class path: wro4j-core/src/test/java/ro/isdc/wro/http/TestWroFilter.java
+
+Method found! 
+   public void shouldNotFailWhenInvokedConcurrently() throws Exception {
+
+Class path: wro4j-extensions/src/test/java/ro/isdc/wro/http/TestWroFilter.java
+
+Missing method, searching on superclass...
+TestWroFilter does not has superclass.
+git reset --hard f21fe3f055ef728bfc5a20fb64ae268a705d3190 SUCCESS!
+Target class: TestAbstractProcessorsFilter    
+1 class(es) found
+Target method: shouldThrowExceptionWhenProcessorFails
+Class path: wro4j-core/src/test/java/ro/isdc/wro/http/support/TestAbstractProcessorsFilter.java
+
+Method found! 
+   public void shouldThrowExceptionWhenProcessorFails()
+
+git reset --hard f50b4d6ea4555c28375268d6e1e83b58731211cc SUCCESS!
+Target class: TestBourbonCssProcessor    
+1 class(es) found
+Target method: shouldBeThreadSafe
+Class path: wro4j-extensions/src/test/java/ro/isdc/wro/extensions/processor/TestBourbonCssProcessor.java
+
+Method found! 
+   public void shouldBeThreadSafe() throws Exception {
+
+git reset --hard f50b4d6ea4555c28375268d6e1e83b58731211cc SUCCESS!
+Target class: TestRubySassCssProcessor    
+1 class(es) found
+Target method: executeMultipleTimesDoesntThrowOutOfMemoryException
+Class path: wro4j-extensions/src/test/java/ro/isdc/wro/extensions/processor/TestRubySassCssProcessor.java
+
+Method found! 
+   public void executeMultipleTimesDoesntThrowOutOfMemoryException() {
+
+git reset --hard f50b4d6ea4555c28375268d6e1e83b58731211cc SUCCESS!
+Target class: TestRubySassCssProcessor    
+1 class(es) found
+Target method: shouldBeThreadSafe
+Class path: wro4j-extensions/src/test/java/ro/isdc/wro/extensions/processor/TestRubySassCssProcessor.java
+
+Method found! 
+   public void shouldBeThreadSafe()
+
+git reset --hard f50b4d6ea4555c28375268d6e1e83b58731211cc SUCCESS!
+Target class: TestRubySassCssProcessor    
+1 class(es) found
+Target method: shouldSucceedAfterAFailure
+Class path: wro4j-extensions/src/test/java/ro/isdc/wro/extensions/processor/TestRubySassCssProcessor.java
+
+Method found! 
+   public void shouldSucceedAfterAFailure()
+
+git reset --hard f50b4d6ea4555c28375268d6e1e83b58731211cc SUCCESS!
+Target class: TestRubySassCssProcessor    
+1 class(es) found
+Target method: shouldTestFromFolder
+Class path: wro4j-extensions/src/test/java/ro/isdc/wro/extensions/processor/TestRubySassCssProcessor.java
+
+Method found! 
+   public void shouldTestFromFolder()
+
+git reset --hard f50b4d6ea4555c28375268d6e1e83b58731211cc SUCCESS!
+Target class: TestRubySassEngine    
+1 class(es) found
+Target method: shouldProcessValidCss
+Class path: wro4j-extensions/src/test/java/ro/isdc/wro/extensions/processor/support/sass/TestRubySassEngine.java
+
+Method found! 
+   public void shouldProcessValidCss()
+
+git reset --hard f50b4d6ea4555c28375268d6e1e83b58731211cc SUCCESS!
+Target class: TestRubySassEngine    
+1 class(es) found
+Target method: shouldProcessValidSass
+Class path: wro4j-extensions/src/test/java/ro/isdc/wro/extensions/processor/support/sass/TestRubySassEngine.java
+
+Method found! 
+   public void shouldProcessValidSass()
+
+git reset --hard f639c8689afd945e98084f8e3dd02d0a0beb91fb SUCCESS!
+Target class: TestWro4jMojo    
+1 class(es) found
+Target method: shouldBeFasterWhenRunningProcessingInParallel
+Class path: wro4j-maven-plugin/src/test/java/ro/isdc/wro/maven/plugin/TestWro4jMojo.java
+
+Method found! 
+   public void shouldBeFasterWhenRunningProcessingInParallel()
+
+git reset --hard faa8ef4f1fd5d3db83befd7bb30e1a2f4f7eeab0 SUCCESS!
+Target class: TestWro4jMojo    
+1 class(es) found
+Target method: shouldBeFasterWhenRunningProcessingInParallel
+Class path: wro4j-maven-plugin/src/test/java/ro/isdc/wro/maven/plugin/TestWro4jMojo.java
+
+Method found! 
+   public void shouldBeFasterWhenRunningProcessingInParallel()
+
+git reset --hard fc5bb8242f2159777ce4fa6d9544a26545dc3328 SUCCESS!
+Target class: TestWro4jMojo    
+1 class(es) found
+Target method: shouldBeFasterWhenRunningProcessingInParallel
+Class path: wro4j-maven-plugin/src/test/java/ro/isdc/wro/maven/plugin/TestWro4jMojo.java
+
+Method found! 
+   public void shouldBeFasterWhenRunningProcessingInParallel() throws Exception {
+
+git reset --hard fd3e6adc9759d02a68abac6c016dc7cedce3ec8f SUCCESS!
+Target class: TestBourbonCssProcessor    
+1 class(es) found
+Target method: shouldBeThreadSafe
+Class path: wro4j-extensions/src/test/java/ro/isdc/wro/extensions/processor/TestBourbonCssProcessor.java
+
+Method found! 
+   public void shouldBeThreadSafe() throws Exception {
+
+git reset --hard fd3e6adc9759d02a68abac6c016dc7cedce3ec8f SUCCESS!
+Target class: TestWro4jMojo    
+1 class(es) found
+Target method: shouldBeFasterWhenRunningProcessingInParallel
+Class path: wro4j-maven-plugin/src/test/java/ro/isdc/wro/maven/plugin/TestWro4jMojo.java
+
+Method found! 
+   public void shouldBeFasterWhenRunningProcessingInParallel()
+
+99 method(s) found (~100.0%).
+0 method(s) missing.
+Dataset updated with results.
