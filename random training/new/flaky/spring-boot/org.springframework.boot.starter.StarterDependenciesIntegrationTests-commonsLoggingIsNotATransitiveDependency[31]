@@ -1,0 +1,3 @@
+checkCommonsLogging
+runBuildForTask
+commonsLoggingIsNotATransitiveDependency

@@ -1,0 +1,34 @@
+getServiceName
+getCluster
+Assert
+assertTrue
+Service creation should have failed
+clusterName
+getDesiredStackVersion
+testCreateServiceWithInvalidInfo
+foo1
+getServices
+Service creation should fail for invalid state
+Collections
+clusters
+singleton
+svc
+controller
+getDesiredState
+HDFS
+assertEquals
+serviceName
+MAPREDUCE
+serviceName2
+getService
+fail
+r
+createService
+size
+State
+response
+equals
+Service creation should fail for invalid initial state
+toString
+createCluster
+HDP-0.1

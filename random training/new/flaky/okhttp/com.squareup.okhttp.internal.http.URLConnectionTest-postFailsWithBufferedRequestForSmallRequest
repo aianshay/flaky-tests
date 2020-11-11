@@ -1,0 +1,3 @@
+reusedConnectionFailsWithPost
+postFailsWithBufferedRequestForSmallRequest
+TransferKind

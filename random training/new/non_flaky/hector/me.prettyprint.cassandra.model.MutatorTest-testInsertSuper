@@ -1,0 +1,22 @@
+add
+createColumn
+createMutator
+createSuperColumn
+columnList
+insert
+getHostUsed
+m
+superColumn
+Execute time should be > 0
+Should have operated on a host
+keyspace
+Super1
+se
+r
+testInsertSuper
+getExecutionTimeMicro
+assertTrue
+name
+sk
+super_name
+value

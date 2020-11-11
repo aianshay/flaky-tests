@@ -1,0 +1,26 @@
+createColumn
+addDeletion
+Should have operated with a null host
+getHostUsed
+Should have operated on a host
+se
+addInsertion
+getExecutionTimeMicro
+assertTrue
+value
+Keyspace1
+cf
+createMutator
+assertColumnExists
+assertEquals
+k
+Standard1
+Execute time should be 0
+m
+execute
+Execute time should be > 0
+discardPendingMutations
+keyspace
+r
+testBatchMutationManagement
+name

@@ -1,0 +1,32 @@
+cluster
+listener
+Running testKillRSWithOpeningRegion2482
+TEST_UTIL
+assertRegionIsBackOnline
+getRegionServer
+sleep
+countOfMetaRegions
+Past close
+unregisterRegionServerOperationListener
+closeAllNonCatalogRegions
+Past abort send; waiting on all regions to redeploy
+info
+minimumRegions
+LOG
+getOnlineRegions
+Started new regionserver: 
+getRegionServerThreads
+hrs
+getRegionServerOperationQueue
+m
+registerRegionServerOperationListener
+Threads
+getLiveRegionServerThreads
+testKillRSWithOpeningRegion2482
+size
+getHBaseCluster
+HMsg
+startRegionServer
+toString
+getMaster
+addMessageToSendRegionServer

@@ -1,0 +1,25 @@
+play
+server
+request
+Accept-Encoding
+client
+connection
+readAscii
+addHeader
+getHeaders
+takeRequest
+Accept-Encoding: custom
+custom
+assertEquals
+setBody
+getInputStream
+addRequestProperty
+assertContains
+/
+Integer
+ABCDE
+enqueue
+getUrl
+Content-Encoding: custom
+clientConfiguredCustomContentEncoding
+open

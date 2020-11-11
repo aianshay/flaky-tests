@@ -1,0 +1,22 @@
+play
+A
+server
+cache
+addHeader
+getRequestCount
+assertContent
+assertEquals
+getNetworkCount
+getHitCount
+conditionalCache
+setBody
+setResponseCode
+setOkResponseCache
+/
+Integer
+enqueue
+getUrl
+HttpURLConnection
+client
+ETag: v1
+open

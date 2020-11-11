@@ -1,0 +1,9 @@
+basicFilterTests
+serializationTest
+substrFilter
+regexFilter
+basicFilter
+regexFilterTests
+substrFilterTests
+newFilter
+testSerialization

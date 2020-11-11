@@ -1,0 +1,17 @@
+next
+shutdownDfs
+getLog
+scan
+We don't want anything more, we should be failing
+testRaceBetweenClientAndTimeout
+HConstants
+addContent
+closeAndDelete
+createNewHRegion
+fail
+r
+getTableDesc
+REGION_INFO
+getScanner
+close
+results

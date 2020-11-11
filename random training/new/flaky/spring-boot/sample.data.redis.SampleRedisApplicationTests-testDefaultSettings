@@ -1,0 +1,11 @@
+output
+Found key spring.boot.redis.test
+contains
+ex
+assertTrue
+testDefaultSettings
+redisServerRunning
+SampleRedisApplication
+Wrong output: 
+main
+toString

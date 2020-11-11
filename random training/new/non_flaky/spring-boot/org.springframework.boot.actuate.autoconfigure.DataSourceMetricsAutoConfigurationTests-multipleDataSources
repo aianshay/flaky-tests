@@ -1,0 +1,17 @@
+datasource.tomcat.usage
+multipleDataSources
+datasource.hikariDS.usage
+assertMetrics
+anotherMetrics
+execute
+datasource.commonsDbcp.usage
+load
+hikariDS
+jdbcTemplate
+datasource.tomcat.active
+datasource.hikariDS.active
+getBean
+metrics
+doInConnection
+datasource.commonsDbcp.active
+bean

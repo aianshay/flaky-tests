@@ -1,0 +1,13 @@
+given
+myConnector
+BpmnXMLConstants
+getAttributeValue
+getImplementation
+reader
+converter
+willReturn
+assertThat
+convertXMLToElement
+convertXMLToElementShouldSetTheImplementationFromXMLImplementationAttribute
+isEqualTo
+element

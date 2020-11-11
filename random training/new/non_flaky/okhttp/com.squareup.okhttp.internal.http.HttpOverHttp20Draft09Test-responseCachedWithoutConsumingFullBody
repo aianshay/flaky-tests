@@ -1,0 +1,25 @@
+play
+server
+setOkResponseCache
+connection1
+client
+responseCachedWithoutConsumingFullBody
+ABCD
+close
+connection2
+AB
+readAscii
+cache
+addHeader
+EFGH
+assertEquals
+setBody
+in2
+getInputStream
+in1
+/
+Integer
+enqueue
+getUrl
+cache-control: max-age=60
+open

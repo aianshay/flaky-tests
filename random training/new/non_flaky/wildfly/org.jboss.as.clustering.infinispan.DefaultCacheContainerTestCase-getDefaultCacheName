@@ -1,0 +1,10 @@
+getCacheManagerConfiguration
+default
+build
+thenReturn
+getDefaultCacheName
+global
+defaultCache
+assertSame
+when
+defaultCacheName

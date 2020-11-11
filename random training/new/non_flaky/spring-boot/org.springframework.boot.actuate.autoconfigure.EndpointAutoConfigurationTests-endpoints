@@ -1,0 +1,4 @@
+endpoints
+load
+assertNotNull
+getBean

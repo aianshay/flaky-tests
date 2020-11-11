@@ -1,0 +1,13 @@
+test
+foo
+testAddArgumentWithQuotesAround
+assertEquals
+bar
+addArgument
+toStrings
+"fe z"
+test foo bar "fe z"
+toString
+cmdl
+"bar"
+'foo'

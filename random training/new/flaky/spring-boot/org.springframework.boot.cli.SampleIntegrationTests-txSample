@@ -1,0 +1,8 @@
+output
+contains
+tx.groovy
+Foo count=
+assertTrue
+Wrong output: 
+run
+txSample

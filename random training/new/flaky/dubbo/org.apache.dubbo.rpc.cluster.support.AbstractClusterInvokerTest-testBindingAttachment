@@ -1,0 +1,22 @@
+testBindingAttachment
+attachValue
+cluster
+getAttachment
+attachments
+doInvoke
+attachKey
+invoke
+RpcContext
+getAttachments
+invocation
+Assert
+size
+assertTrue
+binding attachment failed!
+equals
+setAttachment
+attach
+value
+getContext
+set attachment failed!
+dic

@@ -1,0 +1,14 @@
+openCloseTest
+cleanConnect
+user_createFile
+assertFalse
+isConnected
+Constants
+masterClient
+/file
+getMasterAddress
+Assert
+assertTrue
+mMasterInfo
+connect
+user_getFileId

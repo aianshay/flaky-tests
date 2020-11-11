@@ -1,0 +1,12 @@
+play
+server
+/foo
+getUrl
+fail
+client
+connectRetriesUntilConnectedOrFailed
+connection
+url
+shutdown
+open
+connect

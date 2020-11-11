@@ -1,0 +1,15 @@
+liquibase.user:sa
+getDataSource
+refresh
+assertEquals
+liquibase
+EnvironmentTestUtils
+getConnection
+getURL
+addEnvironment
+testOverrideDataSource
+liquibase.url:jdbc:hsqldb:mem:liquibase
+getBean
+getMetaData
+register
+jdbc:hsqldb:mem:liquibase

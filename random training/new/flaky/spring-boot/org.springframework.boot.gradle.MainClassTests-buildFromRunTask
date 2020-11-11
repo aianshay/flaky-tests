@@ -1,0 +1,10 @@
+forTasks
+BOOT_VERSION
+build
+-PbootVersion=
+project
+withArguments
+run
+--info
+newBuild
+buildFromRunTask

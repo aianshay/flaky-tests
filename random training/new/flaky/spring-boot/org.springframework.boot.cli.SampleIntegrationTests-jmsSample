@@ -1,0 +1,8 @@
+output
+contains
+jms.groovy
+assertTrue
+jmsSample
+Wrong output: 
+run
+Received Greetings from Spring Boot via HornetQ

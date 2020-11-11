@@ -1,0 +1,16 @@
+getProperty
+refresh
+assertEquals
+env
+setEnvironment
+getConfig
+shell.ssh.enabled
+setProperty
+3333
+testSshConfiguration
+true
+crash.ssh.port
+shell.ssh.port
+getBean
+lifeCycle
+register

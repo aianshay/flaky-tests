@@ -1,0 +1,15 @@
+
+testBindingAuthIfEmpty
+shell.auth
+hasErrors
+getAuth
+simple
+assertEquals
+getBindingResult
+props
+bind
+shell
+assertTrue
+singletonMap
+binder
+Collections

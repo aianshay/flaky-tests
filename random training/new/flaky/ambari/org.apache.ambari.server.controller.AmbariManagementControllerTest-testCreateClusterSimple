@@ -1,0 +1,18 @@
+singleton
+next
+controller
+c
+getClusterName
+assertEquals
+getClusters
+fail
+r
+iterator
+Duplicate cluster creation should fail
+Assert
+size
+testCreateClusterSimple
+clusterName
+foo1
+createCluster
+Collections

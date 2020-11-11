@@ -1,0 +1,11 @@
+upperBoundExclusive
+build
+assertTrue
+lowerBoundExclusive
+lower
+isValid
+assertFalse
+upper
+validator
+Double
+testExclusive

@@ -1,0 +1,7 @@
+result
+load
+assertNotNull
+healthEndpointWithDefaultHealthIndicator
+invoke
+getBean
+bean

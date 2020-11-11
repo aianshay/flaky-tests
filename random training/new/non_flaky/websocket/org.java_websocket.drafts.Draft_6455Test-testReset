@@ -1,0 +1,15 @@
+draft_6455
+protocolList
+getExtension
+getKnownExtensions
+singletonList
+handshakedataProtocolExtension
+assertEquals
+getProtocol
+assertNull
+extensionList
+testReset
+reset
+acceptHandshakeAsServer
+getKnownProtocols
+Collections

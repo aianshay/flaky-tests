@@ -1,0 +1,16 @@
+deleteDirectoryWithDirectoriesTest
+/testFolder/testFolder2
+Constants
+assertEquals
+delete
+createFile
+/testFolder
+fileId2
+getFileId
+Assert
+assertTrue
+mMasterInfo
+mkdir
+/testFolder/testFile
+/testFolder/testFolder2/testFile2
+fileId

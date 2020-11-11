@@ -1,0 +1,18 @@
+getName
+method
+toBytes
+scan
+Families could not be found in Region
+families
+tableName
+fam2
+initHRegion
+fam1
+testGetScanner_WithNotOkFamilies
+Bytes
+testtable
+addFamily
+assertTrue
+ok
+region
+getScanner

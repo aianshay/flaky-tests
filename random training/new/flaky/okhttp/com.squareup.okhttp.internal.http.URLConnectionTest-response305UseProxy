@@ -1,0 +1,26 @@
+play
+server
+Location: 
+This page has moved!
+response305UseProxy
+Proxy Response
+HttpURLConnection
+page1
+client
+connection
+/foo
+readAscii
+addHeader
+getRequestCount
+takeRequest
+assertEquals
+setResponseCode
+setBody
+getInputStream
+/
+Integer
+getUrl
+enqueue
+getRequestLine
+GET /foo HTTP/1.1
+open

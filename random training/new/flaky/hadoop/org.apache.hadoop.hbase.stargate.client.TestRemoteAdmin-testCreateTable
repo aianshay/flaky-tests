@@ -1,0 +1,8 @@
+createTable
+testCreateTable
+assertTrue
+assertFalse
+TABLE_1
+remoteAdmin
+isTableAvailable
+DESC_1

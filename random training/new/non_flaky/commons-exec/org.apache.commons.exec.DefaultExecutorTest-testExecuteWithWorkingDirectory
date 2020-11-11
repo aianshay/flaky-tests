@@ -1,0 +1,15 @@
+getWorkingDirectory
+exitValue
+workingDir
+cl
+assertEquals
+testExecuteWithWorkingDirectory
+execute
+baos
+.
+setWorkingDirectory
+trim
+testScript
+FOO..
+toString
+exec

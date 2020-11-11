@@ -1,0 +1,11 @@
+verifierAccepts
+request
+getConnection
+trustAllHosts
+https://localhost
+getHostnameVerifier
+assertTrue
+assertNotNull
+get
+verify
+connection

@@ -1,0 +1,12 @@
+sameInstance
+not
+SpringApplication
+nonXaJmsConnectionFactory
+context
+jmsConnectionFactory
+run
+xaJmsConnectionFactory
+getBean
+assertThat
+testExposesXaAndNonXa
+instanceOf

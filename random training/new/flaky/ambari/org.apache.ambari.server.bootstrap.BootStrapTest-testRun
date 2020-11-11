@@ -1,0 +1,44 @@
+Status: log 
+bootdir
+Configuration
+getLog
+classes
+runBootStrap
+num
+echo
+conf
+getStatus
+setHosts
+sleep
+impl
+Assert
+assertTrue
+xyz
+BSStat
+getRequestId
+info
+add
+init
+Response id from bootstrap 
+temp
+Bootdir is 
+host1
+LOG
+hosts
+host2
+Status 
+assertEquals
+newFolder
+target
+Thread
+testRun
+contains
+response
+setProperty
+setSshKey
+toString
+ status=
+host1,host2
+File
+properties
+status

@@ -1,0 +1,25 @@
+<configuration scan="true" scanPeriod="50 millisecond"><include file="
+Status
+<included>
+<root>
+</included>
+assertContainsMatch
+<included><root level="ERROR"/></included> 
+"/></configuration> 
+diff
+configure
+checker
+writeToFile
+assertThatFirstFilterIsROCF
+fallbackToSafeWithIncludedFile
+reconfigureOnChangeConfig_top-
+innerFileAsStr
+innerFile
+CoreTestConstants
+topLevelFile
+Re-registering previous fallback configuration once more
+topLevelFileAsStr
+reconfigureOnChangeConfig_inner-
+Falling back to previously registered safe configuration.
+rocfDetachReconfigurationToNewThreadAndAwaitTermination
+.xml

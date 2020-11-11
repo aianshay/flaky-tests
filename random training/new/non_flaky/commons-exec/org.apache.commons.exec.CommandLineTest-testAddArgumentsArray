@@ -1,0 +1,10 @@
+addArguments
+bar
+test
+toStrings
+testAddArgumentsArray
+foo
+toString
+assertEquals
+test foo bar
+cmdl

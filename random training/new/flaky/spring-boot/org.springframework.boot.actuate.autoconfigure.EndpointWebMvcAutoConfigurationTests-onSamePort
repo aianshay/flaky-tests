@@ -1,0 +1,15 @@
+hasHeader
+refresh
+assertContent
+ports
+X-Application-Context
+/controller
+/endpoint
+assertTrue
+onSamePort
+get
+assertAllClosed
+controlleroutput
+endpointoutput
+close
+register

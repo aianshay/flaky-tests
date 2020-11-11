@@ -1,0 +1,16 @@
+POST
+requestExecutionHandler
+testHttpPostsWithExpectContinue
+generateRequest
+US-ASCII
+setEntity
+r
+CoreProtocolPNames
+getExpected
+testjob
+getPattern
+executeStandardTest
+getCount
+entity
+getParams
+setBooleanParameter

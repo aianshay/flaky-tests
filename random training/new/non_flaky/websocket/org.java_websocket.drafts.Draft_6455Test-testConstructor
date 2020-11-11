@@ -1,0 +1,10 @@
+draft_6455
+fail
+emptyList
+IllegalArgumentException expected
+size
+getKnownExtensions
+assertEquals
+getKnownProtocols
+Collections
+testConstructor

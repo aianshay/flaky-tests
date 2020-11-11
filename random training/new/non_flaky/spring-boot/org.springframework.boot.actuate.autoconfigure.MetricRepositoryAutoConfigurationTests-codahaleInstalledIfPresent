@@ -1,0 +1,16 @@
+gauge
+registry
+codahaleInstalledIfPresent
+submit
+foo
+unchecked
+getMetrics
+assertEquals
+gauge.foo
+gaugeService
+getValue
+assertNotNull
+get
+context
+getBean
+close

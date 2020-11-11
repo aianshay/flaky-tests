@@ -1,0 +1,12 @@
+varyRateMinTime
+testGetAttribute
+set
+getAttribute
+varyRateAvgTime
+intValue
+pushMetric
+metricsRate
+assertEquals
+varyRateNumOps
+varyRateMaxTime
+inc

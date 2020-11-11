@@ -1,0 +1,13 @@
+cache
+other
+thenReturn
+unchecked
+assertEquals
+assertSame
+when
+result
+getAdvancedCache
+getCache
+assertNotSame
+getCacheManager
+mock

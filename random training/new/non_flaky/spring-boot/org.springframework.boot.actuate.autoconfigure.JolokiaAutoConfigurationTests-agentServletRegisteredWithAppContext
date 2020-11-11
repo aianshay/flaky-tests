@@ -1,0 +1,9 @@
+EnvironmentTestUtils
+agentServletRegisteredWithAppContext
+addEnvironment
+jolokia.config[key2]:value2
+getBeanNamesForType
+jolokia.config[key1]:value1
+refresh
+assertEquals
+register

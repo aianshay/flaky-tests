@@ -1,0 +1,11 @@
+next
+getClass
+getBeansOfType
+iterator
+size
+beans
+values
+diskSpaceHealthIndicator
+refresh
+assertEquals
+register

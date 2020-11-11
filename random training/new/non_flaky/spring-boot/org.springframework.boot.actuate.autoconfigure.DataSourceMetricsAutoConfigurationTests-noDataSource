@@ -1,0 +1,5 @@
+getBeansOfType
+load
+size
+assertEquals
+noDataSource

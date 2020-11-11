@@ -1,0 +1,17 @@
+nestedProperties
+setKeysToSanitize
+unchecked
+invoke
+assertEquals
+testKeySanitizationWithCustomPattern
+getEndpointBean
+.*pass.*
+******
+654321
+assertNotNull
+get
+report
+myTestProperty
+testProperties
+properties
+dbPassword

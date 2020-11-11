@@ -1,0 +1,10 @@
+datasource.commonsDbcp.usage
+load
+datasource.primary.usage
+assertMetrics
+getBean
+metrics
+datasource.commonsDbcp.active
+bean
+datasource.primary.active
+multipleDataSourcesWithPrimary

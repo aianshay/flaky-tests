@@ -1,0 +1,19 @@
+play
+server
+unauthorizedResponseHandling
+addHeader
+conn
+getRequestCount
+assertEquals
+setResponseCode
+setBody
+url
+/
+WWW-Authenticate: challenge
+enqueue
+getUrl
+response
+getResponseCode
+Unauthorized
+client
+open

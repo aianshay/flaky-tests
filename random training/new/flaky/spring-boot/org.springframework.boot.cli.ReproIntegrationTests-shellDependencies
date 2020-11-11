@@ -1,0 +1,7 @@
+crsh.groovy
+shellDependencies
+containsString
+run
+{"message":"Hello World"}
+assertThat
+getHttpOutput

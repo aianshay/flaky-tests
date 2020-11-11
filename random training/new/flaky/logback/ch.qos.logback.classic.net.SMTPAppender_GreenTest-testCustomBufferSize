@@ -1,0 +1,22 @@
+msg
+getClass
+debug
+getName
+mp
+getBody
+logger
+smtp/customBufferSize.xml
+assertEquals
+configure
+waitUntilEmailIsSent
+error
+verifyAndExtractMimeMultipart
+body
+testCustomBufferSize 
+GreenMailUtil
+ClassicTestConstants
+ - 
+invisible2
+invisible1
+getBodyPart
+testCustomBufferSize

@@ -1,0 +1,31 @@
+msg
+createTable
+getName
+getNameAsString
+incrementAndGet
+testCreateBadTables
+HConstants
+run
+Failed threaded create
+sleep
+successes
+assertTrue
+get
+threaded_testCreateBadTables
+failures
+localAdmin
+e
+count
+start
+threads
+assertEquals
+threadDesc
+HTableDescriptor
+Thread
+Integer
+isAlive
+contains
+Unexcepted exception message 
+addFamily
+toString
+startsWith

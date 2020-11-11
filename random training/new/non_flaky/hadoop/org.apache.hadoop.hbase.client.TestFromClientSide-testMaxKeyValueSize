@@ -1,0 +1,23 @@
+add
+testMaxKeyValueSize
+createTable
+set
+testMaxKeyValueSize2
+toBytes
+hbase.client.keyvalue.maxsize
+conf
+oldMaxSize
+TEST_UTIL
+Inserting a too large KeyValue worked, should throw exception
+ht
+put
+FAMILY
+setInt
+TABLE
+Bytes
+fail
+getConfiguration
+get
+ROW
+QUALIFIER
+value

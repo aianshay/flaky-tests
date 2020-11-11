@@ -1,0 +1,18 @@
+play
+server
+disconnect
+read
+in
+assertEquals
+disconnectedConnection
+setBody
+getInputStream
+/
+enqueue
+getUrl
+fail
+ABCDEFGHIJKLMNOPQR
+client
+connection
+open
+Expected a connection closed exception

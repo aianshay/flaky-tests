@@ -1,0 +1,33 @@
+play
+server
+request
+C
+getSequenceNumber
+redirectedBy
+Location: /b
+assertCode
+Location: /c
+assertBody
+/a
+/c
+Test
+Redirect from /b to /c
+assertContainsHeaders
+/a has moved!
+await
+client
+Test: Redirect from /b to /c
+redirect
+addHeader
+receiver
+takeRequest
+assertEquals
+setResponseCode
+setBody
+/b has moved!
+url
+enqueue
+getUrl
+Test: Redirect from /a to /b
+build
+Redirect from /a to /b

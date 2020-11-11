@@ -1,0 +1,10 @@
+fail
+e
+testExecuteWithError
+Must throw ExecuteException
+cl
+getExitValue
+assertEquals
+errorTestScript
+execute
+exec

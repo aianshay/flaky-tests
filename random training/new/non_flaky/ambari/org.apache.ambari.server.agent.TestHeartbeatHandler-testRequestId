@@ -1,0 +1,37 @@
+hi
+setOS
+hbResponse
+setHardwareProfile
+isRestartAgent
+log
+setHostname
+getTime
+responseId was not incremented
+assertFalse
+heartBeatHandler
+handleRegistration
+assertTrue
+setResponseId
+redhat5
+injector
+Agent is flagged for restart
+newHost
+setTimestamp
+testRequestId
+Status
+debug
+host1
+handleHeartBeat
+ResponseId should start from zero
+assertEquals
+constructHeartBeat
+jaxbToString
+setHostName
+StageUtils
+getResponseId
+Agent is not flagged for restart
+heartBeat
+Not cached response returned
+getInstance
+registrationResponse
+register

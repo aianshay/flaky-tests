@@ -1,0 +1,16 @@
+expectedCacheSize
+cache
+getBlock
+generateFixedBlocks
+blocks
+getEvictionCount
+testCacheEvictionSimple
+maxSize
+heapSize
+assertEquals
+blockSize
+LruBlockCache
+cacheBlock
+calculateBlockSizeDefault
+assertTrue
+block

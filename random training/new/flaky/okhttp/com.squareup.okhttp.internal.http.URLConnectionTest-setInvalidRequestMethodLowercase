@@ -1,0 +1,5 @@
+play
+server
+setInvalidRequestMethodLowercase
+get
+assertInvalidRequestMethod

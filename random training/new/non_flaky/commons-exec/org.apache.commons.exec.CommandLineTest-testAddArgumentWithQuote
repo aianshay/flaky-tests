@@ -1,0 +1,11 @@
+ba"r
+addArgument
+test
+toStrings
+foo
+toString
+assertEquals
+cmdl
+test foo 'ba"r'
+'ba"r'
+testAddArgumentWithQuote

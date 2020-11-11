@@ -1,0 +1,11 @@
+addArguments
+bar
+testAddArgumentsWithQuotes
+test
+toStrings
+foo
+toString
+assertEquals
+test foo bar
+cmdl
+'foo' "bar"

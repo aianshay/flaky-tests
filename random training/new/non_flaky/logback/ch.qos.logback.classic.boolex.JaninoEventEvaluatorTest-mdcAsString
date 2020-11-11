@@ -1,0 +1,20 @@
+StatusPrinter
+makeLoggingEvent
+start
+diff
+k
+jee
+loggerContext
+MDC
+put
+remove
+((String) mdc.get("
+assertTrue
+mdcAsString
+")).contains("alue")
+setExpression
+printInCaseOfErrorsOrWarnings
+event
+value
+evaluate
+key

@@ -1,0 +1,14 @@
+hasHeader
+assertFalse
+management.add-application-context-header:false
+refresh
+ports
+X-Application-Context
+onSamePortWithoutHeader
+EnvironmentTestUtils
+/endpoint
+addEnvironment
+get
+assertAllClosed
+close
+register

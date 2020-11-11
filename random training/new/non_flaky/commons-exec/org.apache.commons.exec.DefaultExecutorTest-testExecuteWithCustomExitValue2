@@ -1,0 +1,11 @@
+fail
+e
+Must throw ExecuteException
+cl
+setExitValue
+getExitValue
+assertEquals
+errorTestScript
+testExecuteWithCustomExitValue2
+execute
+exec

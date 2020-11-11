@@ -1,0 +1,10 @@
+HttpRequest
+a
+b
+c
+appendMultipleVarargsQueryParams
+d
+http://test.com/1
+http://test.com/1?a=b&c=d
+assertEquals
+append

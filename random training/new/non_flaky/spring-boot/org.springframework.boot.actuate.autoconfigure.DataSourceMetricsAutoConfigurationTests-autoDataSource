@@ -1,0 +1,8 @@
+load
+datasource.primary.usage
+assertMetrics
+autoDataSource
+getBean
+metrics
+bean
+datasource.primary.active

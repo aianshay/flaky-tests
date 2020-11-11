@@ -1,0 +1,13 @@
+getName
+getUserForToken
+assertFalse
+assertEquals
+isAdmin
+testGetDisabledUser
+DISABLED_USERNAME
+assertTrue
+assertNotNull
+isDisabled
+DISABLED_TOKEN
+authenticator
+user

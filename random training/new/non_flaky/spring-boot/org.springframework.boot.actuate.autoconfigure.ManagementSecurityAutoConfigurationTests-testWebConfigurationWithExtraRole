@@ -1,0 +1,12 @@
+commaSeparatedStringToAuthorityList
+assertTrue
+setServletContext
+getUser
+ROLE_USER,ROLE_ADMIN
+containsAll
+refresh
+AuthorityUtils
+user
+getAuthorities
+testWebConfigurationWithExtraRole
+register

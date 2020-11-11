@@ -1,0 +1,21 @@
+play
+server
+readAscii
+addHeader
+wWw-aUtHeNtIcAtE: bAsIc rEaLm="pRoTeCtEd aReA"
+authenticateRealmUppercase
+assertEquals
+setResponseCode
+setBody
+setDefault
+getInputStream
+/
+Integer
+enqueue
+getUrl
+Successful auth!
+client
+connection
+Please authenticate.
+Authenticator
+open

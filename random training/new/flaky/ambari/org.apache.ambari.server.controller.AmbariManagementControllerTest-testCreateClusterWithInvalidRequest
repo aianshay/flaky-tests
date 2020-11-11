@@ -1,0 +1,11 @@
+fail
+r
+controller
+Expected create cluster for invalid request - no stack version
+foo
+toString
+createCluster
+setClusterId
+testCreateClusterWithInvalidRequest
+setClusterName
+Expected create cluster for invalid request

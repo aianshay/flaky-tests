@@ -1,0 +1,20 @@
+substitutionMap
+getExecutable
+foo.bar.Main
+JAVA_HOME
+assertEquals
+parse
+put
+local
+incompleteMap
+testCommandLineParsingWithExpansion
+${appMainClass}
+appMainClass
+CommandLine
+${JAVA_HOME}
+assertTrue
+/usr/local/java
+getArguments
+cmdl
+indexOf
+${JAVA_HOME}/bin/java ${appMainClass}

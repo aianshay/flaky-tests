@@ -1,0 +1,12 @@
+ServerManager
+add
+one,123,3
+one:1
+deadServers
+assertTrue
+hostname123
+assertFalse
+one:1234
+testIsDead
+one:123
+isDead

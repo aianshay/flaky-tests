@@ -1,0 +1,7 @@
+fail
+shareHttpConnectionFails
+assertPooled
+pool
+KEEP_ALIVE_DURATION_MS
+httpA
+share

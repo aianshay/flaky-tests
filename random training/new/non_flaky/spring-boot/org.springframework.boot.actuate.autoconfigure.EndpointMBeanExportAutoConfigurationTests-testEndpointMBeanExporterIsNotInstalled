@@ -1,0 +1,10 @@
+fail
+environment
+endpoints.jmx.enabled
+setProperty
+false
+refresh
+getBean
+setEnvironment
+testEndpointMBeanExporterIsNotInstalled
+register

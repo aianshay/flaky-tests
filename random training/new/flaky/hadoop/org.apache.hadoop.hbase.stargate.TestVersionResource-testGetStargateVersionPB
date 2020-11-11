@@ -1,0 +1,15 @@
+/version
+getBody
+LOG
+success retrieving Stargate version as protobuf
+getObjectFromMessage
+testGetStargateVersionPB
+MIMETYPE_PROTOBUF
+assertTrue
+response
+get
+client
+model
+getCode
+validate
+info

@@ -1,0 +1,8 @@
+EnvironmentTestUtils
+addEnvironment
+getBeanNamesForType
+refresh
+assertEquals
+agentDisabled
+endpoints.jolokia.enabled:false
+register

@@ -1,0 +1,8 @@
+UserInfo( USER_ID: 99, mOwnBytes: 1064, mLastHeartbeatMs: 
+addOwnBytes
+Assert
+tUserInfo
+toStringTest
+toString
+assertEquals
+substring

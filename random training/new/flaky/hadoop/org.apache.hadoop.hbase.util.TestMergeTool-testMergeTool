@@ -1,0 +1,38 @@
+regions
+log
+getLog
+getRegionNameAsString
+HConstants
+System
+FAMILY
+result
+Bytes
+merging regions 0+1 and 2
+assertTrue
+logPath
+assertNotNull
+get
+mergeAndVerify
+merging regions 0 and 1
+testMergeTool
+close
+/tmp
+_
+info
+LOG
+oldLogDir
+merged
+merging regions 0+1+2 and 3
+j
+rows
+closeAndDelete
+getRegionInfo
+getValue
+sorted
+addFamily
+bytes
+equals
+currentTimeMillis
+merging regions 0+1+2+3 and 4
+toString
+Creating log 

@@ -1,0 +1,12 @@
+r
+getName
+assertNull
+f
+getFirstKey
+ROOT_DIR
+w
+loadFileInfo
+close
+fs
+getLastKey
+testEmptyHFile

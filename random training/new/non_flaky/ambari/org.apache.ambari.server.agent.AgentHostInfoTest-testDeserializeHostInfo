@@ -1,0 +1,49 @@
+"hardwareisa": "x86_64", 
+"lsbdistid": "CentOS", 
+dev.test.com
+getMemorySize
+"hardwaremodel": "x86_64",
+"kernel": "Linux", 
+"memoryfree": 2453667,
+"lsbmajdistrelease": "5",
+Assert
+"ipaddress_eth0": "10.0.2.15",
+getFQDN
+"macaddress": "08:00:27:D2:59:B2", 
+"kernelrelease": "2.6.18-238.12.1.el5",
+info
+"augeasversion": "0.10.0",
+"macaddress_eth0": "08:00:27:D2:59:B2",
+"domain": "test.com", 
+{"architecture": "x86_64", 
+"id": "root", 
+Linux
+"lsbdistrelease": "5.8", 
+getArchitecture
+"interfaces": "eth0,lo", 
+"lsbdistcodename": "Final",
+"memorysize": 3051356, 
+"ipaddress_lo": "127.0.0.1",
+getKernel
+"netmask": "255.255.255.0"}
+getMemoryTotal
+hostinfo
+mapper
+DeserializationConfig
+testDeserializeHostInfo
+"fqdn": "dev.test.com", 
+"facterversion": "1.6.10",
+x86_64
+"kernelmajversion": "2.6",
+root
+getAgentUserId
+readValue
+"hostname": "dev", 
+"lsbdistdescription": "CentOS release 5.8 (Final)",
+assertEquals
+configure
+"manufacturer": "innotek GmbH",
+"ipaddress": "10.0.2.15",
+"kernelversion": "2.6.18", 
+"memorytotal": 3051356,
+"is_virtual": true,

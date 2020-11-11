@@ -1,0 +1,12 @@
+result
+load
+assertTrue
+assertNotNull
+containsKey
+invoke
+getDetails
+getBean
+Wrong result: 
+healthEndpoint
+bean
+db

@@ -1,0 +1,12 @@
+print
+StatusPrinter
+assertTrue
+makeLoggingEvent
+start
+setExpression
+jee
+testBasic
+message.equals("Some message")
+loggerContext
+event
+evaluate

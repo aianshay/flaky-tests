@@ -1,0 +1,11 @@
+EnvironmentTestUtils
+security.basic.enabled:false
+size
+addEnvironment
+testDisableBasicAuthOnApplicationPaths
+setServletContext
+refresh
+assertEquals
+getBean
+getFilterChains
+register

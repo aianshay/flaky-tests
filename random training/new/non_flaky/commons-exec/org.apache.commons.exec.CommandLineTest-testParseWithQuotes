@@ -1,0 +1,12 @@
+test "foo" 'ba r'
+CommandLine
+test
+toStrings
+foo
+testParseWithQuotes
+"ba r"
+test foo "ba r"
+toString
+assertEquals
+parse
+cmdl

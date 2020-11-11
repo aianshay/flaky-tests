@@ -1,0 +1,14 @@
+getBody
+createUnmarshaller
+assertEquals
+testGetClusterStatusXML
+unmarshal
+/status/cluster
+response
+get
+context
+client
+model
+getCode
+MIMETYPE_XML
+validate

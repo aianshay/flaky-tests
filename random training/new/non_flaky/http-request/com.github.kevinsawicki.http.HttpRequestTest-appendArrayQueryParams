@@ -1,0 +1,16 @@
+HttpRequest
+a
+http://test.com/?foo[]=bar&foo[]=baz&a[]=1&a[]=2
+foo
+http://test.com/?a[]=1&a[]=2
+assertEquals
+http://test.com/?foo[]=bar&foo[]=baz
+bar
+http://test.com/?a[]=1
+appendArrayQueryParams
+singletonMap
+http://test.com/?
+baz
+Collections
+http://test.com
+append

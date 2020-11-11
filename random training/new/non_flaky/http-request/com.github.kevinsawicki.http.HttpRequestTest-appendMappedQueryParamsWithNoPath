@@ -1,0 +1,10 @@
+HttpRequest
+a
+http://test.com/?a=b
+b
+singletonMap
+assertEquals
+Collections
+http://test.com
+appendMappedQueryParamsWithNoPath
+append

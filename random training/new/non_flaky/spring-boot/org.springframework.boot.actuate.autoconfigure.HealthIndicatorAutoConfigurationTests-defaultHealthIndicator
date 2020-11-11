@@ -1,0 +1,14 @@
+next
+getClass
+values
+defaultHealthIndicator
+refresh
+assertEquals
+EnvironmentTestUtils
+getBeansOfType
+iterator
+size
+addEnvironment
+beans
+health.diskspace.enabled:false
+register

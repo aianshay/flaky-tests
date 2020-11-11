@@ -1,0 +1,10 @@
+val
+makeEvent
+doEvaluateAndCheck
+clear
+event
+MDC
+mdc
+key
+put
+e.mdc['key'] == 'val'

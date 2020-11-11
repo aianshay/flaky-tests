@@ -1,0 +1,21 @@
+serverNotRunning
+Table person created
+testDefaultSettings
+Successfully acquired change log lock
+ChangeSet classpath:/db/
+Creating database history 
+table with name: PUBLIC.DATABASECHANGELOG
+Successfully released change log lock
+ChangeSet classpath:/db/changelog/
+db.changelog-master.yaml::2::
+main
+output
+marceloverdijk ran successfully
+contains
+ex
+SampleLiquibaseApplication
+assertTrue
+changelog/db.changelog-master.yaml::1::
+Wrong output: 
+New row inserted into person
+toString

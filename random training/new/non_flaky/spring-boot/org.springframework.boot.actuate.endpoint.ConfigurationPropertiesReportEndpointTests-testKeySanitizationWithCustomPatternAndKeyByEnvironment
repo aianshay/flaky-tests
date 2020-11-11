@@ -1,0 +1,19 @@
+nestedProperties
+testKeySanitizationWithCustomPatternAndKeyByEnvironment
+unchecked
+refresh
+invoke
+assertEquals
+getEndpointBean
+******
+EnvironmentTestUtils
+addEnvironment
+assertNotNull
+get
+report
+myTestProperty
+testProperties
+endpoints.configprops.keys-to-sanitize: .*pass.*, property
+properties
+register
+dbPassword

@@ -1,0 +1,18 @@
+headRev
+Commit must not have same id as branch
+getHeadRevision
+assertFalse
+commit
+assertEquals
+branchRev
+branch
+homeDir
+/
+Stored head should be equal
++"a" : {}
+equals
+getPath
+dispose
++"b" : {}
+potentialClashOfCommitIds
+mk

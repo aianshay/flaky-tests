@@ -1,0 +1,4 @@
+runTestOnTable
+prepareTest
+testTimeRangeMapRed
+verify

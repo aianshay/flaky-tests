@@ -1,0 +1,26 @@
+play
+server
+getSequenceNumber
+assertContent
+Moved! Moved! Moved!
+getBytes
+Location: /foo
+HttpURLConnection
+UTF_8
+client
+connection
+requestB
+requestA
+addHeader
+takeRequest
+gzip
+assertEquals
+setResponseCode
+setBody
+gzipWithRedirectAndConnectionReuse
+Content-Encoding: gzip
+/
+enqueue
+getUrl
+This is the new page!
+open

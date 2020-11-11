@@ -1,0 +1,39 @@
+setName
+r2
+createColumn
+getName
+log
+insert
+delete
+Value should have been deleted
+testInsertGetRemove_value_
+se
+getExecutionTimeMicro
+assertTrue
+assertNotNull
+get
+value
+getQuery
+setKey
+q2
+cf
+createMutator
+testInsertGetRemove
+debug
+c
+ko
+mr
+assertEquals
+Standard1
+mr2
+m
+Time should be > 0
+execute
+createColumnQuery
+q
+getValue
+r
+assertNull
+name
+setColumnFamily
+insert execution time: {}

@@ -1,0 +1,8 @@
+singleton
+getListeners
+result
+thenReturn
+expected
+Collections
+assertSame
+when

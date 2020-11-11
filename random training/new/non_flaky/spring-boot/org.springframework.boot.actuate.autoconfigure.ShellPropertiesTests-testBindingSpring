@@ -1,0 +1,17 @@
+shell.auth.spring
+hasErrors
+testBindingSpring
+assertFalse
+applyToCrshShellConfig
+assertEquals
+shell.auth.spring.roles
+getBindingResult
+props
+role1, role2
+p
+bind
+crash.auth.spring.roles
+singletonMap
+get
+binder
+Collections

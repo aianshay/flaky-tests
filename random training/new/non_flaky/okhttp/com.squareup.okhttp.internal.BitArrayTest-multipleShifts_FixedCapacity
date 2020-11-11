@@ -1,0 +1,8 @@
+b
+shiftLeft
+set
+BigInteger
+setBit
+assertEquals
+multipleShifts_FixedCapacity
+longValue

@@ -1,0 +1,52 @@
+getCluster
+centos6
+centos5
+Assert
+ServiceComponentHost creation should have failed earlier
+assertNotNull
+foo1
+Collections
+getHost
+HDFS_CLIENT
+ServiceComponentHost creation should fail as duplicate
+printStackTrace
+fail
+createService
+ServiceComponentHost creation should fail for invalid state
+size
+State
+createCluster
+HDP-0.1
+componentName1
+componentName3
+componentName2
+setDesiredStackVersion
+getHostComponents
+h1
+h2
+createServiceComponent
+testCreateServiceComponentHostSimple
+mapHostToCluster
+ as host not mapped to cluster
+clusterName
+persist
+clusters
+getServiceComponent
+singleton
+controller
+host1
+e
+host2
+HDFS
+assertEquals
+NAMENODE
+serviceName
+addHost
+getService
+ServiceComponentHost creation should fail for invalid host
+setOsType
+r
+createServiceComponentHost
+response
+DATANODE
+getServiceComponentHost

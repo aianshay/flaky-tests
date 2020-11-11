@@ -1,0 +1,23 @@
+getServer
+testEndpointMBeanExporterWithProperties
+endpoints.jmx.unique_names
+ObjectNameManager
+key1=value1, key2=value2
+endpoints.jmx.static_names
+refresh
+setEnvironment
+,key1=value1,key2=value2
+mbeanExporter
+environment
+test-domain
+getObjectName
+assertNotNull
+setProperty
+true
+endpoints.jmx.domain
+toString
+getBean
+getInstance
+healthEndpoint
+register
+getMBeanInfo

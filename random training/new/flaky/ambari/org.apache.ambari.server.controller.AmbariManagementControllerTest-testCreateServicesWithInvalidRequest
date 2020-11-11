@@ -1,0 +1,29 @@
+setDesiredStackVersion
+foo
+createServices
+Expected failure for multiple clusters
+getCluster
+valid1
+valid
+bar
+valid2
+Assert
+assertNotNull
+getServices
+clusters
+add
+addCluster
+controller
+Expected failure for existing service
+clear
+HDFS
+testCreateServicesWithInvalidRequest
+assertEquals
+rInvalid
+fail
+size
+Expected failure for invalid requests
+Expected failure for invalid cluster
+set1
+Expected failure for invalid service
+HDP-0.1

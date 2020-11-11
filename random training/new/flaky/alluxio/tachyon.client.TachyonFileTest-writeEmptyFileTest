@@ -1,0 +1,15 @@
+os
+mTfs
+WriteType
+writeEmptyFileTest
+/emptyFile
+length
+getOutStream
+assertEquals
+getFile
+createFile
+exist
+Assert
+file
+assertTrue
+close

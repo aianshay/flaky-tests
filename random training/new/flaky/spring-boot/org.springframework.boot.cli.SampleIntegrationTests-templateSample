@@ -1,0 +1,8 @@
+output
+template.groovy
+Hello World!
+contains
+templateSample
+assertTrue
+Wrong output: 
+run

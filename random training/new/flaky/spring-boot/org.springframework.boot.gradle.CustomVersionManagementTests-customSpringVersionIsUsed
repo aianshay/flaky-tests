@@ -1,0 +1,9 @@
+forTasks
+BOOT_VERSION
+-PbootVersion=
+project
+withArguments
+run
+checkSpringVersion
+customSpringVersionIsUsed
+newBuild

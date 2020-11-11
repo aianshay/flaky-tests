@@ -1,0 +1,5 @@
+
+fail
+Must throw IllegalArgumentException
+cmdl
+testExecutableZeroLengthString

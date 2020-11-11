@@ -1,0 +1,34 @@
+createTable
+scan
+HConstants
+TEST_UTIL
+VALUE
+ht
+delete
+put
+TABLE2
+Null values should be allowed, but threw exception
+FAMILY
+TABLE
+result
+Bytes
+getTestNull
+flush
+deleteColumns
+Creating a table with a null family passed, should fail
+get
+assertEmptyResult
+Inserting a null row worked, should throw exception
+Using a row with null qualifier threw exception, should 
+testNull
+getSingleScanResult
+add
+testNull2
+scanTestNull
+addColumn
+toBytes
+fail
+assertSingleResult
+Creating a table with null name passed, should have failed
+ROW
+QUALIFIER

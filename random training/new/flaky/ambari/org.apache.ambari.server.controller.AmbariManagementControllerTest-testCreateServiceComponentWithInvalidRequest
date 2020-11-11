@@ -1,0 +1,45 @@
+setDesiredStackVersion
+Expected failure for dups in requests
+JOBTRACKER
+Expected failure for multiple clusters
+getCluster
+valid1
+createComponents
+valid3
+valid2
+Expected failure for already existing component
+Assert
+addService
+assertNotNull
+persist
+s1
+clusters
+s2
+getServiceComponent
+add
+sc1
+addCluster
+testCreateServiceComponentWithInvalidRequest
+controller
+HDFS_CLIENT
+getServiceComponents
+clear
+HDFS
+assertEquals
+rInvalid
+NAMENODE
+MAPREDUCE
+c1
+createNew
+rInvalid1
+c2
+rInvalid2
+fail
+size
+Expected failure for invalid requests
+TASKTRACKER
+Expected failure for invalid cluster
+set1
+Expected failure for invalid service
+HDP-0.1
+serviceFactory

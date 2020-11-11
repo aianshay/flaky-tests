@@ -34,7 +34,7 @@ def concat_loc_sum(matrix, full_data):
 
 def document_to_synonims(document, synset_option):
     '''Replaces tokens of a document by its synonims/semantic related words.
-        Synset_option: 1 = synonims 
+        Synset_option: 1 = synonyms 
                        2 = semantic related words'''
     
     synonims = []
@@ -49,7 +49,7 @@ def document_to_synonims(document, synset_option):
     return ' '.join(map(str, synonims))
 
 
-def preprocess_tokens(data, synset_option=2):
+def preprocess_tokens(data, synset_option=1):
     '''Tokenizes each document before replacing synonims.
         Returns: list of processed documents'''
     

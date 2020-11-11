@@ -1,0 +1,7 @@
+subsystem.xml
+testTransformer
+testRejectionsEAP6
+create
+ModelTestControllerVersion
+ModelVersion
+jboss-as-naming

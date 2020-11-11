@@ -1,0 +1,15 @@
+next
+pageSize
+The WhileMatchFilter should now filter all remaining
+assertEquals
+testWhileMatchFilterWithFilterRow
+setFilter
+filter
+Assert
+filterAllRemaining
+assertTrue
+The page filter returned more rows than expected
+isMoreResults
+scanner
+scannerCounter
+getScanner

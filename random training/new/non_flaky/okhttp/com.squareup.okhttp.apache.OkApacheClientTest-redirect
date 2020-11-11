@@ -1,0 +1,21 @@
+redirect
+/foo
+server
+request
+actual
+addHeader
+toURI
+assertEquals
+setResponseCode
+setBody
+getEntity
+execute
+/
+EntityUtils
+enqueue
+getUrl
+response
+Hello, Redirect!
+client
+toString
+Location

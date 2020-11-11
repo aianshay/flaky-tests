@@ -1,0 +1,12 @@
+result
+size
+getTime
+findJobStatusTraceEvents
+now
+tenMinutesBefore
+getTotal
+is
+getRows
+repository
+assertThat
+assertFindJobStatusTraceEventsWithTime

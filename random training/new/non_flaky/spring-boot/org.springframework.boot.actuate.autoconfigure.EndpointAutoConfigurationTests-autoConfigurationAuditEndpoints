@@ -1,0 +1,4 @@
+load
+assertNotNull
+autoConfigurationAuditEndpoints
+getBean

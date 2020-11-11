@@ -1,0 +1,22 @@
+add
+controller
+hostNames
+testCreateClusterWithHostMapping
+h1
+h2
+getCluster
+addHost
+c1
+fail
+r
+setOsType
+Assert
+assertNotNull
+Expected create cluster to fail for invalid hosts
+Expected to fail for non created cluster
+persist
+HDP-0.1
+createCluster
+redhat6
+clusters
+getHost

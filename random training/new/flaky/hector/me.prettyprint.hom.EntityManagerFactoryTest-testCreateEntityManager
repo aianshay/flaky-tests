@@ -1,0 +1,7 @@
+entityManagerFactory
+entityManager
+isOpen
+assertTrue
+assertNotNull
+createEntityManager
+testCreateEntityManager

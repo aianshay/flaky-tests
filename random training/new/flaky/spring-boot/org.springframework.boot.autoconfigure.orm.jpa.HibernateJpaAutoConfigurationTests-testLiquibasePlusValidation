@@ -1,0 +1,9 @@
+testLiquibasePlusValidation
+EnvironmentTestUtils
+spring.datasource.initialize:false
+addEnvironment
+spring.jpa.hibernate.ddl-auto:validate
+setupTestConfiguration
+refresh
+liquibase.changeLog:classpath:db/changelog/db.changelog-city.yaml
+register

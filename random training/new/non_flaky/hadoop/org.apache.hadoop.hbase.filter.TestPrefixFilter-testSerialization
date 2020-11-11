@@ -1,0 +1,12 @@
+readFields
+stream
+in
+toByteArray
+prefixRowTests
+mainFilter
+newFilter
+buffer
+testSerialization
+write
+close
+out

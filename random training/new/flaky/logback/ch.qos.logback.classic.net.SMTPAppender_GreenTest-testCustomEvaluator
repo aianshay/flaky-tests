@@ -1,0 +1,22 @@
+getClass
+msg2
+debug
+getName
+mp
+test
+getBody
+logger
+CustomEvaluator
+invisible
+assertEquals
+configure
+waitUntilEmailIsSent
+verifyAndExtractMimeMultipart
+body
+testCustomEvaluator
+smtp/customEvaluator.xml
+GreenMailUtil
+ClassicTestConstants
+ - 
+testCustomEvaluator 
+getBodyPart

@@ -1,0 +1,24 @@
+add
+chat, chat2
+
+draft_6455
+request
+Sec-WebSocket-Key
+13
+hasFieldValue
+Connection
+clear
+Sec-WebSocket-Version
+assertEquals
+Upgrade
+Sec-WebSocket-Protocol
+Sec-WebSocket-Extensions
+postProcessHandshakeRequestAsClient
+emptyList
+assertTrue
+websocket
+getFieldValue
+chat
+chat2
+protocols
+Collections

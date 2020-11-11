@@ -1,0 +1,22 @@
+String 
+true and not path[foo] or not path[foo] and false
+testPredicateParser
+not path["/foo"]
+resolve
+string
+e
+foo
+assertFalse
+getClassLoader
+parse
+PredicateParser
+setRelativePath
+predicate
+path[foo]
+Assert
+ex
+bob
+assertTrue
+false or not path[/foo]
+false or not path[path=/foo]
+not path[foo] and true

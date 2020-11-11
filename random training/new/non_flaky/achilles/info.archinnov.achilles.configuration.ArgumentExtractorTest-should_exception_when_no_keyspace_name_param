@@ -1,0 +1,10 @@
+exception
+expect
+cluster
+should_exception_when_no_keyspace_name_param
+KEYSPACE_NAME
+initSession
+extractor
+ property should be provided
+params
+expectMessage

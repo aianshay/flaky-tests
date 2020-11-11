@@ -1,0 +1,19 @@
+shell.command_path_patterns
+hasErrors
+pattern1
+pattern2
+assertFalse
+assertEquals
+pattern1, pattern2
+getBindingResult
+props
+assertArrayEquals
+setConversionService
+bind
+Assert
+shell
+singletonMap
+binder
+Collections
+testBindingCommandPathPatterns
+getCommandPathPatterns

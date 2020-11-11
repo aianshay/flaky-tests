@@ -1,0 +1,13 @@
+addArguments
+"-XX:ParallelGCThreads=2"
+runMemorySud.cmd 10 30 -XX:+UseParallelGC "-XX:ParallelGCThreads=2"
+runMemorySud.cmd
+testComplexAddArguments2
+assertEquals
+-XX:+UseParallelGC
+toStrings
+toString
+cmdl
+10 30 -XX:+UseParallelGC '"-XX:ParallelGCThreads=2"'
+30
+10

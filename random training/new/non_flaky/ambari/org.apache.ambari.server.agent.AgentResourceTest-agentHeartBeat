@@ -1,0 +1,24 @@
+Returned from Server: 
+webResource
+resource
+ response=
+LOG
+assertEquals
+clientConfig
+type
+JSONConfiguration
+put
+getResponseId
+Assert
+getFeatures
+post
+response
+agentHeartBeat
+client
+create
+MediaType
+http://localhost:9998/heartbeat/dummyhost
+Boolean
+Client
+createDummyHeartBeat
+info

@@ -1,0 +1,15 @@
+areJobsAvailable
+myVar
+methodExpressionOnSpringBean
+waitForJobExecutorToProcessAllJobs
+getId
+assertEquals
+runtimeService
+getVariable
+managementService
+startProcessInstanceByKey
+procInst
+assertTrue
+ACTIVITI BPMN 2.0 PROCESS ENGINE
+JobTestHelper
+testAsyncMethodExpressionOnSpringBean

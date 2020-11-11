@@ -1,0 +1,8 @@
+output
+reactor.groovy
+test
+OK (1 test)
+containsString
+assertThat
+integrationAutoConfigTest
+integration_auto_test.groovy

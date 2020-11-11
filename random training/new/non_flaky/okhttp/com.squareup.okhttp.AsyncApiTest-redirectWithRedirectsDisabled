@@ -1,0 +1,23 @@
+play
+server
+request
+addHeader
+receiver
+Location: /b
+assertCode
+setResponseCode
+setBody
+redirectWithRedirectsDisabled
+url
+enqueue
+getUrl
+assertBody
+/a
+Test
+build
+assertContainsHeaders
+/a has moved!
+await
+client
+setFollowProtocolRedirects
+Redirect from /a to /b

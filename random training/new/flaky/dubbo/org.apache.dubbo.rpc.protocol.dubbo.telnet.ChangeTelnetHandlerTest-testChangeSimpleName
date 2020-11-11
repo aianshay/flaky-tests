@@ -1,0 +1,13 @@
+result
+telnet
+change
+getDubboProtocol
+mockChannel
+DemoService
+Used the DemoService as default.
+You can cancel default service by command: cd /
+assertEquals
+mockInvoker
+testChangeSimpleName
+export
+DubboProtocol

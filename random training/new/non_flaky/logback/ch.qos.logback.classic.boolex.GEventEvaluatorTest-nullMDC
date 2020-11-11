@@ -1,0 +1,5 @@
+makeEvent
+doEvaluateAndCheck
+event
+nullMDC
+e.mdc?.get('key') == 'val'

@@ -1,0 +1,7 @@
+output
+test
+spock.groovy
+OK (1 test)
+containsString
+assertThat
+spockTester

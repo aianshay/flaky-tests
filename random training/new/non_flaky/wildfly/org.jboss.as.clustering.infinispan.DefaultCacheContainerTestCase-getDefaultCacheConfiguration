@@ -1,0 +1,7 @@
+result
+getDefaultCacheConfiguration
+build
+thenReturn
+assertSame
+config
+when

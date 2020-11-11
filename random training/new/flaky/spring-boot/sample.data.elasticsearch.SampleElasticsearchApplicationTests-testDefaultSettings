@@ -1,0 +1,11 @@
+output
+contains
+ex
+serverNotRunning
+SampleElasticsearchApplication
+assertTrue
+testDefaultSettings
+Wrong output: 
+firstName='Alice', lastName='Smith'
+main
+toString

@@ -1,0 +1,14 @@
+shell.auth
+hasErrors
+getAuth
+assertFalse
+assertEquals
+getBindingResult
+props
+spring
+bind
+testBindingAuth
+shell
+singletonMap
+binder
+Collections

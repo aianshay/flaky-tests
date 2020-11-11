@@ -1,0 +1,15 @@
+elasticJobListenerCaller
+guaranteeService
+thenReturn
+isAllCompleted
+when
+clearAllCompletedInfo
+newHashSet
+afterJobExecuted
+Sets
+shardingContexts
+verify
+after
+registerComplete
+distributeOnceElasticJobListener
+assertAfterJobExecutedWhenIsAllCompleted

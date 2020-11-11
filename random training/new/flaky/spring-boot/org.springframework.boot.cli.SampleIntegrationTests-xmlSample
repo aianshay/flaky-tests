@@ -1,0 +1,9 @@
+output
+xmlSample
+Hello World
+contains
+runner.groovy
+assertTrue
+Wrong output: 
+runner.xml
+run

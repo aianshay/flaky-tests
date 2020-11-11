@@ -1,0 +1,17 @@
+apiKey
+setKeysToSanitize
+unchecked
+invoke
+assertEquals
+env
+testKeySanitizationWithCustomPattern
+getEndpointBean
+System
+.*pass.*
+******
+systemProperties
+123456
+setProperty
+get
+report
+dbPassword

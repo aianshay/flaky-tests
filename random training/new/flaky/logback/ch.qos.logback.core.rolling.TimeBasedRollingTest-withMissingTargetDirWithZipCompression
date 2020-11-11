@@ -1,0 +1,7 @@
+%d{yyyy-MM-dd, aux}/
+test8
+.zip
+NO_RESTART
+defaultTest
+FILE_OPTION_SET
+withMissingTargetDirWithZipCompression

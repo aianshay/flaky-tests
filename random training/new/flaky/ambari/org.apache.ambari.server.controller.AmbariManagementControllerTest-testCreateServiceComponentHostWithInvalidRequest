@@ -1,0 +1,64 @@
+getServiceComponentHosts
+setIPv6
+Expected failure for invalid host cluster mapping
+Expected failure for multiple clusters
+getCluster
+setIPv4
+centos6
+mapHostsToCluster
+ipv41
+ipv42
+ipv43
+Assert
+s1
+getHost
+s2
+add
+s3
+addCluster
+hostnames
+c1
+createNew
+rInvalid1
+c2
+rInvalid2
+fail
+size
+createHostComponents
+Expected failure for invalid cluster
+set1
+Expected failure for invalid service
+addServiceComponent
+HDP-0.2
+setDesiredStackVersion
+Expected failure for invalid host
+foo
+h1
+h2
+h3
+ipv63
+valid
+valid1
+Expected failure for already existing
+valid2
+addService
+ipv61
+ipv62
+persist
+clusters
+serviceComponentFactory
+sc1
+controller
+sc3
+sc2
+testCreateServiceComponentHostWithInvalidRequest
+Expected failure for dup requests
+clear
+HDFS
+assertEquals
+rInvalid
+NAMENODE
+addHost
+setOsType
+Expected failure for invalid requests
+serviceFactory

@@ -1,0 +1,7 @@
+output
+integration.groovy
+test
+OK (1 test)
+containsString
+integrationTest
+assertThat

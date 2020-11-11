@@ -1,0 +1,16 @@
+specificPortsViaProperties
+refresh
+assertContent
+ports
+server.port:
+/controller
+EnvironmentTestUtils
+/endpoint
+management.port:
+addEnvironment
+get
+assertAllClosed
+controlleroutput
+endpointoutput
+close
+register

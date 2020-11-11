@@ -1,0 +1,7 @@
+subsystem.xml
+testTransformer
+testRejectionsEAP7
+create
+wildfly-naming
+ModelTestControllerVersion
+ModelVersion

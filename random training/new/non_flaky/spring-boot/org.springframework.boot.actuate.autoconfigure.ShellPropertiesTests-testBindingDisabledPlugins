@@ -1,0 +1,18 @@
+hasErrors
+pattern1
+pattern2
+assertFalse
+assertEquals
+pattern1, pattern2
+getBindingResult
+props
+assertArrayEquals
+shell.disabled_plugins
+setConversionService
+bind
+shell
+singletonMap
+getDisabledPlugins
+binder
+Collections
+testBindingDisabledPlugins

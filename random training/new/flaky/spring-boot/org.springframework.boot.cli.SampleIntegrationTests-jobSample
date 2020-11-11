@@ -1,0 +1,9 @@
+output
+jobSample
+foo=bar
+contains
+assertTrue
+completed with the following parameters
+Wrong output: 
+run
+job.groovy

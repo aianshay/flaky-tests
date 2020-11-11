@@ -1,0 +1,36 @@
+request
+{ "actionName":"compaction",
+createRequest
+resultSerializer
+createActions
+httpHeaders
+HBASE
+body
+atLeastOnce
+result
+"parameters":{ "key1":"value1", "key2":"value2" } }
+requestHandler
+uriInfo
+clusterName
+serializedResult
+verify
+getResultSerializer
+resource
+Request
+createResponse
+replay
+serviceName
+eq
+assertSame
+hostService
+expect
+serialize
+requestFactory
+responseFactory
+createNiceMock
+testCreateActions
+createStrictMock
+response
+andReturn
+handleRequest
+isSynchronous

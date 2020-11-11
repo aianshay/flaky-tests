@@ -1,0 +1,15 @@
+next
+pluginContext
+plugins
+count
+refresh
+hasNext
+assertEquals
+testAuthenticationProvidersAreInstalled
+iterator
+setServletContext
+getPlugins
+getBean
+lifeCycle
+getContext
+register

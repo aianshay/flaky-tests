@@ -1,0 +1,17 @@
+bufentity
+assertFalse
+getContent
+testBufferingEntity
+HTTP
+assertEquals
+getContentLength
+getBytes
+isRepeatable
+httpentity
+Assert
+isChunked
+assertTrue
+isStreaming
+bytes
+assertNotNull
+Message content

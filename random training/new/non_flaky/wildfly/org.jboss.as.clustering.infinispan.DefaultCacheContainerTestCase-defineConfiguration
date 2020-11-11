@@ -1,0 +1,9 @@
+result
+other
+defineConfiguration
+build
+thenReturn
+builder
+assertSame
+config
+when

@@ -1,0 +1,26 @@
+col
+string
+testInsertAndGetAndRemove
+insert
+the value should already being deleted
+toByteBuffer
+remove
+FailoverPolicy
+testInsertAndGetAndRemove_
+setColumn
+assertNotNull
+get
+getColumn
+testInsertAndGetAndRemove_value_
+StringSerializer
+value
+Keyspace1
+assertEquals
+Standard1
+cp
+user1Credentials
+keyspace
+getValue
+fail
+bytes
+connectionManager

@@ -1,0 +1,9 @@
+maxIdleConnectionLimitIsEnforced
+assertPooled
+pool
+recycle
+KEEP_ALIVE_DURATION_MS
+httpA
+httpB
+httpC
+httpD

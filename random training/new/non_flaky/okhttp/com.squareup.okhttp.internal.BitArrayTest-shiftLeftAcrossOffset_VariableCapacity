@@ -1,0 +1,7 @@
+b
+shiftLeft
+set
+shiftLeftAcrossOffset_VariableCapacity
+assertEquals
+toIntegerList
+asList

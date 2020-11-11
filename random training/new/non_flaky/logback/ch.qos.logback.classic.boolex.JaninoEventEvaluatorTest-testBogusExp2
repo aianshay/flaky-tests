@@ -1,0 +1,16 @@
+setName
+bogus
+should throw an exception
+testBogusExp2
+JaninoEventEvaluatorBase
+makeLoggingEvent
+assertFalse
+start
+jee
+isStarted
+fail
+mdc.get("keyXN89").equals(null)
+assertTrue
+setExpression
+event
+evaluate

@@ -1,0 +1,10 @@
+getConnection
+https://localhost
+assertNotNull
+get
+singleSslSocketFactory
+getSSLSocketFactory
+assertEquals
+request2
+request1
+trustAllCerts

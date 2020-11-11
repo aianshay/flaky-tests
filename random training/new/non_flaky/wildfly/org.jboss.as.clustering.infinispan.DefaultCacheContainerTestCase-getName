@@ -1,0 +1,11 @@
+getCacheManagerConfiguration
+getName
+globalJmxStatistics
+build
+thenReturn
+foo
+name
+cacheManagerName
+global
+assertSame
+when

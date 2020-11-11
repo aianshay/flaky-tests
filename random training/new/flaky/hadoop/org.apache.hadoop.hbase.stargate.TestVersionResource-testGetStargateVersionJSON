@@ -1,0 +1,8 @@
+/version
+assertTrue
+response
+get
+MIMETYPE_JSON
+client
+getCode
+testGetStargateVersionJSON

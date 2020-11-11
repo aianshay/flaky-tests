@@ -1,0 +1,12 @@
+result
+container
+--classpath=.:src/test/resources
+Hello World
+contains
+/css/bootstrap.min.css
+assertTrue
+ui.groovy
+Wrong output: 
+run
+uiSample
+getHttpOutput

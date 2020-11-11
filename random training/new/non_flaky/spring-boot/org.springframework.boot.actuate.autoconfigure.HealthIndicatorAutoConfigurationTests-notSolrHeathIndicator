@@ -1,0 +1,15 @@
+next
+getClass
+values
+refresh
+assertEquals
+notSolrHeathIndicator
+health.solr.enabled:false
+EnvironmentTestUtils
+getBeansOfType
+iterator
+size
+addEnvironment
+beans
+health.diskspace.enabled:false
+register

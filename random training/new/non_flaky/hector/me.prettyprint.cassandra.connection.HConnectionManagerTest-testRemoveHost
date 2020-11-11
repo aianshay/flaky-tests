@@ -1,0 +1,10 @@
+removeCassandraHost
+size
+cassandraHost
+assertTrue
+connectionManager
+testRemoveHost
+assertEquals
+getActivePools
+addCassandraHost
+127.0.0.1

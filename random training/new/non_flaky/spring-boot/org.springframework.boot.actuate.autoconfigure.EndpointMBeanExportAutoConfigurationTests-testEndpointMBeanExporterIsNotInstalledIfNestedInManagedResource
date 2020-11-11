@@ -1,0 +1,13 @@
+getServer
+queryNames
+*,*
+isEmpty
+refresh
+*
+testEndpointMBeanExporterIsNotInstalledIfNestedInManagedResource
+mbeanExporter
+getObjectName
+assertTrue
+assertNotNull
+getBean
+register

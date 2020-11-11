@@ -1,0 +1,15 @@
+next
+getClass
+notMongoHealthIndicator
+health.mongo.enabled:false
+values
+refresh
+assertEquals
+EnvironmentTestUtils
+getBeansOfType
+iterator
+size
+addEnvironment
+beans
+health.diskspace.enabled:false
+register

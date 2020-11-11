@@ -1,0 +1,6 @@
+setServletContext
+testSecurityPropertiesNotAvailable
+refresh
+assertEquals
+getBean
+register

@@ -1,0 +1,13 @@
+forTasks
+BOOT_VERSION
+-PbootVersion=
+assertFalse
+createProject
+--stacktrace
+withArguments
+run
+newBuild
+build
+target/nojar/build/libs
+nojar
+exists

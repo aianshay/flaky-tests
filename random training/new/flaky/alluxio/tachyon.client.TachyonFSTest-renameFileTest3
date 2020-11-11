@@ -1,0 +1,16 @@
+renameFileTest3
+mTfs
+/root/testFile0
+assertFalse
+assertEquals
+k
+getFile
+createFile
+exist
+getFileId
+file
+Assert
+assertTrue
+rename
+/root/testFile
+fileId

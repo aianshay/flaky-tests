@@ -1,0 +1,22 @@
+msg
+
+callback1 onChanged ,
+xxx2
+callback2
+assertEquals
+demoProxy
+initOrResetUrl
+System
+getCallbackCount
+Thread
+sleep
+Assert
+TestCallbackMultiInstans
+destroyService
+initOrResetService
+yyy
+callback2:
+callback
+callback1:
+callback2 onChanged ,
+unxxx2

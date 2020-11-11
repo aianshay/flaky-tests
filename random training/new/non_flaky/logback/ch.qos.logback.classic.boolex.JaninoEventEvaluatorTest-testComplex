@@ -1,0 +1,15 @@
+setMarker
+BLUE
+makeLoggingEvent
+start
+addMatcher
+jee
+getMarker
+matcherX
+assertTrue
+setExpression
+event
+MarkerFactory
+evaluate
+level >= INFO && x.matches(message) && marker.contains("BLUE")
+testComplex

@@ -1,0 +1,11 @@
+output
+---->
+testTransactionRollback
+SampleAtomikosApplication
+----> josh
+Simulated error
+containsString
+main
+toString
+assertThat
+Count is 1

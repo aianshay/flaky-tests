@@ -1,0 +1,4 @@
+testChild
+--server.port=0
+run
+child

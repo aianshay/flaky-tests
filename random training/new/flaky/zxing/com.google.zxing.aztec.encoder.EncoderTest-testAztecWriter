@@ -1,0 +1,19 @@
+encode
+ISO-8859-1
+data
+BarcodeFormat
+expectedMatrix
+UTF-8
+aztec
+assertEquals
+testWriter
+matrix
+ISO-8859-15
+getBytes
+LATIN_1
+testAztecWriter
+getMatrix
+€ 1 sample data.
+Encoder
+In ut magna vel mauris malesuada
+writer

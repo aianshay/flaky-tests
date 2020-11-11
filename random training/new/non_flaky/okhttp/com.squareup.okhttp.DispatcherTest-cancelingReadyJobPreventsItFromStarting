@@ -1,0 +1,14 @@
+cancel
+assertJobs
+tag1
+receiver
+newRequest
+http://a/1
+enqueue
+http://a/2
+finishJob
+executor
+setMaxRequestsPerHost
+client
+cancelingReadyJobPreventsItFromStarting
+dispatcher

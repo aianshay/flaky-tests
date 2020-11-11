@@ -1,0 +1,5 @@
+parent
+builder
+--server.port=0
+run
+testParent

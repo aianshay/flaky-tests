@@ -1,0 +1,11 @@
+output
+samples/app.groovy
+contains
+scriptUri
+assertTrue
+toURI
+Wrong output: 
+Hello World! From 
+run
+appSample
+app.groovy

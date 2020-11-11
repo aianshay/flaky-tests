@@ -1,0 +1,10 @@
+output
+Hello World
+contains
+assertTrue
+SpringApplication
+Wrong output: 
+testVanillaExchange
+run
+World
+getOutput

@@ -1,0 +1,12 @@
+installer
+forTasks
+BOOT_VERSION
+install
+-PbootVersion=
+project
+createProject
+--stacktrace
+withArguments
+run
+cleanInstall
+newBuild

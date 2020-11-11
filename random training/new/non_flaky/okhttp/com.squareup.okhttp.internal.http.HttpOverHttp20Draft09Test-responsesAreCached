@@ -1,0 +1,20 @@
+play
+A
+server
+cache
+addHeader
+getRequestCount
+assertContent
+assertEquals
+getNetworkCount
+getHitCount
+setBody
+setOkResponseCache
+/
+Integer
+enqueue
+getUrl
+responsesAreCached
+client
+cache-control: max-age=60
+open

@@ -1,0 +1,7 @@
+TABLE
+getTableDescriptor
+testGetTableDescriptor
+remoteTable
+conf
+assertEquals
+local

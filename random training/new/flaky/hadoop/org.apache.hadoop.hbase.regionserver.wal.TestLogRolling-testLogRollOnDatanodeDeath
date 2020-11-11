@@ -1,0 +1,57 @@
+cluster
+getClass
+getName
+getFilenum
+getLog
+Need HDFS-826 for this test
+HConstants
+conf
+invoke
+dnprop
+writeData
+oldFilenum
+waitActive
+tableName
+getRegionServer
+getDefaultReplication
+Need append support for this test
+startDataNodes
+getDataNodes
+stm
+testLogRollOnDatanodeDeath
+setAutoFlush
+curTime
+size
+getPipeline
+addFamily
+The log shouldn't have rolled yet
+newFilenum
+endsWith
+desc
+server
+createTable
+log
+dfsCluster
+This test requires HLog file replication.
+admin
+Missing datanode should've triggered a log roll
+fs
+System
+getDeclaredMethods
+assertTrue
+canGetCurReplicas
+Log should have a timestamp older than now
+getLogReplication
+repl
+table
+stopDataNode
+setAccessible
+The log should not roll again.
+m
+pipeline
+isAppend
+currentTimeMillis
+Need DFSOutputStream.getPipeline() for this test
+getOutputStream
+New log file should have the default replication
+HLog

@@ -1,0 +1,9 @@
+args
+org.springframework
+spring-jdbc
+nonTransitiveDependencyResolution
+createDependency
+3.2.4.RELEASE
+assertEquals
+grab
+getURLs

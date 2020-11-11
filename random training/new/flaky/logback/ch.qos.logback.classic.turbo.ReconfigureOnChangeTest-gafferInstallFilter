@@ -1,0 +1,14 @@
+G_SCAN1_FILE_AS_STR
+assertThatListContainsFile
+matchCount
+assertEquals
+gafferInstallFilter
+checker
+loggerContext
+assertThatFirstFilterIsROCF
+file
+gConfigure
+getConfigurationFileList
+Will scan for changes in
+fileList
+rocfDetachReconfigurationToNewThreadAndAwaitTermination

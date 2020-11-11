@@ -1,0 +1,10 @@
+exist
+Assert
+/root/testFile3
+assertTrue
+/root/testFile2
+/root/testFile1
+mTfs
+assertEquals
+createFileTest2
+createFile

@@ -1,0 +1,11 @@
+localhost
+testHttpCreateConnection
+conn
+isOpen
+host
+pool
+http
+createConnection
+assertEquals
+serverPort
+getSocketTimeout

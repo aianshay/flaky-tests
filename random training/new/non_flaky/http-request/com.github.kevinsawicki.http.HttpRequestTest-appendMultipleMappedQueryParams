@@ -1,0 +1,12 @@
+HttpRequest
+a
+b
+c
+d
+http://test.com/1
+http://test.com/1?a=b&c=d
+assertEquals
+params
+put
+append
+appendMultipleMappedQueryParams

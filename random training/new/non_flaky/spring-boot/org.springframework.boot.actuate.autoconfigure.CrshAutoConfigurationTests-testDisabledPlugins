@@ -1,0 +1,14 @@
+testDisabledPlugins
+refresh
+env
+setEnvironment
+shell.disabled_plugins
+assertNull
+assertNotNull
+setProperty
+getPlugin
+GroovyREPL, termIOHandler, org.crsh.auth.AuthenticationPlugin
+getBean
+lifeCycle
+getContext
+register

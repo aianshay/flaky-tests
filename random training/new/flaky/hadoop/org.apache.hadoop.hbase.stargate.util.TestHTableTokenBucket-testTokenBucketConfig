@@ -1,0 +1,12 @@
+TABLE
+Bytes
+getRate
+getSize
+USER_TOKEN
+RATE
+toBytes
+SIZE
+conf
+assertEquals
+tb
+testTokenBucketConfig

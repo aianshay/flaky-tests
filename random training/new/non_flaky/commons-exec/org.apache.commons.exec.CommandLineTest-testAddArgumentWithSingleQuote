@@ -1,0 +1,11 @@
+"ba'r"
+testAddArgumentWithSingleQuote
+addArgument
+test foo "ba'r"
+test
+toStrings
+foo
+ba'r
+toString
+assertEquals
+cmdl

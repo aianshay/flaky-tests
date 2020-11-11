@@ -1,0 +1,15 @@
+endpoint1
+getServer
+getOperations
+testRegistrationOfOneEndpoint
+getAttributes
+refresh
+mbeanInfo
+assertEquals
+mbeanExporter
+registerBeanDefinition
+getObjectName
+assertNotNull
+getBean
+endpointMbeanExporter
+getMBeanInfo

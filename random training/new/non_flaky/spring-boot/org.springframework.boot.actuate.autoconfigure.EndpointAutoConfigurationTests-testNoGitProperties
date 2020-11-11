@@ -1,0 +1,13 @@
+spring.git.properties:classpath:nonexistent
+refresh
+invoke
+testNoGitProperties
+EnvironmentTestUtils
+endpoint
+git
+assertNull
+addEnvironment
+assertNotNull
+get
+getBean
+register

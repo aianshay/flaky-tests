@@ -1,0 +1,9 @@
+level > DEBUG
+testLevel
+assertTrue
+makeLoggingEvent
+start
+setExpression
+jee
+event
+evaluate

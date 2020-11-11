@@ -1,0 +1,4 @@
+addHeader
+Cache-Control: must-revalidate
+authorizationResponseCachedWithMustRevalidate
+assertAuthorizationRequestFullyCached

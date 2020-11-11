@@ -1,0 +1,20 @@
+Status
+  <root></configuration>
+assertContainsMatch
+<configuration scan="true" scanPeriod="50 millisecond"><root level="ERROR"/></configuration> 
+reconfigureOnChangeConfig_fallbackToSafe-
+diff
+configure
+checker
+<configuration scan="true" scanPeriod="50 millisecond">
+
+fallbackToSafe
+path
+writeToFile
+assertThatFirstFilterIsROCF
+CoreTestConstants
+topLevelFile
+Re-registering previous fallback configuration once more
+Falling back to previously registered safe configuration.
+rocfDetachReconfigurationToNewThreadAndAwaitTermination
+.xml

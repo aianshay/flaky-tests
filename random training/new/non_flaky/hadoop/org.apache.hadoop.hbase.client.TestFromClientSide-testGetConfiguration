@@ -1,0 +1,12 @@
+TABLE
+Bytes
+createTable
+getConfiguration
+testGetConfiguration
+FAMILIES
+toBytes
+foo
+conf
+TEST_UTIL
+assertSame
+table

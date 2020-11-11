@@ -1,0 +1,51 @@
+getName
+tableBname
+HConstants
+TEST_UTIL
+compareTo
+put
+somevalue
+Bytes
+newA
+tableAname
+attrName
+testMiscHTableStuffA
+add
+anotherA
+testMiscHTableStuffB
+toBytes
+HTD attribute value is incorrect
+getRow
+testMiscHTableStuff
+getFamilies
+sorted
+missing HCD attribute value
+addFamily
+enableTable
+attrValue
+ROW
+desc
+createTable
+getTableDescriptor
+assertFalse
+scan
+admin
+TESTATTR
+getConfiguration
+assertTrue
+get
+HCD attribute value is incorrect
+value
+close
+disableTable
+a
+b
+c
+wrong table descriptor returned
+modifyTable
+kv
+getValue
+r
+missing HTD attribute value
+setValue
+getScanner

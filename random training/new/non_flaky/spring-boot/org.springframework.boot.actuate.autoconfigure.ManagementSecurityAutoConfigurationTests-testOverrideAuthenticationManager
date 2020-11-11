@@ -1,0 +1,6 @@
+setServletContext
+refresh
+assertEquals
+getBean
+testOverrideAuthenticationManager
+register

@@ -1,0 +1,11 @@
+addArgument
+test
+toStrings
+foo
+"ba r"
+test foo "ba r"
+toString
+assertEquals
+testAddArgumentWithSpace
+cmdl
+ba r

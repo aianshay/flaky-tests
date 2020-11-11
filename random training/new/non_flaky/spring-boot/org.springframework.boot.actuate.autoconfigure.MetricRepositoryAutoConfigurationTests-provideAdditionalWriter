@@ -1,0 +1,12 @@
+gaugeService
+provideAdditionalWriter
+set
+submit
+assertNotNull
+foo
+context
+verify
+getBean
+writer
+any
+close

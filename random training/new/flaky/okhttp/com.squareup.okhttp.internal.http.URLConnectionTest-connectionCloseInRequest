@@ -1,0 +1,18 @@
+play
+server
+a
+connectionCloseInRequest
+b
+getSequenceNumber
+takeRequest
+When connection: close is used, each request should get its own connection
+Connection
+assertEquals
+/
+enqueue
+getUrl
+setRequestProperty
+getResponseCode
+client
+close
+open

@@ -1,0 +1,10 @@
+setWorkingDirectory
+fail
+testExecuteWithInvalidWorkingDirectory
+/foo/bar
+testScript
+workingDir
+cl
+Expected exception due to invalid working directory
+execute
+exec

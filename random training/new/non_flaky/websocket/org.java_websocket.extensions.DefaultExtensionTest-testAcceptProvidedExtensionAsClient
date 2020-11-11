@@ -1,0 +1,9 @@
+
+testAcceptProvidedExtensionAsClient
+Test
+assertTrue
+permessage-deflate
+ASDC, as,ad
+defaultExtension
+acceptProvidedExtensionAsClient
+Test, ASDC, as, ad

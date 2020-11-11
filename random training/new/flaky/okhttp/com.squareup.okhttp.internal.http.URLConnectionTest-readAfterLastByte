@@ -1,0 +1,21 @@
+play
+server
+readAscii
+ABC
+addHeader
+read
+clearHeaders
+in
+setSocketPolicy
+readAfterLastByte
+assertEquals
+setBody
+getInputStream
+/
+Connection: close
+enqueue
+getUrl
+client
+SocketPolicy
+connection
+open

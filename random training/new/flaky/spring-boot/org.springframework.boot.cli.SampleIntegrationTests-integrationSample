@@ -1,0 +1,8 @@
+output
+contains
+integration.groovy
+Hello, World
+assertTrue
+Wrong output: 
+integrationSample
+run

@@ -1,0 +1,19 @@
+add
+createHosts
+addCluster
+controller
+Expected failure for invalid host
+Expected failure for dup requests
+clear
+h1
+rInvalid
+addHost
+c1
+rInvalid1
+testCreateHostWithInvalidRequests
+rInvalid2
+fail
+clusterNames
+Expected failure for invalid cluster
+set1
+clusters

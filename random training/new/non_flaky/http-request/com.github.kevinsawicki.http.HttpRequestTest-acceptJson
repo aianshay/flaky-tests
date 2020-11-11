@@ -1,0 +1,17 @@
+handler
+request
+set
+Accept
+application/json
+acceptJson
+handle
+assertEquals
+HTTP_OK
+setStatus
+url
+getHeader
+assertTrue
+response
+get
+header
+ok

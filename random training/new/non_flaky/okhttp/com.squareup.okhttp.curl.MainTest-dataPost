@@ -1,0 +1,16 @@
+fromArgs
+request
+bodyAsString
+method
+createRequest
+POST
+foo
+urlString
+assertEquals
+application/x-form-urlencoded; charset=utf-8
+dataPost
+body
+http://example.com
+-d
+toString
+contentType

@@ -1,0 +1,20 @@
+endpoints.env.keys-to-sanitize: .*pass.*
+apiKey
+unchecked
+refresh
+invoke
+assertEquals
+testKeySanitizationWithCustomPatternByEnvironment
+env
+getEndpointBean
+System
+******
+systemProperties
+EnvironmentTestUtils
+addEnvironment
+123456
+setProperty
+get
+report
+register
+dbPassword

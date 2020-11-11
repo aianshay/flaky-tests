@@ -1,0 +1,9 @@
+b
+set
+toggleBit_VariableCapacity
+assertTrue
+isEmpty
+toggle
+assertEquals
+toIntegerList
+asList

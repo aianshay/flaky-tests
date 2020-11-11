@@ -1,0 +1,10 @@
+singleVerifier
+trustAllHosts
+getConnection
+https://localhost
+getHostnameVerifier
+assertNotNull
+get
+assertEquals
+request2
+request1

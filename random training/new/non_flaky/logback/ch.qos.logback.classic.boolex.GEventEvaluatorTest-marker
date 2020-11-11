@@ -1,0 +1,7 @@
+makeEvent
+markerA
+doEvaluateAndCheck
+setMarker
+marker
+e.marker?.name == 'A'
+event

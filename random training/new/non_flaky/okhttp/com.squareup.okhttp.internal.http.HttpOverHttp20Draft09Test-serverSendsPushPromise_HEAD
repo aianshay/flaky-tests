@@ -1,0 +1,41 @@
+play
+hostHeader
+HEAD
+server
+request
+hostName
+pushedRequest
+HEAD /foo/bar HTTP/1.1
+serverSendsPushPromise_HEAD
+assertContent
+getResponseMessage
+asList
+foo: bar
+/foo/bar
+client
+Sweet
+:scheme: https
+connection
+/foo
+getHeaders
+takeRequest
+: 
+assertEquals
+HTTP/1.1 200 Sweet
+setBody
+withPush
+HTTP/1.1 204 Sweet
+setStatus
+assertContains
+Integer
+ABCDE
+enqueue
+getUrl
+getRequestLine
+GET /foo HTTP/1.1
+getPort
+response
+getResponseCode
+:
+Arrays
+open

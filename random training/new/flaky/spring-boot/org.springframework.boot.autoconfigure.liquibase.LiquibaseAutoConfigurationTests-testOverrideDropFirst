@@ -1,0 +1,10 @@
+EnvironmentTestUtils
+testOverrideDropFirst
+addEnvironment
+assertTrue
+refresh
+getBean
+isDropFirst
+liquibase.drop-first:true
+liquibase
+register

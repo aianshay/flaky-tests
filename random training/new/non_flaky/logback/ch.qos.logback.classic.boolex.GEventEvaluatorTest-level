@@ -1,0 +1,5 @@
+makeEvent
+doEvaluateAndCheck
+level
+e.level == DEBUG
+event

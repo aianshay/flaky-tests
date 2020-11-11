@@ -1,0 +1,15 @@
+next
+getClass
+values
+refresh
+assertEquals
+EnvironmentTestUtils
+health.rabbit.enabled:false
+getBeansOfType
+iterator
+size
+addEnvironment
+notRabbitHealthIndicator
+beans
+health.diskspace.enabled:false
+register
