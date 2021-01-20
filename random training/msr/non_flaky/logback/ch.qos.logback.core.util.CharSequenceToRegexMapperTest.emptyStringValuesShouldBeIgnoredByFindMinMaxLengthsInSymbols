@@ -1,8 +1,0 @@
-aaa
-
-findMinMaxLengthsInSymbols
-assertEquals
-results
-emptyStringValuesShouldBeIgnoredByFindMinMaxLengthsInSymbols
-symbols
-CharSequenceToRegexMapper

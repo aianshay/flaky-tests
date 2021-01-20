@@ -1,7 +1,0 @@
-getNumIdle
-clientPool
-testShutdown
-assertEquals
-getNumBlockedThreads
-getNumActive
-shutdown

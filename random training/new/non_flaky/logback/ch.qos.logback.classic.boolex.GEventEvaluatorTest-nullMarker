@@ -1,5 +1,0 @@
-makeEvent
-doEvaluateAndCheck
-e.marker?.name == 'YELLOW'
-nullMarker
-event

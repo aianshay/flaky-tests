@@ -1,5 +1,0 @@
-makeEvent
-doEvaluateAndCheck
-e.message == 'x'
-event
-getLoggerContextVO

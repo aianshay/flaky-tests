@@ -1,9 +1,0 @@
-server
-enqueue
-getUrl
-noEntity
-post
-toURI
-client
-execute
-/

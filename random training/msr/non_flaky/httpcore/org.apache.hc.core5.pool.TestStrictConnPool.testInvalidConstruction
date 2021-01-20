@@ -1,4 +1,0 @@
-fail
-Assert
-testInvalidConstruction
-IllegalArgumentException should have been thrown

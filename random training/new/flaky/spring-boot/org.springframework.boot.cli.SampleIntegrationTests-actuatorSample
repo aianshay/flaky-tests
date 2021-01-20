@@ -1,6 +1,0 @@
-actuator.groovy
-actuatorSample
-run
-assertEquals
-{"message":"Hello World!"}
-getHttpOutput

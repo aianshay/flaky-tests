@@ -1,7 +1,0 @@
-nonExistingTestScript
-Got no exception when executing an non-existing application
-fail
-executor
-cl
-testExecuteNonExistingApplication
-execute

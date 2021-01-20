@@ -1,5 +1,0 @@
-mockRequest
-assertNull
-create
-victim
-shouldCreateNullCacheKeyWhenRequestDoesNotContainEnoughInfo

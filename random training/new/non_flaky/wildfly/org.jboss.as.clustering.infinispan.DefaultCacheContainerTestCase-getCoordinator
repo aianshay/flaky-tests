@@ -1,7 +1,0 @@
-result
-getCoordinator
-thenReturn
-expected
-mock
-assertSame
-when

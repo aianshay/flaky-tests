@@ -1,7 +1,0 @@
-.gz
-%d{yyyy-MM-dd, aux}/
-withMissingTargetDirWithCompression
-NO_RESTART
-test7
-defaultTest
-FILE_OPTION_SET

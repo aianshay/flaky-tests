@@ -1,7 +1,0 @@
-path
-methodDir
-assertMetricsContents
-toURI
-toString
-testSilentExistingWrite
-doAppendTest

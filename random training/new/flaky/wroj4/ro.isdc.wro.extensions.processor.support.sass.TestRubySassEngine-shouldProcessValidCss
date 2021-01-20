@@ -1,9 +1,0 @@
-process
-#element {color: red;}
-Assert
-shouldProcessValidCss
-engine
-#element {
-  color: red; }
-
-assertEquals

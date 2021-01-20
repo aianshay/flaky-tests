@@ -1,7 +1,0 @@
-HConsistencyLevel
-get
-testReadWriteSame
-assertEquals
-OperationType
-configurableConsistencyLevel
-MyColumnFamily

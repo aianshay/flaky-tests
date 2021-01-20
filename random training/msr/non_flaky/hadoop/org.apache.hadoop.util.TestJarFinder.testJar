@@ -1,8 +1,0 @@
-Assert
-assertTrue
-exists
-jar
- picking a class that is for sure in a JAR in the classpath
-getJar
-JarFinder
-testJar

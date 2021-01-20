@@ -1,9 +1,0 @@
-HConsistencyLevel
-get
-assertEquals
-OperationType
-setDefaultWriteConsistencyLevel
-configurableConsistencyLevel
-setWriteCfConsistencyLevels
-MyColumnFamily
-testDefaults

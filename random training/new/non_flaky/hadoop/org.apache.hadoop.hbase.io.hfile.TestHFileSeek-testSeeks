@@ -1,9 +1,0 @@
-createTFile
-path
-testSeeks
-doCreate
-doRead
-options
-seekTFile
-fs
-delete

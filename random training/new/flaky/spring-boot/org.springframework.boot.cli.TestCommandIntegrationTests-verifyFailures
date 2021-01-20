@@ -1,7 +1,0 @@
-output
-failures.groovy
-test
-verifyFailures
-containsString
-Tests run: 5,  Failures: 3
-assertThat

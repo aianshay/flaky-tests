@@ -1,8 +1,0 @@
-/version/cluster
-assertTrue
-response
-get
-MIMETYPE_JSON
-testGetStorageClusterVersionJSON
-client
-getCode

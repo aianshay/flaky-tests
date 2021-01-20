@@ -1,8 +1,0 @@
-output
-Hello World
-contains
-httpSample
-assertTrue
-http.groovy
-Wrong output: 
-run

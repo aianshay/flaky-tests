@@ -1,6 +1,0 @@
- thread
-addAppender
-checkThatStartMethodIsIdempotent
-start
-lossyAsyncAppender
-asyncAppenderBase

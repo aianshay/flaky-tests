@@ -1,0 +1,48 @@
+=== Run information ===
+
+Scheme:       weka.classifiers.trees.RandomForest -P 100 -I 10 -num-slots 1 -K 0 -M 1.0 -V 0.001 -S 1
+Relation:     _home_supun_Documents_wekafiles_dataset2_Tokens_arff_docs__home_supun_Documents_wekafiles_dataset2_LOC-weka.filters.unsupervised.attribute.Remove-R2_java_keywords.arff-weka.filters.unsupervised.attribute.Remove-R3-weka.filters.unsupervised.attribute.StringToWordVector-R1-W1000-prune-rate-1.0-N0-stemmerweka.core.stemmers.SnowballStemmer-stopwords-handlerweka.core.stopwords.MultiStopwords-M1-tokenizerweka.core.tokenizers.WordTokenizer -delimiters " \r\n\t.,;:\'\"()?!"
+Instances:    2804
+Attributes:   1609
+              [list of attributes omitted]
+Test mode:    split 80.0% train, remainder test
+
+=== Classifier model (full training set) ===
+
+RandomForest
+
+Bagging with 10 iterations and base learner
+
+weka.classifiers.trees.RandomTree -K 0 -M 1.0 -V 0.001 -S 1 -do-not-check-capabilities
+
+Time taken to build model: 1.25 seconds
+
+=== Evaluation on test split ===
+
+Time taken to test model on test split: 0.02 seconds
+
+=== Summary ===
+
+Correctly Classified Instances         514               91.6221 %
+Incorrectly Classified Instances        47                8.3779 %
+Kappa statistic                          0.8326
+Mean absolute error                      0.1729
+Root mean squared error                  0.266 
+Relative absolute error                 34.5798 %
+Root relative squared error             53.2016 %
+Total Number of Instances              561     
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0.949    0.116    0.889      0.949    0.918      0.834    0.970     0.954     Non_Flakey
+                 0.884    0.051    0.947      0.884    0.914      0.834    0.970     0.972     Flakey
+Weighted Avg.    0.916    0.083    0.918      0.916    0.916      0.834    0.970     0.963     
+
+=== Confusion Matrix ===
+
+   a   b   <-- classified as
+ 263  14 |   a = Non_Flakey
+  33 251 |   b = Flakey
+
+

@@ -1,6 +1,0 @@
- create the framework without deleting the default tests.
-adapter
-framework
-runTests
-setAdapter
-defaultTests

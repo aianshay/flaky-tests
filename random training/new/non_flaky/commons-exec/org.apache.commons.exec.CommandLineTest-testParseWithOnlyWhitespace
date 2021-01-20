@@ -1,6 +1,0 @@
-  
-fail
-CommandLine
-IllegalArgumentException must be thrown due to incorrect command line
-parse
-testParseWithOnlyWhitespace

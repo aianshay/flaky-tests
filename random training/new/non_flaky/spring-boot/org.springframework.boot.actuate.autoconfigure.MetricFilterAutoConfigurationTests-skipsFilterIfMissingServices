@@ -1,7 +1,0 @@
-getBeansOfType
-skipsFilterIfMissingServices
-size
-context
-equalTo
-assertThat
-close

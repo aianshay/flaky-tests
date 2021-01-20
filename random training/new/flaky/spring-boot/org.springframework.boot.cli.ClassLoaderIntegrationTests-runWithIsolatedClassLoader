@@ -1,8 +1,0 @@
-classloader-test-app.groovy
-output
-runWithIsolatedClassLoader
-getName
-HasClasses-false-true-false
-containsString
-run
-assertThat

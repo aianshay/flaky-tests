@@ -1,6 +1,0 @@
-Session.getProperty() with relative path must throw a RepositoryException
-some-relative-path
-fail
-getProperty
-getAdminSession
-getPropertyWithRelativePath

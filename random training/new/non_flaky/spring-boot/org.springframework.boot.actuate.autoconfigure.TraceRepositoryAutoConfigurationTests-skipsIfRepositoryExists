@@ -1,7 +1,0 @@
-getBeansOfType
-size
-context
-equalTo
-skipsIfRepositoryExists
-assertThat
-close

@@ -1,9 +1,0 @@
-decorate
-shouldDecorateCacheStrategy
-original
-Assert
-getDecoratedObject
-assertTrue
-DefaultSynchronizedCacheStrategyDecorator
-victim
-assertSame

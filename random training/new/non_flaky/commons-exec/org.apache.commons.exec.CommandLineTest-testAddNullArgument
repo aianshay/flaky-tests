@@ -1,7 +1,0 @@
-addArgument
-test
-toStrings
-testAddNullArgument
-toString
-assertEquals
-cmdl

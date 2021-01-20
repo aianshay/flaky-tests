@@ -1,9 +1,0 @@
-getName
-dfsCluster
-assertNotNull
-merge
-HMerge
-conf
-getFileSystem
-testMergeTable
-desc

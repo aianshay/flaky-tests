@@ -1,7 +1,0 @@
-makeEvent
-e.message ==~ /xyz|wor/
-doEvaluateAndCheck
-msgRegex
-e.message =~ /xyz|wor/
-event
-Hello world

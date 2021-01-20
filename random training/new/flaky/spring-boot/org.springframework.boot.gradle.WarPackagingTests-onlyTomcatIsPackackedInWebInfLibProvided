@@ -1,4 +1,0 @@
-tomcat
-onlyTomcatIsPackackedInWebInfLibProvided
-checkWebInfEntriesForServletContainer
-TOMCAT_EXPECTED_IN_WEB_INF_LIB_PROVIDED

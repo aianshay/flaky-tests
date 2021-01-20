@@ -1,5 +1,0 @@
-play
-server
-CONNECT
-setInvalidRequestMethodConnect
-assertInvalidRequestMethod

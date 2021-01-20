@@ -1,4 +1,0 @@
-FindClass
-org.apache.hadoop.util.TestFindClass$PrivateClass
-run
-testCreateFailsPrivateClass

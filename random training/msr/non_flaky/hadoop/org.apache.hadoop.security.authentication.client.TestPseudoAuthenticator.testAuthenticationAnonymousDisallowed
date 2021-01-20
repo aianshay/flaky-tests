@@ -1,6 +1,0 @@
-getAuthenticationHandlerConfiguration
-_testAuthentication
-testAuthenticationAnonymousDisallowed
-auth
-AuthenticatorTestCase
-setAuthenticationHandlerConfig

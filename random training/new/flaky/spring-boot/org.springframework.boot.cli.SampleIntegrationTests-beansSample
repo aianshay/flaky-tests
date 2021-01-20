@@ -1,9 +1,0 @@
-output
-Hello World!
-contains
-beans.groovy
-beansSample
-assertTrue
-Wrong output: 
-run
-getHttpOutput

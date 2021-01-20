@@ -1,9 +1,0 @@
-addHeader
-contains
-getHeaders
-assertTrue
-etag
-If-None-Match: v1
-assertConditionallyCached
-conditionalRequest
-ETag: v1

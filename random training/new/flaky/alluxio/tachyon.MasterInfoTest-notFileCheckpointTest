@@ -1,9 +1,0 @@
-/testFile
-getFileId
-Assert
-addCheckpoint
-assertTrue
-/testPath
-mMasterInfo
-mkdir
-notFileCheckpointTest

@@ -1,7 +1,0 @@
-**/*.groovy
-Hello World
-runPathPattern
-containsString
-run
-assertThat
-getOutput

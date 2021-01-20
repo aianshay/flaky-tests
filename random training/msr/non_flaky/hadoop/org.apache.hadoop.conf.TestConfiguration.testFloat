@@ -1,7 +1,0 @@
-setFloat
-configuration
-DOUBLE_DELTA
-assertEquals
-getFloat
-value
-testFloat

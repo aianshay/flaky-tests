@@ -1,6 +1,0 @@
-Project,sha,class_,method
-cloudera.oryx,54cc78b4ef8381fd13aaaebec71d10b81a465ecb,com.cloudera.oryx.common.parallel.ExecutorUtilsTest,testNow
-cloudera.oryx,81e2d5b715f7fc7c84cf5633f2d7be733a32687e,com.cloudera.oryx.rdf.computation.WineQualityIT,testWineQuality
-cloudera.oryx,b50377bdd834f77dc4c5061727c5d57105157434,com.cloudera.oryx.rdf.computation.WineQualityIT,testWineQuality
-cloudera.oryx,e6d93df51ed185bab6e034f54691cec78ea57e34,com.cloudera.oryx.rdf.computation.WineQualityIT,testWineQuality
-cloudera.oryx,ff986198c59485a965dc960c13bca652322819b1,com.cloudera.oryx.rdf.computation.WineQualityIT,testWineQuality

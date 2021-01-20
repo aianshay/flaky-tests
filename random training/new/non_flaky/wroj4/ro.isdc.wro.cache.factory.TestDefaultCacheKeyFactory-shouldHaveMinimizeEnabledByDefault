@@ -1,6 +1,0 @@
-Context
-get
-isMinimizeEnabled
-assertEquals
-shouldHaveMinimizeEnabledByDefault
-getConfig

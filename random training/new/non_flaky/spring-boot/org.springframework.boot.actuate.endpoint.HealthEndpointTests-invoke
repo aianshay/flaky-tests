@@ -1,6 +1,0 @@
-Status
-equalTo
-invoke
-getStatus
-assertThat
-getEndpointBean

@@ -1,7 +1,0 @@
-actual
-Count.getUsage
--count [-q] [-h] [-v] [-t [<storage type>]] [-u] [-x] [-e] <path> ...
-expected
-count
-assertEquals
-getUsage

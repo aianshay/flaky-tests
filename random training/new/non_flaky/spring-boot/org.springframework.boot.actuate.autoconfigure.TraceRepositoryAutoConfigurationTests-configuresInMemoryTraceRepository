@@ -1,5 +1,0 @@
-assertNotNull
-context
-getBean
-configuresInMemoryTraceRepository
-close

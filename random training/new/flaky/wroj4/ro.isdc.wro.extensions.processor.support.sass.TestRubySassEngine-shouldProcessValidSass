@@ -1,9 +1,0 @@
-process
-Assert
-shouldProcessValidSass
-engine
-#element { #child {color: red;}}
-#element #child {
-  color: red; }
-
-assertEquals

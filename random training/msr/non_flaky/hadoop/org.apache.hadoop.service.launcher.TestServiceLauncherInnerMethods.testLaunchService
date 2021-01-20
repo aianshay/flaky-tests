@@ -1,8 +1,0 @@
-null service from 
-stop
-service
-assertNotNull
-launchService
-testLaunchService
-getService
-launcher

@@ -1,6 +1,0 @@
-deviceSample
-Hello Normal Device!
-run
-assertEquals
-device.groovy
-getHttpOutput

@@ -1,7 +1,0 @@
-output
-test
-OK (1 test)
-containsString
-assertThat
-integration_auto.groovy
-integrationAutoConfigEmbeddedTest

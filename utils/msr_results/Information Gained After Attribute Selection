@@ -1,0 +1,141 @@
+=== Run information ===
+
+Evaluator:    weka.attributeSelection.InfoGainAttributeEval 
+Search:       weka.attributeSelection.Ranker -T 0.02 -N -1
+Relation:     _home_supun_Documents_wekafiles_dataset2_Tokens_arff_docs__home_supun_Documents_wekafiles_dataset2_LOC-weka.filters.unsupervised.attribute.Remove-R2_java_keywords.arff-weka.filters.unsupervised.attribute.Remove-R3-weka.filters.unsupervised.attribute.StringToWordVector-R1-W1000-prune-rate-1.0-N0-stemmerweka.core.stemmers.SnowballStemmer-stopwords-handlerweka.core.stopwords.MultiStopwords-M1-tokenizerweka.core.tokenizers.WordTokenizer -delimiters " \r\n\t.,;:\'\"()?!"
+Instances:    2804
+Attributes:   1609
+              [list of attributes omitted]
+Evaluation mode:    evaluate on all training data
+
+
+
+=== Attribute Selection on all input data ===
+
+Search Method:
+	Attribute ranking.
+	Threshold for discarding attributes:   0.02  
+
+Attribute Evaluator (supervised, Class (nominal): 59 @@class@@):
+	Information Gain Ranking Filter
+
+Ranked attributes:
+ 0.2053     1402 job
+ 0.1449     1563 table
+ 0.1419      549 id
+ 0.1366     1197 action
+ 0.136      1455 oozie
+ 0.131       887 services
+ 0.1192     1263 coord
+ 0.1077     1366 getid
+ 0.107      1270 coordinator
+ 0.1062     1099 xml
+ 0.0978        1 lines_of_code
+ 0.0914     1595 workflow
+ 0.0885     1374 getstatus
+ 0.0874       47 throws_keyword
+ 0.0845      820 record
+ 0.0781     1412 jpa
+ 0.0753     1413 jpaservice
+ 0.0733      885 service
+ 0.0721     1589 wf
+ 0.0689     1272 coordinatorjob
+ 0.0682     1363 getfilesystem
+ 0.0619     1271 coordinatoraction
+ 0.0603      159 app
+ 0.0598      478 get
+ 0.0561      249 case
+ 0.0557     1214 addrecordtocoordjobtable
+ 0.0534      411 execute
+ 0.048       271 cluster
+ 0.0476      959 system
+ 0.0467     1335 evaluate
+ 0.0466      852 return
+ 0.0461     1301 dateutils
+ 0.0456      712 node
+ 0.0453      990 thenreturn
+ 0.0453      686 mockito
+ 0.0453      938 status
+ 0.0421      330 date
+ 0.0415     1598 workflowjob
+ 0.0411     1513 runtest
+ 0.0408     1128 00z
+ 0.0408     1364 getfstestcasedir
+ 0.0407      240 call
+ 0.0401     1251 cmd
+ 0.04       1410 jobid
+ 0.0389       58 keywordcount
+ 0.0385     1575 tz
+ 0.0382     1207 actions
+ 0.0379     1074 wait
+ 0.0374     1464 parsedateoozietz
+ 0.037      1236 bundle
+ 0.037      1213 addrecordtocoordactiontable
+ 0.0368     1311 dfs
+ 0.0366     1597 workflowinstance
+ 0.0351     1265 coord-action-get
+ 0.0347      134 add
+ 0.0336     1456 oozieclient
+ 0.0332     1586 waitfor
+ 0.0329     1224 apppath
+ 0.0325     1397 is_security_enabled
+ 0.0325     1376 gettestuser
+ 0.0317     1596 workflowaction
+ 0.0314     1057 utils
+ 0.0311      713 nodes
+ 0.0306     1506 restconstants
+ 0.0306     1560 t01
+ 0.0304       82 00
+ 0.0302     1008 to
+ 0.03       1396 is_
+ 0.0295     1362 geterrorcode
+ 0.0295     1453 numdatanodes
+ 0.0293      258 charsets
+ 0.0291     1375 gettestcasedir
+ 0.0288     1332 errorcode
+ 0.0287      267 client
+ 0.0285      927 standard
+ 0.0284     1216 addrecordtowfjobtable
+ 0.0282     1520 security_
+ 0.0278      928 standardcharsets
+ 0.0276     1201 action2
+ 0.0276     1212 addrecordtobundlejobtable
+ 0.0274      458 for
+ 0.0266      387 end
+ 0.0264      763 parse
+ 0.0263     1258 constants
+ 0.0258     1200 action1
+ 0.0254     1528 setsystemproperty
+ 0.0251     1323 el
+ 0.0249     1069 verify
+ 0.0243       38 return_keyword
+ 0.0236     1489 randomutils
+ 0.0231        4 boolean_keyword
+ 0.0228     1357 functions
+ 0.0225     1104 z
+ 0.0223      380 enabled
+ 0.0222     1117 //
+ 0.0222     1250 classes
+ 0.0221      662 matchers
+ 0.0221     1509 row
+ 0.0221     1457 oozieurl
+ 0.0221     1360 getcontexturl
+ 0.0217     1505 rest
+ 0.0216      465 fs
+ 0.0214      348 dir
+ 0.0214     1512 running
+ 0.0214     1109 ${coord
+ 0.0214     1290 dag
+ 0.021      1326 end_
+ 0.0206     1327 end_points
+ 0.0206     1208 actionxml
+ 0.0206     1523 servlet_classes
+ 0.0206     1585 waitactive
+ 0.0203     1359 getconf
+ 0.0203     1273 coordjob
+ 0.0201      329 data
+ 0.02        218 block
+
+Selected attributes: 1402,1563,549,1197,1455,887,1263,1366,1270,1099,1,1595,1374,47,820,1412,1413,885,1589,1272,1363,1271,159,478,249,1214,411,271,959,1335,852,1301,712,990,686,938,330,1598,1513,1128,1364,240,1251,1410,58,1575,1207,1074,1464,1236,1213,1311,1597,1265,134,1456,1586,1224,1397,1376,1596,1057,713,1506,1560,82,1008,1396,1362,1453,258,1375,1332,267,927,1216,1520,928,1201,1212,458,387,763,1258,1200,1528,1323,1069,38,1489,4,1357,1104,380,1117,1250,662,1509,1457,1360,1505,465,348,1512,1109,1290,1326,1327,1208,1523,1585,1359,1273,329,218 : 115
+
+

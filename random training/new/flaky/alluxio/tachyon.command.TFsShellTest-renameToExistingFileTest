@@ -1,9 +1,0 @@
-/testFolder
-mFsShell
-rename
-renameToExistingFileTest
-mkdir
-getCommandOutput
-toCompare
-append
-/testFolder1

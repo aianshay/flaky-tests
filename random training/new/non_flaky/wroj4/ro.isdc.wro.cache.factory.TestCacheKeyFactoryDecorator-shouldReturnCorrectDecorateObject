@@ -1,5 +1,0 @@
-shouldReturnCorrectDecorateObject
-mockCacheKeyFactory
-getDecoratedObject
-victim
-assertSame

@@ -1,9 +1,0 @@
-fail
-Assert
-ae
-Java assert does not work.
-LOG
-Good! Java assert is on.
-testJavaAssert
-The AssertionError is expected.
-info

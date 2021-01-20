@@ -1,5 +1,0 @@
-AvroTestUtil
-{"type":"string","java-class":"org.apache.hadoop.io.Text"}
-testReflect
-foo
-testAvroReflect

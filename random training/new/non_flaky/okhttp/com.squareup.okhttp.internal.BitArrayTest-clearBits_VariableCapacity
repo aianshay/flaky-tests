@@ -1,7 +1,0 @@
-clearBits_VariableCapacity
-b
-set
-assertTrue
-clear
-isEmpty
-toIntegerList

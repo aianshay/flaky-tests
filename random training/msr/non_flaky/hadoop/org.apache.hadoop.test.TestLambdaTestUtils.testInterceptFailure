@@ -1,9 +1,0 @@
-
-   * Java 8 Examples go below this line.
-   
-intercept
-assertNotNull
-expected
-assertExceptionContains
-testInterceptFailure
-ioe

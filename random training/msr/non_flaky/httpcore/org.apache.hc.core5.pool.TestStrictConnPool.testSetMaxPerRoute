@@ -1,7 +1,0 @@
-testSetMaxPerRoute
-Assert
-somehost
-pool
-setMaxPerRoute
-assertEquals
-getMaxPerRoute

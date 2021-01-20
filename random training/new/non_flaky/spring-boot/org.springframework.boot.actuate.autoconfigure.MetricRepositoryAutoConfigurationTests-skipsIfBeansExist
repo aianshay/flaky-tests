@@ -1,7 +1,0 @@
-getBeansOfType
-size
-skipsIfBeansExist
-context
-equalTo
-assertThat
-close

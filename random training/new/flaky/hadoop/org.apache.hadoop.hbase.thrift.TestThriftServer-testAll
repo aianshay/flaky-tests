@@ -1,5 +1,0 @@
-doTestTableCreateDrop
-doTestTableMutations
-doTestTableTimestampsAndColumns
-doTestTableScanners
-testAll

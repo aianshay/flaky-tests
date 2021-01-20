@@ -1,6 +1,0 @@
-/testFile
-mFsShell
-Assert
-assertEquals
-rm
-rmNotExistingFileTest

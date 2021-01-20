@@ -1,7 +1,0 @@
-renameFileTest2
-Assert
-rename
-assertTrue
-/root/testFile1
-mTfs
-createFile

@@ -1,8 +1,0 @@
-formatDate
-Cache-Control: s-maxage=60
-Date: 
-addHeader
-Cache-Control: max-age=180
-assertFullyCached
-TimeUnit
-maxAgePreferredOverLowerSharedMaxAge

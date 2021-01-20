@@ -1,7 +1,0 @@
-getCacheManagerConfiguration
-result
-build
-thenReturn
-global
-assertSame
-when

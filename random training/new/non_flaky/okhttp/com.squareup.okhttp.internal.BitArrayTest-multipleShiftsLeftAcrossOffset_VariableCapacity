@@ -1,7 +1,0 @@
-b
-shiftLeft
-multipleShiftsLeftAcrossOffset_VariableCapacity
-set
-assertEquals
-toIntegerList
-asList

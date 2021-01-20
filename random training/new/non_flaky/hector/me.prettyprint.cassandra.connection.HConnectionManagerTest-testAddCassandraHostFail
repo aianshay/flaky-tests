@@ -1,6 +1,0 @@
-cassandraHost
-connectionManager
-assertFalse
-testAddCassandraHostFail
-addCassandraHost
-127.0.0.1

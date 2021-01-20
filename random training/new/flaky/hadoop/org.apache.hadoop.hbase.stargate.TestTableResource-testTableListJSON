@@ -1,8 +1,0 @@
-response
-get
-testTableListJSON
-MIMETYPE_JSON
-client
-assertEquals
-getCode
-/

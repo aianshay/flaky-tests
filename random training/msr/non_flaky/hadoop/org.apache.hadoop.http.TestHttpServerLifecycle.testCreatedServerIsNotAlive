@@ -1,4 +1,0 @@
-server
-createTestServer
-testCreatedServerIsNotAlive
-assertNotLive

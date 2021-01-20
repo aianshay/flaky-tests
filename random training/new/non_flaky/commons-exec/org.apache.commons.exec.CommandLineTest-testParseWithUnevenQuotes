@@ -1,6 +1,0 @@
-fail
-CommandLine
-test "foo bar
-parse
-IllegalArgumentException must be thrown due to uneven quotes
-testParseWithUnevenQuotes

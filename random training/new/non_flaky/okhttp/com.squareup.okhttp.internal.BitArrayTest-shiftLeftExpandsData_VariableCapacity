@@ -1,7 +1,0 @@
-b
-shiftLeft
-set
-assertEquals
-toIntegerList
-shiftLeftExpandsData_VariableCapacity
-asList

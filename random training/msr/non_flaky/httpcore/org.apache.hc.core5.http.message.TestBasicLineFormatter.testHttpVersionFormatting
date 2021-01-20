@@ -1,8 +1,0 @@
-buf
-Assert
-formatProtocolVersion
-HTTP/1.1
-toString
-assertEquals
-HttpVersion
-testHttpVersionFormatting

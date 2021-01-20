@@ -1,9 +1,0 @@
-ex
-reps
-count
-await
-assertEquals
-TIMEOUT
-testAwaitLambdaRepetitions
- lambda expression which will succeed after exactly 4 probes
-timeout

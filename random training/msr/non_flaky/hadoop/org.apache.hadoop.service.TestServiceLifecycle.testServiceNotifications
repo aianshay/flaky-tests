@@ -1,8 +1,0 @@
-svc
-init
-stop
-testServiceNotifications
-listener
-start
-registerServiceListener
-assertEventCount

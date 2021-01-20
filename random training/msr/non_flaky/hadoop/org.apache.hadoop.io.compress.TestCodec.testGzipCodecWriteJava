@@ -1,5 +1,0 @@
-setNativeZlibLoaded
-ZlibFactory
- don't use native libs
-testGzipCodecWriteJava
-testGzipCodecWrite

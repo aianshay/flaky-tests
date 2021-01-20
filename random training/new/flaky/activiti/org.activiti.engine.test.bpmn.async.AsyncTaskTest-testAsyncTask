@@ -1,9 +1,0 @@
-createJobQuery
-startProcessInstanceByKey
-asyncTask
-waitForJobExecutorToProcessAllJobs
-count
-assertEquals
-runtimeService
-testAsyncTask
-managementService

@@ -1,7 +1,0 @@
-setProtocols
-fail
-client
-setProtocolsWithoutHttp11
-Protocol
-Arrays
-asList

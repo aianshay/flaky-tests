@@ -1,7 +1,0 @@
-CommonConfigurationKeysPublic
-testConnectionRetriesOnSocketTimeoutExceptions
- set max retries to 3
-conf
- set max retries to 0
-assertRetriesOnSocketTimeouts
-setInt

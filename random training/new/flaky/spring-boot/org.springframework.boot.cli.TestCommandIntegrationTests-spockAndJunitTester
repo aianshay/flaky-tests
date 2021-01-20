@@ -1,8 +1,0 @@
-book_and_tests.groovy
-output
-OK (2 tests)
-spockAndJunitTester
-test
-spock.groovy
-containsString
-assertThat
